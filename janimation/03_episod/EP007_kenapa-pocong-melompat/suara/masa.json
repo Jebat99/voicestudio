@@ -1,0 +1,733 @@
+{
+ "durasi": 62.085,
+ "baris": [
+  {
+   "i": 0,
+   "watak": "N",
+   "teks": "Pernah tak korang terfikir… kenapa pocong kena melompat?",
+   "mula": 0.25,
+   "tamat": 4.257,
+   "kata": [
+    {
+     "w": "Pernah",
+     "mula": 0.25,
+     "tamat": 0.695
+    },
+    {
+     "w": "tak",
+     "mula": 0.695,
+     "tamat": 0.918
+    },
+    {
+     "w": "korang",
+     "mula": 0.918,
+     "tamat": 1.363
+    },
+    {
+     "w": "terfikir",
+     "mula": 1.363,
+     "tamat": 2.031
+    },
+    {
+     "w": "kenapa",
+     "mula": 2.031,
+     "tamat": 2.699
+    },
+    {
+     "w": "pocong",
+     "mula": 2.699,
+     "tamat": 3.144
+    },
+    {
+     "w": "kena",
+     "mula": 3.144,
+     "tamat": 3.589
+    },
+    {
+     "w": "melompat?",
+     "mula": 3.589,
+     "tamat": 4.257
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "watak": "N",
+   "teks": "Malam itu, Jamil pulang seorang diri melalui jalan kampung yang gelap.",
+   "mula": 4.957,
+   "tamat": 9.191,
+   "kata": [
+    {
+     "w": "Malam",
+     "mula": 4.957,
+     "tamat": 5.342
+    },
+    {
+     "w": "itu,",
+     "mula": 5.342,
+     "tamat": 5.727
+    },
+    {
+     "w": "Jamil",
+     "mula": 5.727,
+     "tamat": 6.112
+    },
+    {
+     "w": "pulang",
+     "mula": 6.112,
+     "tamat": 6.497
+    },
+    {
+     "w": "seorang",
+     "mula": 6.497,
+     "tamat": 6.882
+    },
+    {
+     "w": "diri",
+     "mula": 6.882,
+     "tamat": 7.266
+    },
+    {
+     "w": "melalui",
+     "mula": 7.266,
+     "tamat": 7.844
+    },
+    {
+     "w": "jalan",
+     "mula": 7.844,
+     "tamat": 8.229
+    },
+    {
+     "w": "kampung",
+     "mula": 8.229,
+     "tamat": 8.614
+    },
+    {
+     "w": "yang",
+     "mula": 8.614,
+     "tamat": 8.806
+    },
+    {
+     "w": "gelap.",
+     "mula": 8.806,
+     "tamat": 9.191
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "watak": "N",
+   "teks": "Tiba-tiba, dia terdengar bunyi pelik di belakangnya.",
+   "mula": 9.491,
+   "tamat": 12.727,
+   "kata": [
+    {
+     "w": "Tiba-tiba,",
+     "mula": 9.491,
+     "tamat": 10.252
+    },
+    {
+     "w": "dia",
+     "mula": 10.252,
+     "tamat": 10.443
+    },
+    {
+     "w": "terdengar",
+     "mula": 10.443,
+     "tamat": 11.014
+    },
+    {
+     "w": "bunyi",
+     "mula": 11.014,
+     "tamat": 11.395
+    },
+    {
+     "w": "pelik",
+     "mula": 11.395,
+     "tamat": 11.775
+    },
+    {
+     "w": "di",
+     "mula": 11.775,
+     "tamat": 11.966
+    },
+    {
+     "w": "belakangnya.",
+     "mula": 11.966,
+     "tamat": 12.727
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "watak": "JAMIL",
+   "teks": "Siapa tu?",
+   "mula": 14.027,
+   "tamat": 14.846,
+   "kata": [
+    {
+     "w": "Siapa",
+     "mula": 14.027,
+     "tamat": 14.573
+    },
+    {
+     "w": "tu?",
+     "mula": 14.573,
+     "tamat": 14.846
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "watak": "N",
+   "teks": "Bila dia toleh, tiada sesiapa. Jamil terus berjalan laju-laju.",
+   "mula": 15.446,
+   "tamat": 19.789,
+   "kata": [
+    {
+     "w": "Bila",
+     "mula": 15.446,
+     "tamat": 15.86
+    },
+    {
+     "w": "dia",
+     "mula": 15.86,
+     "tamat": 16.067
+    },
+    {
+     "w": "toleh,",
+     "mula": 16.067,
+     "tamat": 16.48
+    },
+    {
+     "w": "tiada",
+     "mula": 16.48,
+     "tamat": 16.894
+    },
+    {
+     "w": "sesiapa.",
+     "mula": 16.894,
+     "tamat": 17.514
+    },
+    {
+     "w": "Jamil",
+     "mula": 17.514,
+     "tamat": 17.928
+    },
+    {
+     "w": "terus",
+     "mula": 17.928,
+     "tamat": 18.342
+    },
+    {
+     "w": "berjalan",
+     "mula": 18.342,
+     "tamat": 18.962
+    },
+    {
+     "w": "laju-laju.",
+     "mula": 18.962,
+     "tamat": 19.789
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "watak": "N",
+   "teks": "Tapi bunyi itu semakin dekat… dan semakin laju!",
+   "mula": 20.089,
+   "tamat": 23.436,
+   "kata": [
+    {
+     "w": "Tapi",
+     "mula": 20.089,
+     "tamat": 20.483
+    },
+    {
+     "w": "bunyi",
+     "mula": 20.483,
+     "tamat": 20.877
+    },
+    {
+     "w": "itu",
+     "mula": 20.877,
+     "tamat": 21.27
+    },
+    {
+     "w": "semakin",
+     "mula": 21.27,
+     "tamat": 21.861
+    },
+    {
+     "w": "dekat",
+     "mula": 21.861,
+     "tamat": 22.255
+    },
+    {
+     "w": "dan",
+     "mula": 22.255,
+     "tamat": 22.452
+    },
+    {
+     "w": "semakin",
+     "mula": 22.452,
+     "tamat": 23.042
+    },
+    {
+     "w": "laju!",
+     "mula": 23.042,
+     "tamat": 23.436
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "watak": "POCONG",
+   "teks": "Jamil… Jamil…",
+   "mula": 24.536,
+   "tamat": 26.279,
+   "kata": [
+    {
+     "w": "Jamil",
+     "mula": 24.536,
+     "tamat": 25.407
+    },
+    {
+     "w": "Jamil",
+     "mula": 25.407,
+     "tamat": 26.279
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "watak": "JAMIL-JERIT",
+   "teks": "Pocong!",
+   "mula": 26.679,
+   "tamat": 27.614,
+   "kata": [
+    {
+     "w": "Pocong!",
+     "mula": 26.679,
+     "tamat": 27.614
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "watak": "N",
+   "teks": "Jamil lari sekuat hati. Pocong pula melompat mengejarnya, macam atlet lompat jauh!",
+   "mula": 28.114,
+   "tamat": 33.656,
+   "kata": [
+    {
+     "w": "Jamil",
+     "mula": 28.114,
+     "tamat": 28.54
+    },
+    {
+     "w": "lari",
+     "mula": 28.54,
+     "tamat": 28.966
+    },
+    {
+     "w": "sekuat",
+     "mula": 28.966,
+     "tamat": 29.393
+    },
+    {
+     "w": "hati.",
+     "mula": 29.393,
+     "tamat": 29.819
+    },
+    {
+     "w": "Pocong",
+     "mula": 29.819,
+     "tamat": 30.245
+    },
+    {
+     "w": "pula",
+     "mula": 30.245,
+     "tamat": 30.672
+    },
+    {
+     "w": "melompat",
+     "mula": 30.672,
+     "tamat": 31.311
+    },
+    {
+     "w": "mengejarnya,",
+     "mula": 31.311,
+     "tamat": 32.164
+    },
+    {
+     "w": "macam",
+     "mula": 32.164,
+     "tamat": 32.59
+    },
+    {
+     "w": "atlet",
+     "mula": 32.59,
+     "tamat": 33.016
+    },
+    {
+     "w": "lompat",
+     "mula": 33.016,
+     "tamat": 33.443
+    },
+    {
+     "w": "jauh!",
+     "mula": 33.443,
+     "tamat": 33.656
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "watak": "N",
+   "teks": "Jamil sempat memanjat tangga rumah. Pocong cuba melompat naik… tapi tergelincir!",
+   "mula": 33.956,
+   "tamat": 39.585,
+   "kata": [
+    {
+     "w": "Jamil",
+     "mula": 33.956,
+     "tamat": 34.406
+    },
+    {
+     "w": "sempat",
+     "mula": 34.406,
+     "tamat": 34.857
+    },
+    {
+     "w": "memanjat",
+     "mula": 34.857,
+     "tamat": 35.532
+    },
+    {
+     "w": "tangga",
+     "mula": 35.532,
+     "tamat": 35.982
+    },
+    {
+     "w": "rumah.",
+     "mula": 35.982,
+     "tamat": 36.433
+    },
+    {
+     "w": "Pocong",
+     "mula": 36.433,
+     "tamat": 36.883
+    },
+    {
+     "w": "cuba",
+     "mula": 36.883,
+     "tamat": 37.333
+    },
+    {
+     "w": "melompat",
+     "mula": 37.333,
+     "tamat": 38.009
+    },
+    {
+     "w": "naik",
+     "mula": 38.009,
+     "tamat": 38.234
+    },
+    {
+     "w": "tapi",
+     "mula": 38.234,
+     "tamat": 38.684
+    },
+    {
+     "w": "tergelincir!",
+     "mula": 38.684,
+     "tamat": 39.585
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "watak": "POCONG-LAWAK",
+   "teks": "Aduh! Tangga rumah kau tinggi sangat!",
+   "mula": 40.285,
+   "tamat": 42.893,
+   "kata": [
+    {
+     "w": "Aduh!",
+     "mula": 40.285,
+     "tamat": 40.759
+    },
+    {
+     "w": "Tangga",
+     "mula": 40.759,
+     "tamat": 41.233
+    },
+    {
+     "w": "rumah",
+     "mula": 41.233,
+     "tamat": 41.707
+    },
+    {
+     "w": "kau",
+     "mula": 41.707,
+     "tamat": 41.944
+    },
+    {
+     "w": "tinggi",
+     "mula": 41.944,
+     "tamat": 42.419
+    },
+    {
+     "w": "sangat!",
+     "mula": 42.419,
+     "tamat": 42.893
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "watak": "JAMIL",
+   "teks": "Kau nak apa dengan aku?",
+   "mula": 43.193,
+   "tamat": 44.548,
+   "kata": [
+    {
+     "w": "Kau",
+     "mula": 43.193,
+     "tamat": 43.362
+    },
+    {
+     "w": "nak",
+     "mula": 43.362,
+     "tamat": 43.532
+    },
+    {
+     "w": "apa",
+     "mula": 43.532,
+     "tamat": 43.871
+    },
+    {
+     "w": "dengan",
+     "mula": 43.871,
+     "tamat": 44.21
+    },
+    {
+     "w": "aku?",
+     "mula": 44.21,
+     "tamat": 44.548
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "watak": "POCONG",
+   "teks": "Tolong bukakan ikatan tangan aku ni…",
+   "mula": 44.898,
+   "tamat": 48.058,
+   "kata": [
+    {
+     "w": "Tolong",
+     "mula": 44.898,
+     "tamat": 45.385
+    },
+    {
+     "w": "bukakan",
+     "mula": 45.385,
+     "tamat": 46.114
+    },
+    {
+     "w": "ikatan",
+     "mula": 46.114,
+     "tamat": 46.843
+    },
+    {
+     "w": "tangan",
+     "mula": 46.843,
+     "tamat": 47.329
+    },
+    {
+     "w": "aku",
+     "mula": 47.329,
+     "tamat": 47.815
+    },
+    {
+     "w": "ni",
+     "mula": 47.815,
+     "tamat": 48.058
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "watak": "JAMIL",
+   "teks": "Kenapa?",
+   "mula": 48.408,
+   "tamat": 49.072,
+   "kata": [
+    {
+     "w": "Kenapa?",
+     "mula": 48.408,
+     "tamat": 49.072
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "watak": "POCONG-LAWAK",
+   "teks": "Hidung aku dah gatal tiga hari!",
+   "mula": 49.422,
+   "tamat": 51.543,
+   "kata": [
+    {
+     "w": "Hidung",
+     "mula": 49.422,
+     "tamat": 49.808
+    },
+    {
+     "w": "aku",
+     "mula": 49.808,
+     "tamat": 50.193
+    },
+    {
+     "w": "dah",
+     "mula": 50.193,
+     "tamat": 50.386
+    },
+    {
+     "w": "gatal",
+     "mula": 50.386,
+     "tamat": 50.772
+    },
+    {
+     "w": "tiga",
+     "mula": 50.772,
+     "tamat": 51.157
+    },
+    {
+     "w": "hari!",
+     "mula": 51.157,
+     "tamat": 51.543
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "watak": "N",
+   "teks": "Rupa-rupanya, pocong melompat sebab tangan dia terikat… dan dia cuma nak garu hidung!",
+   "mula": 52.343,
+   "tamat": 57.973,
+   "kata": [
+    {
+     "w": "Rupa-rupanya,",
+     "mula": 52.343,
+     "tamat": 53.385
+    },
+    {
+     "w": "pocong",
+     "mula": 53.385,
+     "tamat": 53.802
+    },
+    {
+     "w": "melompat",
+     "mula": 53.802,
+     "tamat": 54.428
+    },
+    {
+     "w": "sebab",
+     "mula": 54.428,
+     "tamat": 54.845
+    },
+    {
+     "w": "tangan",
+     "mula": 54.845,
+     "tamat": 55.262
+    },
+    {
+     "w": "dia",
+     "mula": 55.262,
+     "tamat": 55.471
+    },
+    {
+     "w": "terikat",
+     "mula": 55.471,
+     "tamat": 56.096
+    },
+    {
+     "w": "dan",
+     "mula": 56.096,
+     "tamat": 56.305
+    },
+    {
+     "w": "dia",
+     "mula": 56.305,
+     "tamat": 56.513
+    },
+    {
+     "w": "cuma",
+     "mula": 56.513,
+     "tamat": 56.93
+    },
+    {
+     "w": "nak",
+     "mula": 56.93,
+     "tamat": 57.139
+    },
+    {
+     "w": "garu",
+     "mula": 57.139,
+     "tamat": 57.556
+    },
+    {
+     "w": "hidung!",
+     "mula": 57.556,
+     "tamat": 57.973
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "watak": "N",
+   "teks": "Follow Janimation untuk kisah seram lawak seterusnya!",
+   "mula": 58.373,
+   "tamat": 61.885,
+   "kata": [
+    {
+     "w": "Follow",
+     "mula": 58.373,
+     "tamat": 58.763
+    },
+    {
+     "w": "Janimation",
+     "mula": 58.763,
+     "tamat": 59.543
+    },
+    {
+     "w": "untuk",
+     "mula": 59.543,
+     "tamat": 59.934
+    },
+    {
+     "w": "kisah",
+     "mula": 59.934,
+     "tamat": 60.324
+    },
+    {
+     "w": "seram",
+     "mula": 60.324,
+     "tamat": 60.714
+    },
+    {
+     "w": "lawak",
+     "mula": 60.714,
+     "tamat": 61.104
+    },
+    {
+     "w": "seterusnya!",
+     "mula": 61.104,
+     "tamat": 61.885
+    }
+   ]
+  }
+ ]
+}

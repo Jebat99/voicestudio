@@ -18,6 +18,7 @@ Status: `IDEA → KONSEP → STRUKTUR → SKRIP → MENUNGGU SUARA → STORYBOAR
 
 | EP | Tajuk | Status | Durasi | Langkah seterusnya | Tarikh pos |
 |---|---|---|---|---|---|
+| EP007 | Kenapa Pocong Melompat?! (Format D, suara dijana, Remotion) | MP4 v1 siap | 64.5 s | Pengguna semak | — |
 | EP006 | Asal Usul Pontianak — Kenapa Pontianak Suka Menjerit?! (Format D) | ANIMATIK v1 MP4 siap | 89.4 s | Pengguna semak | — |
 | EP005 | Crush Dalam Diam #4 — Aku Suka Kau! (episod akhir, Format C) | ANIMATIK v1 MP4 siap | 94.1 s | Pengguna semak; siri Crush Dalam Diam TAMAT | — |
 | EP004 | Crush Dalam Diam #3 — Kenapa Awak Baru Nak Beritahu?! (Format C) | ANIMATIK v1 MP4 siap | 80.8 s | Pengguna semak; episod akhir: AKU SUKA KAU | — |

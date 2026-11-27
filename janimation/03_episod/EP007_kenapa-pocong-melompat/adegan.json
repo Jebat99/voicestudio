@@ -1,0 +1,1188 @@
+{
+ "episod": {
+  "kod": "EP007",
+  "tajuk": "Kenapa Pocong Melompat?!",
+  "format": "D — Hikayat Seram Lawak",
+  "audio": "suara/narasi.wav",
+  "audio_campuran": "suara/campuran.wav",
+  "durasi_audio": 62.085,
+  "enjin": "remotion"
+ },
+ "sari_kata": [
+  {
+   "mula": 0.25,
+   "tamat": 4.257,
+   "teks": "Pernah tak korang terfikir… kenapa pocong kena melompat?",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Pernah",
+     "mula": 0.25,
+     "tamat": 0.695
+    },
+    {
+     "w": "tak",
+     "mula": 0.695,
+     "tamat": 0.918
+    },
+    {
+     "w": "korang",
+     "mula": 0.918,
+     "tamat": 1.363
+    },
+    {
+     "w": "terfikir",
+     "mula": 1.363,
+     "tamat": 2.031
+    },
+    {
+     "w": "kenapa",
+     "mula": 2.031,
+     "tamat": 2.699
+    },
+    {
+     "w": "pocong",
+     "mula": 2.699,
+     "tamat": 3.144
+    },
+    {
+     "w": "kena",
+     "mula": 3.144,
+     "tamat": 3.589
+    },
+    {
+     "w": "melompat?",
+     "mula": 3.589,
+     "tamat": 4.257
+    }
+   ],
+   "sembunyi": true
+  },
+  {
+   "mula": 4.957,
+   "tamat": 9.191,
+   "teks": "Malam itu, Jamil pulang seorang diri melalui jalan kampung yang gelap.",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Malam",
+     "mula": 4.957,
+     "tamat": 5.342
+    },
+    {
+     "w": "itu,",
+     "mula": 5.342,
+     "tamat": 5.727
+    },
+    {
+     "w": "Jamil",
+     "mula": 5.727,
+     "tamat": 6.112
+    },
+    {
+     "w": "pulang",
+     "mula": 6.112,
+     "tamat": 6.497
+    },
+    {
+     "w": "seorang",
+     "mula": 6.497,
+     "tamat": 6.882
+    },
+    {
+     "w": "diri",
+     "mula": 6.882,
+     "tamat": 7.266
+    },
+    {
+     "w": "melalui",
+     "mula": 7.266,
+     "tamat": 7.844
+    },
+    {
+     "w": "jalan",
+     "mula": 7.844,
+     "tamat": 8.229
+    },
+    {
+     "w": "kampung",
+     "mula": 8.229,
+     "tamat": 8.614
+    },
+    {
+     "w": "yang",
+     "mula": 8.614,
+     "tamat": 8.806
+    },
+    {
+     "w": "gelap.",
+     "mula": 8.806,
+     "tamat": 9.191
+    }
+   ]
+  },
+  {
+   "mula": 9.491,
+   "tamat": 12.727,
+   "teks": "Tiba-tiba, dia terdengar bunyi pelik di belakangnya.",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Tiba-tiba,",
+     "mula": 9.491,
+     "tamat": 10.252
+    },
+    {
+     "w": "dia",
+     "mula": 10.252,
+     "tamat": 10.443
+    },
+    {
+     "w": "terdengar",
+     "mula": 10.443,
+     "tamat": 11.014
+    },
+    {
+     "w": "bunyi",
+     "mula": 11.014,
+     "tamat": 11.395
+    },
+    {
+     "w": "pelik",
+     "mula": 11.395,
+     "tamat": 11.775
+    },
+    {
+     "w": "di",
+     "mula": 11.775,
+     "tamat": 11.966
+    },
+    {
+     "w": "belakangnya.",
+     "mula": 11.966,
+     "tamat": 12.727
+    }
+   ]
+  },
+  {
+   "mula": 14.027,
+   "tamat": 14.846,
+   "teks": "“Siapa tu?”",
+   "watak": "JAMIL",
+   "kata": [
+    {
+     "w": "Siapa",
+     "mula": 14.027,
+     "tamat": 14.573
+    },
+    {
+     "w": "tu?",
+     "mula": 14.573,
+     "tamat": 14.846
+    }
+   ]
+  },
+  {
+   "mula": 15.446,
+   "tamat": 19.789,
+   "teks": "Bila dia toleh, tiada sesiapa. Jamil terus berjalan laju-laju.",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Bila",
+     "mula": 15.446,
+     "tamat": 15.86
+    },
+    {
+     "w": "dia",
+     "mula": 15.86,
+     "tamat": 16.067
+    },
+    {
+     "w": "toleh,",
+     "mula": 16.067,
+     "tamat": 16.48
+    },
+    {
+     "w": "tiada",
+     "mula": 16.48,
+     "tamat": 16.894
+    },
+    {
+     "w": "sesiapa.",
+     "mula": 16.894,
+     "tamat": 17.514
+    },
+    {
+     "w": "Jamil",
+     "mula": 17.514,
+     "tamat": 17.928
+    },
+    {
+     "w": "terus",
+     "mula": 17.928,
+     "tamat": 18.342
+    },
+    {
+     "w": "berjalan",
+     "mula": 18.342,
+     "tamat": 18.962
+    },
+    {
+     "w": "laju-laju.",
+     "mula": 18.962,
+     "tamat": 19.789
+    }
+   ]
+  },
+  {
+   "mula": 20.089,
+   "tamat": 23.436,
+   "teks": "Tapi bunyi itu semakin dekat… dan semakin laju!",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Tapi",
+     "mula": 20.089,
+     "tamat": 20.483
+    },
+    {
+     "w": "bunyi",
+     "mula": 20.483,
+     "tamat": 20.877
+    },
+    {
+     "w": "itu",
+     "mula": 20.877,
+     "tamat": 21.27
+    },
+    {
+     "w": "semakin",
+     "mula": 21.27,
+     "tamat": 21.861
+    },
+    {
+     "w": "dekat",
+     "mula": 21.861,
+     "tamat": 22.255
+    },
+    {
+     "w": "dan",
+     "mula": 22.255,
+     "tamat": 22.452
+    },
+    {
+     "w": "semakin",
+     "mula": 22.452,
+     "tamat": 23.042
+    },
+    {
+     "w": "laju!",
+     "mula": 23.042,
+     "tamat": 23.436
+    }
+   ]
+  },
+  {
+   "mula": 24.536,
+   "tamat": 26.279,
+   "teks": "“Jamil… Jamil…”",
+   "watak": "POCONG",
+   "kata": [
+    {
+     "w": "Jamil",
+     "mula": 24.536,
+     "tamat": 25.407
+    },
+    {
+     "w": "Jamil",
+     "mula": 25.407,
+     "tamat": 26.279
+    }
+   ],
+   "gaya": "seram"
+  },
+  {
+   "mula": 26.679,
+   "tamat": 27.614,
+   "teks": "“POCONG!!”",
+   "watak": "JAMIL",
+   "kata": [
+    {
+     "w": "Pocong!",
+     "mula": 26.679,
+     "tamat": 27.614
+    }
+   ]
+  },
+  {
+   "mula": 28.114,
+   "tamat": 33.656,
+   "teks": "Jamil lari sekuat hati. Pocong pula melompat mengejarnya, macam atlet lompat jauh!",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Jamil",
+     "mula": 28.114,
+     "tamat": 28.54
+    },
+    {
+     "w": "lari",
+     "mula": 28.54,
+     "tamat": 28.966
+    },
+    {
+     "w": "sekuat",
+     "mula": 28.966,
+     "tamat": 29.393
+    },
+    {
+     "w": "hati.",
+     "mula": 29.393,
+     "tamat": 29.819
+    },
+    {
+     "w": "Pocong",
+     "mula": 29.819,
+     "tamat": 30.245
+    },
+    {
+     "w": "pula",
+     "mula": 30.245,
+     "tamat": 30.672
+    },
+    {
+     "w": "melompat",
+     "mula": 30.672,
+     "tamat": 31.311
+    },
+    {
+     "w": "mengejarnya,",
+     "mula": 31.311,
+     "tamat": 32.164
+    },
+    {
+     "w": "macam",
+     "mula": 32.164,
+     "tamat": 32.59
+    },
+    {
+     "w": "atlet",
+     "mula": 32.59,
+     "tamat": 33.016
+    },
+    {
+     "w": "lompat",
+     "mula": 33.016,
+     "tamat": 33.443
+    },
+    {
+     "w": "jauh!",
+     "mula": 33.443,
+     "tamat": 33.656
+    }
+   ]
+  },
+  {
+   "mula": 33.956,
+   "tamat": 39.585,
+   "teks": "Jamil sempat memanjat tangga rumah. Pocong cuba melompat naik… tapi tergelincir!",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Jamil",
+     "mula": 33.956,
+     "tamat": 34.406
+    },
+    {
+     "w": "sempat",
+     "mula": 34.406,
+     "tamat": 34.857
+    },
+    {
+     "w": "memanjat",
+     "mula": 34.857,
+     "tamat": 35.532
+    },
+    {
+     "w": "tangga",
+     "mula": 35.532,
+     "tamat": 35.982
+    },
+    {
+     "w": "rumah.",
+     "mula": 35.982,
+     "tamat": 36.433
+    },
+    {
+     "w": "Pocong",
+     "mula": 36.433,
+     "tamat": 36.883
+    },
+    {
+     "w": "cuba",
+     "mula": 36.883,
+     "tamat": 37.333
+    },
+    {
+     "w": "melompat",
+     "mula": 37.333,
+     "tamat": 38.009
+    },
+    {
+     "w": "naik",
+     "mula": 38.009,
+     "tamat": 38.234
+    },
+    {
+     "w": "tapi",
+     "mula": 38.234,
+     "tamat": 38.684
+    },
+    {
+     "w": "tergelincir!",
+     "mula": 38.684,
+     "tamat": 39.585
+    }
+   ]
+  },
+  {
+   "mula": 40.285,
+   "tamat": 42.893,
+   "teks": "“Aduh! Tangga rumah kau tinggi sangat!”",
+   "watak": "POCONG",
+   "kata": [
+    {
+     "w": "Aduh!",
+     "mula": 40.285,
+     "tamat": 40.759
+    },
+    {
+     "w": "Tangga",
+     "mula": 40.759,
+     "tamat": 41.233
+    },
+    {
+     "w": "rumah",
+     "mula": 41.233,
+     "tamat": 41.707
+    },
+    {
+     "w": "kau",
+     "mula": 41.707,
+     "tamat": 41.944
+    },
+    {
+     "w": "tinggi",
+     "mula": 41.944,
+     "tamat": 42.419
+    },
+    {
+     "w": "sangat!",
+     "mula": 42.419,
+     "tamat": 42.893
+    }
+   ],
+   "gaya": "seram"
+  },
+  {
+   "mula": 43.193,
+   "tamat": 44.548,
+   "teks": "“Kau nak apa dengan aku?”",
+   "watak": "JAMIL",
+   "kata": [
+    {
+     "w": "Kau",
+     "mula": 43.193,
+     "tamat": 43.362
+    },
+    {
+     "w": "nak",
+     "mula": 43.362,
+     "tamat": 43.532
+    },
+    {
+     "w": "apa",
+     "mula": 43.532,
+     "tamat": 43.871
+    },
+    {
+     "w": "dengan",
+     "mula": 43.871,
+     "tamat": 44.21
+    },
+    {
+     "w": "aku?",
+     "mula": 44.21,
+     "tamat": 44.548
+    }
+   ]
+  },
+  {
+   "mula": 44.898,
+   "tamat": 48.058,
+   "teks": "“Tolong bukakan ikatan tangan aku ni…”",
+   "watak": "POCONG",
+   "kata": [
+    {
+     "w": "Tolong",
+     "mula": 44.898,
+     "tamat": 45.385
+    },
+    {
+     "w": "bukakan",
+     "mula": 45.385,
+     "tamat": 46.114
+    },
+    {
+     "w": "ikatan",
+     "mula": 46.114,
+     "tamat": 46.843
+    },
+    {
+     "w": "tangan",
+     "mula": 46.843,
+     "tamat": 47.329
+    },
+    {
+     "w": "aku",
+     "mula": 47.329,
+     "tamat": 47.815
+    },
+    {
+     "w": "ni",
+     "mula": 47.815,
+     "tamat": 48.058
+    }
+   ],
+   "gaya": "seram"
+  },
+  {
+   "mula": 48.408,
+   "tamat": 49.072,
+   "teks": "“Kenapa?”",
+   "watak": "JAMIL",
+   "kata": [
+    {
+     "w": "Kenapa?",
+     "mula": 48.408,
+     "tamat": 49.072
+    }
+   ]
+  },
+  {
+   "mula": 49.422,
+   "tamat": 51.543,
+   "teks": "“Hidung aku dah gatal tiga hari!”",
+   "watak": "POCONG",
+   "kata": [
+    {
+     "w": "Hidung",
+     "mula": 49.422,
+     "tamat": 49.808
+    },
+    {
+     "w": "aku",
+     "mula": 49.808,
+     "tamat": 50.193
+    },
+    {
+     "w": "dah",
+     "mula": 50.193,
+     "tamat": 50.386
+    },
+    {
+     "w": "gatal",
+     "mula": 50.386,
+     "tamat": 50.772
+    },
+    {
+     "w": "tiga",
+     "mula": 50.772,
+     "tamat": 51.157
+    },
+    {
+     "w": "hari!",
+     "mula": 51.157,
+     "tamat": 51.543
+    }
+   ],
+   "gaya": "seram"
+  },
+  {
+   "mula": 52.343,
+   "tamat": 57.973,
+   "teks": "Rupa-rupanya, pocong melompat sebab tangan dia terikat… dan dia cuma nak garu hidung!",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Rupa-rupanya,",
+     "mula": 52.343,
+     "tamat": 53.385
+    },
+    {
+     "w": "pocong",
+     "mula": 53.385,
+     "tamat": 53.802
+    },
+    {
+     "w": "melompat",
+     "mula": 53.802,
+     "tamat": 54.428
+    },
+    {
+     "w": "sebab",
+     "mula": 54.428,
+     "tamat": 54.845
+    },
+    {
+     "w": "tangan",
+     "mula": 54.845,
+     "tamat": 55.262
+    },
+    {
+     "w": "dia",
+     "mula": 55.262,
+     "tamat": 55.471
+    },
+    {
+     "w": "terikat",
+     "mula": 55.471,
+     "tamat": 56.096
+    },
+    {
+     "w": "dan",
+     "mula": 56.096,
+     "tamat": 56.305
+    },
+    {
+     "w": "dia",
+     "mula": 56.305,
+     "tamat": 56.513
+    },
+    {
+     "w": "cuma",
+     "mula": 56.513,
+     "tamat": 56.93
+    },
+    {
+     "w": "nak",
+     "mula": 56.93,
+     "tamat": 57.139
+    },
+    {
+     "w": "garu",
+     "mula": 57.139,
+     "tamat": 57.556
+    },
+    {
+     "w": "hidung!",
+     "mula": 57.556,
+     "tamat": 57.973
+    }
+   ]
+  },
+  {
+   "mula": 58.373,
+   "tamat": 61.885,
+   "teks": "Follow Janimation untuk kisah seram lawak seterusnya!",
+   "watak": "N",
+   "kata": [
+    {
+     "w": "Follow",
+     "mula": 58.373,
+     "tamat": 58.763
+    },
+    {
+     "w": "Janimation",
+     "mula": 58.763,
+     "tamat": 59.543
+    },
+    {
+     "w": "untuk",
+     "mula": 59.543,
+     "tamat": 59.934
+    },
+    {
+     "w": "kisah",
+     "mula": 59.934,
+     "tamat": 60.324
+    },
+    {
+     "w": "seram",
+     "mula": 60.324,
+     "tamat": 60.714
+    },
+    {
+     "w": "lawak",
+     "mula": 60.714,
+     "tamat": 61.104
+    },
+    {
+     "w": "seterusnya!",
+     "mula": 61.104,
+     "tamat": 61.885
+    }
+   ]
+  }
+ ],
+ "cakap": [
+  {
+   "watak": "JAMIL",
+   "mula": 14.027,
+   "tamat": 14.846
+  },
+  {
+   "watak": "POCONG",
+   "mula": 24.536,
+   "tamat": 26.279
+  },
+  {
+   "watak": "JAMIL",
+   "mula": 26.679,
+   "tamat": 27.614
+  },
+  {
+   "watak": "POCONG",
+   "mula": 40.285,
+   "tamat": 42.893
+  },
+  {
+   "watak": "JAMIL",
+   "mula": 43.193,
+   "tamat": 44.548
+  },
+  {
+   "watak": "POCONG",
+   "mula": 44.898,
+   "tamat": 48.058
+  },
+  {
+   "watak": "JAMIL",
+   "mula": 48.408,
+   "tamat": 49.072
+  },
+  {
+   "watak": "POCONG",
+   "mula": 49.422,
+   "tamat": 51.543
+  }
+ ],
+ "scene": [
+  {
+   "id": "SC01",
+   "tajuk": "Hook: tup!",
+   "mula": 0,
+   "tamat": 4.607,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "POCONG"
+   ],
+   "visual": "Pocong melompat menghala ke kamera dalam gelap; tajuk besar.",
+   "gerakan": "Pocong melompat menghala ke kamera dalam gelap; tajuk besar.",
+   "ekspresi": "Seram",
+   "dialog": "Pernah tak korang terfikir… kenapa pocong kena melompat?",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Pernah tak korang terfikir… kenapa pocong kena melompat?",
+   "cap_suara": "0.0–4.6 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC02",
+   "tajuk": "Jalan pulang",
+   "mula": 4.607,
+   "tamat": 9.341,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL"
+   ],
+   "visual": "Jamil berjalan seorang diri dengan lampu suluh di jalan kampung.",
+   "gerakan": "Jamil berjalan seorang diri dengan lampu suluh di jalan kampung.",
+   "ekspresi": "Tenang-gelisah",
+   "dialog": "Malam itu, Jamil pulang seorang diri melalui jalan kampung yang gelap.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Malam itu, Jamil pulang seorang diri melalui jalan kampung yang gelap.",
+   "cap_suara": "4.6–9.3 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC03",
+   "tajuk": "Bunyi pelik",
+   "mula": 9.341,
+   "tamat": 13.727,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL",
+    "POCONG"
+   ],
+   "visual": "Jamil berhenti; bayang putih jauh di belakang; TUP… TUP… TUP…",
+   "gerakan": "Jamil berhenti; bayang putih jauh di belakang; TUP… TUP… TUP…",
+   "ekspresi": "Cuak",
+   "dialog": "Tiba-tiba, dia terdengar bunyi pelik di belakangnya.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Tiba-tiba, dia terdengar bunyi pelik di belakangnya.",
+   "cap_suara": "9.3–13.9 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC04",
+   "tajuk": "Siapa tu?",
+   "mula": 13.727,
+   "tamat": 15.146,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL"
+   ],
+   "visual": "Jamil menoleh (lip-sync).",
+   "gerakan": "Jamil menoleh (lip-sync).",
+   "ekspresi": "Takut",
+   "dialog": "“Siapa tu?”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "“Siapa tu?”",
+   "cap_suara": "13.9–15.1 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": true
+  },
+  {
+   "id": "SC05",
+   "tajuk": "Tiada sesiapa",
+   "mula": 15.146,
+   "tamat": 19.939,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL"
+   ],
+   "visual": "Jalan kosong, kemudian Jamil berjalan laju.",
+   "gerakan": "Jalan kosong, kemudian Jamil berjalan laju.",
+   "ekspresi": "Gelabah",
+   "dialog": "Bila dia toleh, tiada sesiapa. Jamil terus berjalan laju-laju.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Bila dia toleh, tiada sesiapa. Jamil terus berjalan laju-laju.",
+   "cap_suara": "15.1–19.9 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC06",
+   "tajuk": "Makin dekat",
+   "mula": 19.939,
+   "tamat": 24.386,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL",
+    "POCONG"
+   ],
+   "visual": "Pocong melompat makin dekat di belakang Jamil.",
+   "gerakan": "Pocong melompat makin dekat di belakang Jamil.",
+   "ekspresi": "Seram",
+   "dialog": "Tapi bunyi itu semakin dekat… dan semakin laju!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Tapi bunyi itu semakin dekat… dan semakin laju!",
+   "cap_suara": "19.9–24.4 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC07",
+   "tajuk": "Jamil… Jamil…",
+   "mula": 24.386,
+   "tamat": 26.379,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "POCONG"
+   ],
+   "visual": "Muka pocong dekat, kabus, suara bergema (lip-sync).",
+   "gerakan": "Muka pocong dekat, kabus, suara bergema (lip-sync).",
+   "ekspresi": "Seram",
+   "dialog": "“Jamil… Jamil…”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "“Jamil… Jamil…”",
+   "cap_suara": "24.4–26.5 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": true
+  },
+  {
+   "id": "SC08",
+   "tajuk": "POCONG!!",
+   "mula": 26.379,
+   "tamat": 27.864,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL"
+   ],
+   "visual": "Jamil menjerit, rambut tegak (lip-sync).",
+   "gerakan": "Jamil menjerit, rambut tegak (lip-sync).",
+   "ekspresi": "Panik",
+   "dialog": "“POCONG!!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "“POCONG!!”",
+   "cap_suara": "26.5–27.9 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": true
+  },
+  {
+   "id": "SC09",
+   "tajuk": "Kejar-mengejar",
+   "mula": 27.864,
+   "tamat": 33.806,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL",
+    "POCONG"
+   ],
+   "visual": "Jamil lari ke arah kamera; pocong lompat jauh gaya atlet, kad markah 9.8.",
+   "gerakan": "Jamil lari ke arah kamera; pocong lompat jauh gaya atlet, kad markah 9.8.",
+   "ekspresi": "Kelakar",
+   "dialog": "Jamil lari sekuat hati. Pocong pula melompat mengejarnya, macam atlet lompat jauh!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Jamil lari sekuat hati. Pocong pula melompat mengejarnya, macam atlet lompat jauh!",
+   "cap_suara": "27.9–33.8 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC10",
+   "tajuk": "Tangga rumah",
+   "mula": 33.806,
+   "tamat": 39.935,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL",
+    "POCONG"
+   ],
+   "visual": "Jamil panjat tangga; pocong cuba lompat naik dan tergelincir.",
+   "gerakan": "Jamil panjat tangga; pocong cuba lompat naik dan tergelincir.",
+   "ekspresi": "Kelakar",
+   "dialog": "Jamil sempat memanjat tangga rumah. Pocong cuba melompat naik… tapi tergelincir!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Jamil sempat memanjat tangga rumah. Pocong cuba melompat naik… tapi tergelincir!",
+   "cap_suara": "33.8–39.9 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC11",
+   "tajuk": "Aduh!",
+   "mula": 39.935,
+   "tamat": 43.043,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "POCONG"
+   ],
+   "visual": "Pocong terbaring dengan bintang berpusing (lip-sync).",
+   "gerakan": "Pocong terbaring dengan bintang berpusing (lip-sync).",
+   "ekspresi": "Sakit lucu",
+   "dialog": "“Aduh! Tangga rumah kau tinggi sangat!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "“Aduh! Tangga rumah kau tinggi sangat!”",
+   "cap_suara": "39.9–43.0 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC12",
+   "tajuk": "Kau nak apa?",
+   "mula": 43.043,
+   "tamat": 44.723,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL"
+   ],
+   "visual": "Jamil di atas tangga menggigil (lip-sync).",
+   "gerakan": "Jamil di atas tangga menggigil (lip-sync).",
+   "ekspresi": "Takut",
+   "dialog": "“Kau nak apa dengan aku?”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "“Kau nak apa dengan aku?”",
+   "cap_suara": "43.0–44.7 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC13",
+   "tajuk": "Tolong buka ikatan",
+   "mula": 44.723,
+   "tamat": 48.233,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "POCONG"
+   ],
+   "visual": "Pocong merayu dengan mata berkilau; ikatan bercahaya (lip-sync).",
+   "gerakan": "Pocong merayu dengan mata berkilau; ikatan bercahaya (lip-sync).",
+   "ekspresi": "Merayu",
+   "dialog": "“Tolong bukakan ikatan tangan aku ni…”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "“Tolong bukakan ikatan tangan aku ni…”",
+   "cap_suara": "44.7–48.2 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC14",
+   "tajuk": "Hidung gatal!",
+   "mula": 48.233,
+   "tamat": 51.943,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL",
+    "POCONG"
+   ],
+   "visual": "Jamil tanya; pocong jawab hidung gatal tiga hari (lip-sync).",
+   "gerakan": "Jamil tanya; pocong jawab hidung gatal tiga hari (lip-sync).",
+   "ekspresi": "Plot twist",
+   "dialog": "“Kenapa?” “Hidung aku dah gatal tiga hari!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "“Kenapa?” “Hidung aku dah gatal tiga hari!”",
+   "cap_suara": "48.2–51.9 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC15",
+   "tajuk": "Garu hidung",
+   "mula": 51.943,
+   "tamat": 58.173,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL",
+    "POCONG"
+   ],
+   "visual": "Jamil menggaru hidung pocong dengan ranting; pocong lega.",
+   "gerakan": "Jamil menggaru hidung pocong dengan ranting; pocong lega.",
+   "ekspresi": "Lega lucu",
+   "dialog": "Rupa-rupanya, pocong melompat sebab tangan dia terikat… dan dia cuma nak garu hidung!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Rupa-rupanya, pocong melompat sebab tangan dia terikat… dan dia cuma nak garu hidung!",
+   "cap_suara": "51.9–58.2 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC16",
+   "tajuk": "Follow!",
+   "mula": 58.173,
+   "tamat": 61.985,
+   "babak": "Pocong",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "JAMIL",
+    "POCONG"
+   ],
+   "visual": "Jamil dan pocong melambai ke kamera.",
+   "gerakan": "Jamil dan pocong melambai ke kamera.",
+   "ekspresi": "Ceria",
+   "dialog": "Follow Janimation untuk kisah seram lawak seterusnya!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "Follow Janimation untuk kisah seram lawak seterusnya!",
+   "cap_suara": "58.2–62.0 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC17",
+   "tajuk": "Teks akhir",
+   "mula": 61.985,
+   "tamat": 64.48,
+   "babak": "Pocong",
+   "lokasi": "LOK-HITAM",
+   "watak": [
+    "POCONG"
+   ],
+   "visual": "KALAU NAMPAK POCONG, JANGAN LARI… MUNGKIN DIA CUMA NAK MINTA TOLONG! 😂",
+   "gerakan": "KALAU NAMPAK POCONG, JANGAN LARI… MUNGKIN DIA CUMA NAK MINTA TOLONG! 😂",
+   "ekspresi": "—",
+   "dialog": "(tiada)",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Seram lucu",
+   "sari_kata": "",
+   "cap_suara": "62.0–64.5 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  }
+ ]
+}

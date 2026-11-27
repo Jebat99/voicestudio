@@ -75,3 +75,10 @@ TOK-KAMPUNG: lelaki tua kampung, songkok hitam, misai putih, baju Melayu coklat,
 ```
 MAKCIK-KAMPUNG: wanita kampung bertudung biru, baju kurung hijau muda, kain hijau.
 ```
+
+### Blok Varian JAMIL
+
+```
+JAMIL: lelaki muda kampung Melayu, rambut hitam pendek disisir ke tepi, baju-T hijau, seluar coklat,
+membawa lampu suluh, mudah cuak tetapi baik hati.
+```

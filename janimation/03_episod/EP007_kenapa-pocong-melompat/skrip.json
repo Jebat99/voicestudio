@@ -1,0 +1,29 @@
+{
+ "mula": 0.25,
+ "profil": {
+  "N": {"suara": "mb-id1", "laju": 150, "pic": 36, "kuat": 0.85, "penapis": "asetrate=16000*0.95,atempo=1.0526,aecho=0.8:0.5:45:0.12,highpass=f=70"},
+  "JAMIL": {"suara": "mb-id1", "laju": 168, "pic": 70, "kuat": 0.9, "penapis": "highpass=f=90"},
+  "JAMIL-JERIT": {"suara": "mb-id1", "laju": 120, "pic": 99, "kuat": 0.98, "amp": 200, "penapis": "asetrate=16000*1.12,atempo=0.893,highpass=f=120"},
+  "POCONG": {"suara": "mb-id1", "laju": 115, "pic": 22, "kuat": 0.85, "penapis": "asetrate=16000*0.84,atempo=1.19,vibrato=f=5:d=0.25,aecho=0.8:0.85:70|140:0.45|0.28"},
+  "POCONG-LAWAK": {"suara": "mb-id1", "laju": 150, "pic": 40, "kuat": 0.85, "penapis": "asetrate=16000*0.9,atempo=1.11,aecho=0.8:0.7:40:0.2"}
+ },
+ "baris": [
+  {"watak": "N", "teks": "Pernah tak korang terfikir… kenapa pocong kena melompat?", "jeda": 0.7},
+  {"watak": "N", "teks": "Malam itu, Jamil pulang seorang diri melalui jalan kampung yang gelap.", "jeda": 0.3},
+  {"watak": "N", "teks": "Tiba-tiba, dia terdengar bunyi pelik di belakangnya.", "jeda": 1.3},
+  {"watak": "JAMIL", "teks": "Siapa tu?", "jeda": 0.6},
+  {"watak": "N", "teks": "Bila dia toleh, tiada sesiapa. Jamil terus berjalan laju-laju.", "jeda": 0.3},
+  {"watak": "N", "teks": "Tapi bunyi itu semakin dekat… dan semakin laju!", "jeda": 1.1},
+  {"watak": "POCONG", "teks": "Jamil… Jamil…", "jeda": 0.4},
+  {"watak": "JAMIL-JERIT", "teks": "Pocong!", "jeda": 0.5},
+  {"watak": "N", "teks": "Jamil lari sekuat hati. Pocong pula melompat mengejarnya, macam atlet lompat jauh!", "jeda": 0.3},
+  {"watak": "N", "teks": "Jamil sempat memanjat tangga rumah. Pocong cuba melompat naik… tapi tergelincir!", "jeda": 0.7},
+  {"watak": "POCONG-LAWAK", "teks": "Aduh! Tangga rumah kau tinggi sangat!", "jeda": 0.3},
+  {"watak": "JAMIL", "teks": "Kau nak apa dengan aku?", "jeda": 0.35},
+  {"watak": "POCONG", "teks": "Tolong bukakan ikatan tangan aku ni…", "jeda": 0.35},
+  {"watak": "JAMIL", "teks": "Kenapa?", "jeda": 0.35},
+  {"watak": "POCONG-LAWAK", "teks": "Hidung aku dah gatal tiga hari!", "jeda": 0.8},
+  {"watak": "N", "teks": "Rupa-rupanya, pocong melompat sebab tangan dia terikat… dan dia cuma nak garu hidung!", "jeda": 0.4},
+  {"watak": "N", "teks": "Follow Janimation untuk kisah seram lawak seterusnya!", "jeda": 0.2}
+ ]
+}

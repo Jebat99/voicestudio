@@ -90,7 +90,7 @@ Untuk episod 60 s atau 120 s, skalakan nisbah yang sama. Hook kekal 0–3 s.
 
 ## 5. Suara Pengguna — Aliran Audio Dahulu
 
-Pengguna menyediakan suara sendiri (rakaman atau ElevenLabs) dan memuat naiknya. Claude **tidak menjana suara**.
+Pengguna menyediakan suara sendiri (rakaman atau ElevenLabs) dan memuat naiknya. Claude **tidak menjana suara** kecuali pengguna memintanya (lihat `alat/tts_skrip.py`).
 Untuk suara ElevenLabs, minta teks tepat yang ditaip pengguna supaya sari kata sepadan.
 
 1. Selepas skrip diluluskan, hasilkan **skrip rakaman** dalam `06_suara.md` (baris
@@ -121,6 +121,10 @@ Untuk suara ElevenLabs, minta teks tepat yang ditaip pengguna supaya sari kata s
   merapatkan jeda (suara tidak dipotong). Muzik/SFX sintetik: tulis `03_episod/EPxxx_*/bunyi.py`
   guna `alat/bunyi.py`, output `suara/*_campuran.wav` (rujuk `episod.audio_campuran` dalam `adegan.json`).
   Sari kata ikut masa suara: medan `sari_kata` (senarai `{mula, tamat, teks}`) dalam `adegan.json`.
+- **Remotion** (`janimation/remotion/`): `cd janimation/remotion && npm ci && node render.mjs ../03_episod/EPxxx_* ../07_output/EPxxx_vN.mp4`.
+  Kanvas watak dilukis oleh pustaka yang sama; Remotion mengawal audio, sari kata karaoke (perlukan `kata` dalam
+  `sari_kata`), teks tajuk/CTA beranimasi spring. Lesen Remotion: percuma untuk individu/syarikat kecil.
+- **Suara dijana** (hanya bila pengguna minta): tulis `skrip.json` dan jalankan `alat/tts_skrip.py` (eSpeak-NG + MBROLA).
 - Bahasa prompt: **Bahasa Melayu**. Istilah teknikal yang tiada padanan biasa boleh
   disertakan dalam kurungan (cth. "cel shading"). Lihat `04_prompt/kamus-kamera.md`.
 - Satu prompt = satu scene = satu klip. Susunan tetap (lihat `04_prompt/prompt-gaya-asas.md`):

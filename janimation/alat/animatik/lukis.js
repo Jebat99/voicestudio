@@ -107,6 +107,7 @@ const PRESET = {
   PEMUDA: { skin: "tan", hair: "side", hairCol: "#1C1714", eye: "#3A2A1E", top: { t: "tee", c: "#7F8C8D" }, bot: { t: "pants", c: "#5D4037" }, shoe: "#2B2B2B" },
   "TOK-KAMPUNG": { skin: "old", hair: "short", hairCol: "#DDDDDD", eye: "#3A2A1E", moustache: "#EEEEEE", hat: "songkok", top: { t: "baju", c: "#8D6E63" }, bot: { t: "pants", c: "#4E342E" }, shoe: "#3E2723" },
   "MAKCIK-KAMPUNG": { skin: "tan", female: true, tudung: "#5D8AA8", eye: "#3A2A1E", lips: "#A0505A", top: { t: "kurung", c: "#C5E1A5" }, bot: { t: "skirt", c: "#7CB342" }, shoe: "#555555" },
+  JAMIL: { skin: "tan", hair: "side", hairCol: "#1C1714", eye: "#3A2A1E", eyeK: 1.1, top: { t: "tee", c: "#2E8B57" }, bot: { t: "pants", c: "#6D4C41" }, shoe: "#3E2723" },
   "CIKGU-ROS": { skin: "light", female: true, tudung: "#1B1716", eye: "#3A2A1E", lips: "#9E4A4A", glasses: "half",
     top: { t: "kurung", c: "#55575E" }, bot: { t: "skirt", c: "#3C3E44" }, shoe: "#111111", lanyard: "#D93A3A" },
 };
@@ -664,3 +665,36 @@ function fog(ctx, t, y0, n = 6, a = .35) { const r = rng(7); for (let i = 0; i <
 function pelita(ctx, x, y, s, t) { glow(ctx, x, y - 40 * s, 220 * s, "255,190,90", .55); rr(ctx, x - 40 * s, y - 20 * s, 80 * s, 40 * s, 10 * s, "#8C6440", 4 * s); ctx.beginPath(); ctx.moveTo(x, y - 25 * s); ctx.quadraticCurveTo(x + 18 * s, y - 55 * s, x + Math.sin(t * 12) * 4 * s, y - 85 * s); ctx.quadraticCurveTo(x - 18 * s, y - 55 * s, x, y - 25 * s); ctx.fillStyle = "#FFB300"; ctx.fill(); }
 function torchBeam(ctx, x, y, ang, len, t) { ctx.save(); ctx.globalCompositeOperation = "screen"; const g = ctx.createLinearGradient(x, y, x + Math.cos(ang) * len, y + Math.sin(ang) * len); g.addColorStop(0, "rgba(255,245,200,.55)"); g.addColorStop(1, "rgba(255,245,200,0)"); ctx.fillStyle = g;
   ctx.beginPath(); ctx.moveTo(x, y); ctx.lineTo(x + Math.cos(ang - .22) * len, y + Math.sin(ang - .22) * len); ctx.lineTo(x + Math.cos(ang + .22) * len, y + Math.sin(ang + .22) * len); ctx.closePath(); ctx.fill(); ctx.restore(); }
+
+// Pocong: badan berbalut kain putih, ikatan di kepala/leher/kaki, muka bujur pucat. Tiada tangan kelihatan.
+function pocong(ctx, x, y, h, o = {}) {
+  const t = o.t || 0, sq = o.squash || 0, ow = Math.max(3, h * .012), f = Object.assign({ eyes: "normal", mouth: "flat" }, o.face || {});
+  ctx.save(); ctx.translate(x, y); if (o.rot) ctx.rotate(o.rot); ctx.scale(1 + sq * .25, 1 - sq * .25);
+  if (o.shadow !== false) { ctx.save(); ctx.globalAlpha = .2; ell(ctx, 0, h * .01, h * .16, h * .03, "#000"); ctx.restore(); }
+  const w = h * .17, top = -h, knot = (yy, k = 1) => { line(ctx, -w * .95 * k, yy, w * .95 * k, yy, ow * 2.2, "#D9D4C7"); line(ctx, -w * .95 * k, yy, w * .95 * k, yy, ow * .6, INK); ell(ctx, w * .1, yy, ow * 1.6, ow * 1.4, "#D9D4C7", ow * .6); };
+  ctx.beginPath(); ctx.moveTo(0, top - h * .08); ctx.quadraticCurveTo(w * 1.2, top + h * .05, w * 1.05, top + h * .35); ctx.quadraticCurveTo(w * 1.25, top + h * .7, w * .7, -h * .04); ctx.quadraticCurveTo(0, h * .02, -w * .7, -h * .04);
+  ctx.quadraticCurveTo(-w * 1.25, top + h * .7, -w * 1.05, top + h * .35); ctx.quadraticCurveTo(-w * 1.2, top + h * .05, 0, top - h * .08); ctx.closePath();
+  const g = ctx.createLinearGradient(-w, 0, w, 0); g.addColorStop(0, "#FFFFFF"); g.addColorStop(.7, "#F2EFE6"); g.addColorStop(1, "#D9D4C7"); ctx.fillStyle = g; ctx.fill(); ctx.lineWidth = ow; ctx.strokeStyle = INK; ctx.stroke();
+  for (let i = 0; i < 5; i++) { ctx.beginPath(); ctx.moveTo(-w * .7 + i * w * .35, top + h * .4); ctx.quadraticCurveTo(-w * .6 + i * w * .35, top + h * .65, -w * .5 + i * w * .3, -h * .1); ctx.lineWidth = ow * .45; ctx.strokeStyle = "rgba(43,30,26,.25)"; ctx.stroke(); }
+  // ikatan kepala (simpul) + reben
+  const ky = top - h * .03; ell(ctx, 0, ky - h * .02, w * .22, w * .18, "#E8E3D6", ow * .8); poly(ctx, [[0, ky - h * .02], [-w * .4, ky - h * .12 + Math.sin(t * 6) * h * .01], [-w * .25, ky - h * .01]], "#E8E3D6", ow * .6); poly(ctx, [[0, ky - h * .02], [w * .4, ky - h * .12 - Math.sin(t * 6) * h * .01], [w * .25, ky - h * .01]], "#E8E3D6", ow * .6);
+  // muka
+  const fy = top + h * .17, fr = w * .62;
+  ctx.save(); ctx.beginPath(); ctx.ellipse(0, fy, fr, fr * 1.15, 0, 0, TAU); ctx.fillStyle = o.skin || "#CFD6C4"; ctx.fill(); ctx.lineWidth = ow; ctx.strokeStyle = INK; ctx.stroke(); ctx.clip();
+  ell(ctx, fr * .7, fy, fr * .45, fr * 1.3, "rgba(120,130,110,.35)"); ctx.restore();
+  const P = { skin: "pale", eye: "#2A1D14", eyeK: o.eyeK || 1.35, female: false };
+  for (const sd of [-1, 1]) { ell(ctx, sd * fr * .42, fy - fr * .1, fr * .26, fr * .2, "rgba(60,50,80,.35)"); }
+  eye(ctx, -fr * .4, fy - fr * .05, fr, P, f, -1, ow * .7); eye(ctx, fr * .4, fy - fr * .05, fr, P, f, 1, ow * .7);
+  const my = fy + fr * .55, m = f.mouth;
+  if (m === "talk") { const a = clamp(f.talk || 0); if (a < .08) line(ctx, -fr * .15, my, fr * .15, my, ow); else ell(ctx, 0, my, fr * (.14 + a * .08), fr * (.05 + a * .2), "#4A1F28", ow); }
+  else if (m === "open" || m === "jaw") ell(ctx, 0, my + (m === "jaw" ? fr * .12 : 0), fr * .18, fr * (m === "jaw" ? .32 : .18), "#4A1F28", ow);
+  else if (m === "smile") { ctx.beginPath(); ctx.arc(0, my - fr * .12, fr * .2, .2 * Math.PI, .8 * Math.PI); ctx.lineWidth = ow; ctx.strokeStyle = INK; ctx.stroke(); }
+  else if (m === "wavy") { ctx.beginPath(); for (let i = 0; i <= 8; i++) ctx.lineTo(-fr * .2 + i * fr * .05, my + (i % 2 ? fr * .05 : -fr * .03)); ctx.lineWidth = ow; ctx.strokeStyle = INK; ctx.stroke(); }
+  else line(ctx, -fr * .14, my, fr * .14, my, ow);
+  if (f.nose) { ell(ctx, 0, fy + fr * .28, fr * .13, fr * .1, "#FF6B6B", ow * .6); for (let i = 0; i < 3; i++) { const a = -1.2 + i * .5 + Math.sin(t * 20) * .1; line(ctx, Math.cos(a) * fr * .22, fy + fr * .28 + Math.sin(a) * fr * .22, Math.cos(a) * fr * .36, fy + fr * .28 + Math.sin(a) * fr * .36, ow * .7, "#E53935"); } }
+  if (f.blush) for (const sd of [-1, 1]) ell(ctx, sd * fr * .55, fy + fr * .3, fr * .16, fr * .08, "rgba(255,120,140,.55)");
+  if (f.sweat) sweat(ctx, fr * .9, fy - fr * .7, fr * .3 * f.sweat);
+  knot(top + h * .34, .95); knot(-h * .14, .7);
+  if (f.glowTies) { ctx.save(); ctx.globalAlpha = .5 + .4 * Math.sin(t * 8); for (const yy of [top + h * .34, -h * .14]) glow(ctx, 0, yy, w * 1.3, "255,230,120", .6); ctx.restore(); }
+  ctx.restore();
+}

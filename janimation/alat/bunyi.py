@@ -209,3 +209,22 @@ def wah_wah(amp=.22):
 
 def titis(amp=.25):
     t = t_(.15); f = 1400 * np.exp(-t * 10) + 500; return np.sin(2 * np.pi * np.cumsum(f) / SR) * env_exp(len(t), 30) * amp
+
+
+def cengkerik(d, amp=.05):
+    out = np.zeros(int(d * SR)); r = np.random.RandomState(8); t0 = 0.0
+    while t0 < d - .2:
+        for k in range(3):
+            tt = t_(.04); y = np.sin(2 * np.pi * 4300 * tt) * np.sin(np.pi * tt / .04) * amp
+            i = int((t0 + k * .06) * SR); out[i:i + len(y)] += y[: max(0, len(out) - i)]
+        t0 += .5 + r.rand() * .5
+    return out
+
+
+def tup(amp=.5):
+    t = t_(.25); y = np.sin(2 * np.pi * 75 * t * (1 - .4 * t)) * env_exp(len(t), 16) + .4 * noise_band(.25, 8, 71) * env_exp(len(t), 45)
+    return y * amp
+
+
+def langkah(amp=.18):
+    t = t_(.12); return noise_band(.12, 12, 81) * env_exp(len(t), 35) * amp

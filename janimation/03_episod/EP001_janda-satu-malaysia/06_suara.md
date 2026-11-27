@@ -1,6 +1,6 @@
 # EP001 — Suara (Peta Masa)
 
-> Peranan: Pengurus Produksi · Suara pengguna sendiri, tidak dipotong atau dipercepatkan.
+> Peranan: Pengurus Produksi · Suara ElevenLabs yang disediakan pengguna, tidak dipotong atau dipercepatkan.
 
 ## A. Fail diterima
 

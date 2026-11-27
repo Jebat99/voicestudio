@@ -1,0 +1,759 @@
+{
+ "episod": {
+  "kod": "EP002",
+  "tajuk": "Crush Dalam Diam #1 — Aku Rasa Aku Dah Jatuh Cinta!",
+  "format": "C — Crush Dalam Diam",
+  "audio": "suara/EP002_narasi.wav",
+  "audio_campuran": "suara/EP002_campuran.wav",
+  "audio_asal": "suara/EP002_narasi_asal.mp3",
+  "durasi_audio": 63.44
+ },
+ "sari_kata": [
+  {
+   "mula": 0.0,
+   "tamat": 2.15,
+   "teks": "Aku sanggup datang sekolah awal,"
+  },
+  {
+   "mula": 2.15,
+   "tamat": 4.467,
+   "teks": "tukar tempat duduk dan buat-buat rajin…"
+  },
+  {
+   "mula": 4.747,
+   "tamat": 6.599,
+   "teks": "semuanya sebab seorang PEREMPUAN!"
+  },
+  {
+   "mula": 6.879,
+   "tamat": 8.591,
+   "teks": "Tapi masalahnya,"
+  },
+  {
+   "mula": 8.841,
+   "tamat": 10.775,
+   "teks": "dia langsung TAK TAHU aku suka dia!"
+  },
+  {
+   "mula": 11.055,
+   "tamat": 12.9,
+   "teks": "Entah kenapa, sejak kebelakangan ni"
+  },
+  {
+   "mula": 12.9,
+   "tamat": 14.784,
+   "teks": "aku asyik fikir pasal AINA."
+  },
+  {
+   "mula": 15.064,
+   "tamat": 17.49,
+   "teks": "Aku suka cara dia senyum, cara dia gelak"
+  },
+  {
+   "mula": 17.49,
+   "tamat": 19.317,
+   "teks": "dan cara dia layan semua orang."
+  },
+  {
+   "mula": 19.597,
+   "tamat": 21.3,
+   "teks": "Bagi aku, benda paling biasa"
+  },
+  {
+   "mula": 21.3,
+   "tamat": 23.184,
+   "teks": "yang dia buat pun nampak ISTIMEWA."
+  },
+  {
+   "mula": 23.464,
+   "tamat": 25.3,
+   "teks": "Sejak tu, aku mula fikir macam-macam cara"
+  },
+  {
+   "mula": 25.3,
+   "tamat": 27.219,
+   "teks": "untuk tarik perhatian dia."
+  },
+  {
+   "mula": 27.499,
+   "tamat": 29.251,
+   "teks": "Aku SENGAJA duduk dekat tempat dia,"
+  },
+  {
+   "mula": 29.523,
+   "tamat": 30.88,
+   "teks": "pura-pura pinjam pemadam"
+  },
+  {
+   "mula": 30.88,
+   "tamat": 34.052,
+   "teks": "dan tiba-tiba jadi RAJIN menawarkan diri untuk tolong cikgu."
+  },
+  {
+   "mula": 34.332,
+   "tamat": 37.067,
+   "teks": "Sampailah satu hari, Aina terlupa bawa pen."
+  },
+  {
+   "mula": 37.347,
+   "tamat": 39.33,
+   "teks": "Aku terus hulurkan pen kesayangan aku."
+  },
+  {
+   "mula": 39.61,
+   "tamat": 40.649,
+   "teks": "Dia senyum dan cakap,"
+  },
+  {
+   "mula": 40.929,
+   "tamat": 41.776,
+   "teks": "“TERIMA KASIH, AMIR!”"
+  },
+  {
+   "mula": 42.056,
+   "tamat": 43.57,
+   "teks": "Percayalah, satu ayat tu"
+  },
+  {
+   "mula": 43.57,
+   "tamat": 46.085,
+   "teks": "dah cukup buat aku senyum sampai balik rumah!"
+  },
+  {
+   "mula": 46.365,
+   "tamat": 48.491,
+   "teks": "Tapi semuanya BERUBAH petang tu."
+  },
+  {
+   "mula": 48.771,
+   "tamat": 50.4,
+   "teks": "Masa aku nak balik, aku nampak Aina"
+  },
+  {
+   "mula": 50.4,
+   "tamat": 52.232,
+   "teks": "sedang berbual dengan seorang LELAKI."
+  },
+  {
+   "mula": 52.512,
+   "tamat": 53.9,
+   "teks": "Bukan setakat berbual…"
+  },
+  {
+   "mula": 53.9,
+   "tamat": 55.602,
+   "teks": "lelaki tu siap bagi dia HADIAH!"
+  },
+  {
+   "mula": 55.882,
+   "tamat": 57.038,
+   "teks": "Aku terus TERKAKU."
+  },
+  {
+   "mula": 57.318,
+   "tamat": 58.312,
+   "teks": "Siapa lelaki tu?"
+  },
+  {
+   "mula": 58.592,
+   "tamat": 60.61,
+   "teks": "Dan kenapa Aina nampak begitu gembira?"
+  }
+ ],
+ "scene": [
+  {
+   "id": "SC01",
+   "tajuk": "Datang paling awal",
+   "mula": 0.0,
+   "tamat": 2.15,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Kelas kosong pada waktu pagi, cahaya matahari baru masuk dari tingkap.",
+   "gerakan": "AMIR berlari masuk dari pintu sambil memegang tali beg galas, brek di tengah kelas yang kosong.",
+   "ekspresi": "Bersemangat, mata berkilau, senyum lebar.",
+   "dialog": "(narasi) \"Aku sanggup datang sekolah awal,\"",
+   "sudut": "Syot jauh dari depan kelas",
+   "gerak_kamera": "Ikut AMIR masuk, kemudian statik",
+   "teknik": "garis kelajuan dan picit-regang ketika brek",
+   "sfx": "Whoosh, kotak muzik romantik bermula",
+   "sari_kata": "Aku sanggup datang sekolah awal,",
+   "cap_suara": "00:00.0–00:02.1",
+   "nota_sunting": "Muzik kotak muzik bermula pada bingkai pertama",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC02",
+   "tajuk": "Buat-buat rajin",
+   "mula": 2.15,
+   "tamat": 4.607,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR di meja dekat tingkap dengan buku terbuka.",
+   "gerakan": "AMIR menarik kerusinya ke tempat lain, kemudian duduk tegak membaca buku dengan gaya terlalu serius dan cermin mata bayangan.",
+   "ekspresi": "Serius yang dibuat-buat, kening terangkat, mata menjeling ke pintu.",
+   "dialog": "(narasi) \"tukar tempat duduk dan buat-buat rajin…\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kilauan 'rajin' di sekeliling buku",
+   "sfx": "Kotak muzik",
+   "sari_kata": "tukar tempat duduk dan buat-buat rajin…",
+   "cap_suara": "00:02.1–00:04.5",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC03",
+   "tajuk": "Itu dia…",
+   "mula": 4.607,
+   "tamat": 6.739,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA",
+    "AMIR"
+   ],
+   "visual": "AINA duduk di tepi tingkap, cahaya matahari dan bunga kertas merah jambu di luar.",
+   "gerakan": "Kamera melintas laju ke AINA; tudungnya beralun ditiup angin; jantung merah berdegup di dada AMIR.",
+   "ekspresi": "AINA tersenyum lembut memandang ke luar; AMIR terpaku dengan mata berkilau.",
+   "dialog": "(narasi) \"semuanya sebab seorang perempuan!\"",
+   "sudut": "Syot sederhana dekat dari sisi tingkap",
+   "gerak_kamera": "Whip pan ke kanan, kemudian zoom perlahan",
+   "teknik": "sinar cahaya, bokeh, jantung berdegup",
+   "sfx": "Whoosh, dua degupan jantung",
+   "sari_kata": "semuanya sebab seorang PEREMPUAN!",
+   "cap_suara": "00:04.7–00:06.6",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC04",
+   "tajuk": "Senyum malu",
+   "mula": 6.739,
+   "tamat": 8.716,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Muka AMIR dekat dengan latar bunga merah jambu.",
+   "gerakan": "AMIR tersenyum malu, wap keluar dari kepala; pada 'Tapi' muzik berhenti dan latar bertukar biasa.",
+   "ekspresi": "Pipi merah berjalur, senyum bergetar, kemudian mata bulat terkejut.",
+   "dialog": "(narasi) \"Tapi masalahnya,\"",
+   "sudut": "Syot dekat muka",
+   "gerak_kamera": "Zoom masuk pantas",
+   "teknik": "latar bunga hilang serta-merta pada 'Tapi'",
+   "sfx": "Calar piring hitam pada 'Tapi', muzik berhenti",
+   "sari_kata": "Tapi masalahnya,",
+   "cap_suara": "00:06.9–00:08.6",
+   "nota_sunting": "Lawak: muzik romantik berhenti mengejut",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC05",
+   "tajuk": "Dia tak tahu pun",
+   "mula": 8.716,
+   "tamat": 10.915,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA",
+    "AMIR",
+    "MURID-FIGURAN"
+   ],
+   "visual": "AINA berbual ceria dengan kawan di depan; AMIR melambai di belakang tanpa disedari.",
+   "gerakan": "AMIR melambai bersungguh-sungguh, kemudian layu dan bertukar kelabu.",
+   "ekspresi": "AINA ketawa dengan kawan; AMIR kecewa dengan roh keluar dari mulut.",
+   "dialog": "(narasi) \"dia langsung tak tahu aku suka dia!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "badan AMIR mengecil (chibi) dan bertukar kelabu",
+   "sfx": "Bunyi wisel turun",
+   "sari_kata": "dia langsung TAK TAHU aku suka dia!",
+   "cap_suara": "00:08.8–00:10.8",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC06",
+   "tajuk": "Asyik fikir pasal dia",
+   "mula": 10.915,
+   "tamat": 14.924,
+   "babak": "B2",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "AMIR menongkat dagu di meja; awan fikiran berisi wajah AINA dikelilingi hati.",
+   "gerakan": "AMIR mengeluh panjang, matanya mengikut hati-hati yang terapung.",
+   "ekspresi": "Mata separuh tertutup berangan, senyum kecil, pipi merah.",
+   "dialog": "(narasi) \"Entah kenapa, sejak kebelakangan ni aku asyik fikir pasal Aina.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan ke awan fikiran",
+   "teknik": "peralihan hati, bokeh",
+   "sfx": "Kotak muzik versi mimpi",
+   "sari_kata": "Entah kenapa, sejak kebelakangan ni aku asyik fikir pasal AINA.",
+   "cap_suara": "00:11.1–00:14.8",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC07",
+   "tajuk": "Cara dia senyum",
+   "mula": 14.924,
+   "tamat": 17.55,
+   "babak": "B2",
+   "lokasi": "LOK-IMAJINASI",
+   "watak": [
+    "AINA",
+    "MURID-FIGURAN"
+   ],
+   "visual": "AINA dalam slow motion dengan latar bunga, kilauan dan cahaya.",
+   "gerakan": "AINA menoleh perlahan dan tersenyum, kemudian ketawa kecil menutup mulut.",
+   "ekspresi": "Mata berkilau, senyum manis, kemudian ketawa gembira.",
+   "dialog": "(narasi) \"Aku suka cara dia senyum, cara dia gelak\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan (slow motion)",
+   "teknik": "slow motion, kelopak bunga, kilauan",
+   "sfx": "Ting berkilau",
+   "sari_kata": "Aku suka cara dia senyum, cara dia gelak",
+   "cap_suara": "00:15.1–00:17.5",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC08",
+   "tajuk": "Baik dengan semua",
+   "mula": 17.55,
+   "tamat": 19.457,
+   "babak": "B2",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA",
+    "MURID-FIGURAN"
+   ],
+   "visual": "Seorang kawan menjatuhkan buku; AINA membantu mengutipnya.",
+   "gerakan": "AINA tunduk mengutip buku dan menghulurkannya sambil tersenyum.",
+   "ekspresi": "Ramah dan ikhlas.",
+   "dialog": "(narasi) \"dan cara dia layan semua orang.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "kilauan lembut",
+   "sfx": "Kotak muzik",
+   "sari_kata": "dan cara dia layan semua orang.",
+   "cap_suara": "00:17.5–00:19.3",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC09",
+   "tajuk": "Benda biasa jadi istimewa",
+   "mula": 19.457,
+   "tamat": 23.324,
+   "babak": "B2",
+   "lokasi": "LOK-IMAJINASI",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR mengintai dari belakang pintu; latar bertukar menjadi corak hati dan bunga.",
+   "gerakan": "AMIR memeluk pintu sambil tersenyum berangan, badannya bergoyang perlahan.",
+   "ekspresi": "Mata berkilau, pipi merah, senyum berangan.",
+   "dialog": "(narasi) \"Bagi aku, benda paling biasa yang dia buat pun nampak istimewa.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Pusing perlahan",
+   "teknik": "latar corak hati, bunga",
+   "sfx": "Glissando lembut",
+   "sari_kata": "Bagi aku, benda paling biasa yang dia buat pun nampak ISTIMEWA.",
+   "cap_suara": "00:19.6–00:23.2",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC10",
+   "tajuk": "Misi bermula",
+   "mula": 23.324,
+   "tamat": 27.359,
+   "babak": "B3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR di meja dengan buku nota penuh lakaran rancangan: kerusi, pemadam, tangan diangkat.",
+   "gerakan": "AMIR menulis laju, kemudian mentol menyala di atas kepala dan dia senyum licik.",
+   "ekspresi": "Fokus, kemudian licik bangga.",
+   "dialog": "(narasi) \"Sejak tu, aku mula fikir macam-macam cara untuk tarik perhatian dia.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk",
+   "teknik": "mentol menyala, ikon rancangan terapung",
+   "sfx": "Pizzicato nakal",
+   "sari_kata": "Sejak tu, aku mula fikir macam-macam cara untuk tarik perhatian dia.",
+   "cap_suara": "00:23.5–00:27.2",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC11",
+   "tajuk": "Duduk dekat",
+   "mula": 27.359,
+   "tamat": 29.387,
+   "babak": "B3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "AMIR menggelongsor kerusi perlahan-lahan ke sebelah meja AINA.",
+   "gerakan": "Kerusi bergerak sedikit demi sedikit; AINA membaca tanpa sedar.",
+   "ekspresi": "AMIR menjeling licik; AINA tenang.",
+   "dialog": "(narasi) \"Aku sengaja duduk dekat tempat dia,\"",
+   "sudut": "Syot jauh",
+   "gerak_kamera": "Statik",
+   "teknik": "gerakan berjingkit lucu",
+   "sfx": "Whoosh perlahan",
+   "sari_kata": "Aku SENGAJA duduk dekat tempat dia,",
+   "cap_suara": "00:27.5–00:29.3",
+   "nota_sunting": "Potongan laju",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC12",
+   "tajuk": "Pemadam jatuh",
+   "mula": 29.387,
+   "tamat": 30.95,
+   "babak": "B3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Pemadam jatuh di kaki AINA.",
+   "gerakan": "AMIR 'terjatuhkan' pemadam; AINA mengutip dan menghulurkannya.",
+   "ekspresi": "AMIR bangga dengan kilauan; AINA tersenyum.",
+   "dialog": "(narasi) \"pura-pura pinjam pemadam\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "kilauan bangga",
+   "sfx": "Pop",
+   "sari_kata": "pura-pura pinjam pemadam",
+   "cap_suara": "00:29.5–00:30.9",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC13",
+   "tajuk": "Saya cikgu!",
+   "mula": 30.95,
+   "tamat": 34.192,
+   "babak": "B3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "CIKGU-ROS",
+    "AINA"
+   ],
+   "visual": "CIKGU-ROS bertanya di depan kelas; AMIR berdiri dan mengangkat tangan setinggi-tingginya.",
+   "gerakan": "Tangan AMIR terpacak laju dengan garis kelajuan; AINA menoleh dan AMIR membuat pose bangga.",
+   "ekspresi": "AMIR bersemangat dan bangga; CIKGU-ROS mengangkat sebelah kening.",
+   "dialog": "(narasi) \"dan tiba-tiba jadi rajin menawarkan diri untuk tolong cikgu.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk pantas pada tangan",
+   "teknik": "garis kelajuan, kilauan",
+   "sfx": "Whoosh, ting",
+   "sari_kata": "dan tiba-tiba jadi RAJIN menawarkan diri untuk tolong cikgu.",
+   "cap_suara": "00:31.0–00:34.1",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC14",
+   "tajuk": "Pen hilang",
+   "mula": 34.192,
+   "tamat": 37.207,
+   "babak": "B4",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA menyelongkar beg merah jambunya mencari pen.",
+   "gerakan": "Buku dan barang keluar dari beg satu demi satu; tiada pen.",
+   "ekspresi": "Risau, kening ke atas, peluh kecil.",
+   "dialog": "(narasi) \"Sampailah satu hari, Aina terlupa bawa pen.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "barang melompat keluar dari beg",
+   "sfx": "Kotak muzik manis bermula",
+   "sari_kata": "Sampailah satu hari, Aina terlupa bawa pen.",
+   "cap_suara": "00:34.3–00:37.1",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC15",
+   "tajuk": "Pen kesayangan",
+   "mula": 37.207,
+   "tamat": 39.47,
+   "babak": "B4",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR menghulurkan pen merah dengan gaya yakin, angin meniup rambutnya.",
+   "gerakan": "AMIR mengeluarkan pen dari poket dan menghulurnya perlahan (slow motion).",
+   "ekspresi": "Yakin, mata berkilau, senyum kecil.",
+   "dialog": "(narasi) \"Aku terus hulurkan pen kesayangan aku.\"",
+   "sudut": "Sudut rendah, syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "slow motion, sinar cahaya, kilauan pada pen",
+   "sfx": "Ting",
+   "sari_kata": "Aku terus hulurkan pen kesayangan aku.",
+   "cap_suara": "00:37.3–00:39.3",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC16",
+   "tajuk": "Terima kasih, Amir!",
+   "mula": 39.47,
+   "tamat": 41.916,
+   "babak": "B4",
+   "lokasi": "LOK-IMAJINASI",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA memegang pen merah dan tersenyum; bunga mekar di latar.",
+   "gerakan": "AINA mengambil pen, tersenyum dan berkata 'Terima kasih, Amir!' (lip-sync).",
+   "ekspresi": "Senyum paling manis, mata berkilau.",
+   "dialog": "AINA (lip-sync) \"Terima kasih, Amir!\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bunga mekar, kilauan",
+   "sfx": "Ting besar + glissando",
+   "sari_kata": "“TERIMA KASIH, AMIR!”",
+   "cap_suara": "00:39.6–00:41.8",
+   "nota_sunting": "Mulut AINA bergerak pada 00:40.9–00:41.8",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC17",
+   "tajuk": "Merah padam",
+   "mula": 41.916,
+   "tamat": 43.62,
+   "babak": "B4",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Muka AMIR merah padam, wap keluar dari kepala.",
+   "gerakan": "AMIR menekup pipi, jantung berdegup keluar dari dada.",
+   "ekspresi": "Merah padam, mata berpusing gembira.",
+   "dialog": "(narasi) \"Percayalah, satu ayat tu\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk pantas",
+   "teknik": "wap, jantung berdegup",
+   "sfx": "Dua degupan jantung",
+   "sari_kata": "Percayalah, satu ayat tu",
+   "cap_suara": "00:42.1–00:43.6",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC18",
+   "tajuk": "Terapung di awan",
+   "mula": 43.62,
+   "tamat": 46.225,
+   "babak": "B4",
+   "lokasi": "LOK-AWAN",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR terapung di atas awan dengan hati kecil di sekeliling.",
+   "gerakan": "AMIR baring di atas awan yang terapung perlahan, kaki bergoyang gembira.",
+   "ekspresi": "Senyum lebar, mata tertutup bahagia.",
+   "dialog": "(narasi) \"dah cukup buat aku senyum sampai balik rumah!\"",
+   "sudut": "Syot jauh",
+   "gerak_kamera": "Pan ke atas perlahan",
+   "teknik": "awan terapung, hati",
+   "sfx": "Glissando",
+   "sari_kata": "dah cukup buat aku senyum sampai balik rumah!",
+   "cap_suara": "00:43.6–00:46.1",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC19",
+   "tajuk": "Petang yang berubah",
+   "mula": 46.225,
+   "tamat": 48.631,
+   "babak": "B5 · Cliffhanger",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Kelas pada waktu petang, cahaya jingga.",
+   "gerakan": "AMIR memakai beg dan berjalan keluar sambil bersiul, kemudian berhenti.",
+   "ekspresi": "Ceria, kemudian ingin tahu.",
+   "dialog": "(narasi) \"Tapi semuanya berubah petang tu.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "peralihan warna ke jingga senja",
+   "sfx": "Dentuman rendah, muzik berhenti",
+   "sari_kata": "Tapi semuanya BERUBAH petang tu.",
+   "cap_suara": "00:46.4–00:48.5",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC20",
+   "tajuk": "Di pagar sekolah",
+   "mula": 48.631,
+   "tamat": 52.372,
+   "babak": "B5 · Cliffhanger",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AINA",
+    "LELAKI-MISTERI",
+    "AMIR"
+   ],
+   "visual": "Dari belakang tiang, AMIR melihat AINA berbual dengan LELAKI-MISTERI di pagar sekolah.",
+   "gerakan": "AINA dan lelaki itu berbual mesra; AMIR mengintai dari tiang.",
+   "ekspresi": "AINA gembira; muka lelaki terlindung bayang topi; AMIR curiga.",
+   "dialog": "(narasi) \"Masa aku nak balik, aku nampak Aina sedang berbual dengan seorang lelaki.\"",
+   "sudut": "Pandangan AMIR dari belakang tiang",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bayang senja panjang",
+   "sfx": "Dengung rendah",
+   "sari_kata": "Masa aku nak balik, aku nampak Aina sedang berbual dengan seorang LELAKI.",
+   "cap_suara": "00:48.8–00:52.2",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC21",
+   "tajuk": "Hadiah",
+   "mula": 52.372,
+   "tamat": 55.742,
+   "babak": "B5 · Cliffhanger",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AINA",
+    "LELAKI-MISTERI"
+   ],
+   "visual": "LELAKI-MISTERI menghulurkan kotak hadiah merah jambu kepada AINA.",
+   "gerakan": "AINA menerima kotak hadiah dan merapatkan tangan di dada dengan gembira.",
+   "ekspresi": "AINA sangat gembira; lelaki tersenyum di bawah bayang topi.",
+   "dialog": "(narasi) \"Bukan setakat berbual… lelaki tu siap bagi dia hadiah!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk pada kotak hadiah",
+   "teknik": "kilauan pada hadiah",
+   "sfx": "Dengung",
+   "sari_kata": "Bukan setakat berbual… lelaki tu siap bagi dia HADIAH!",
+   "cap_suara": "00:52.5–00:55.6",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC22",
+   "tajuk": "Terkaku",
+   "mula": 55.742,
+   "tamat": 57.3,
+   "babak": "B5 · Cliffhanger",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR bertukar kelabu seperti batu, beg terlepas dari bahu.",
+   "gerakan": "Retakan muncul di badan AMIR; sehelai daun melintas.",
+   "ekspresi": "Terkaku, mata kosong.",
+   "dialog": "(narasi) \"Aku terus terkaku.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "badan kelabu dan retak",
+   "sfx": "Degupan jantung bermula",
+   "sari_kata": "Aku terus TERKAKU.",
+   "cap_suara": "00:55.9–00:57.0",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC23",
+   "tajuk": "Siapa lelaki tu?",
+   "mula": 57.3,
+   "tamat": 60.75,
+   "babak": "B5 · Cliffhanger",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AMIR",
+    "AINA",
+    "LELAKI-MISTERI"
+   ],
+   "visual": "Mata AMIR sangat dekat; pantulan AINA dan lelaki itu dalam anak mata.",
+   "gerakan": "Kamera zoom perlahan ke mata AMIR; air mata bergenang.",
+   "ekspresi": "Terkejut dan sedih.",
+   "dialog": "(narasi) \"Siapa lelaki tu? Dan kenapa Aina nampak begitu gembira?\"",
+   "sudut": "Syot sangat dekat pada mata",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "pantulan dalam mata, degupan jantung makin laju",
+   "sfx": "Degupan jantung makin laju",
+   "sari_kata": "Siapa lelaki tu? Dan kenapa Aina nampak begitu gembira?",
+   "cap_suara": "00:57.3–01:00.6",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC24",
+   "tajuk": "Bersambung",
+   "mula": 60.75,
+   "tamat": 64.1,
+   "babak": "B5 · Cliffhanger",
+   "lokasi": "LOK-HITAM",
+   "watak": [],
+   "visual": "Skrin hitam dengan teks merah 'SIAPA LELAKI TU?!' dan 'BERSAMBUNG KE EPISOD 2…'.",
+   "gerakan": "Teks berdenyut ikut degupan jantung.",
+   "ekspresi": "—",
+   "dialog": "(narasi) \"Bersambung ke Episod 2…\"",
+   "sudut": "Skrin penuh",
+   "gerak_kamera": "Statik",
+   "teknik": "teks berdenyut",
+   "sfx": "Dentuman + degupan jantung kuat",
+   "sari_kata": "",
+   "cap_suara": "01:01.5–01:03.4",
+   "nota_sunting": "Teks dilukis dalam animatik",
+   "mod": "misteri",
+   "bercakap": false,
+   "masuk": "hitam"
+  }
+ ]
+}

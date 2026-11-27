@@ -152,3 +152,45 @@ function towerOffice(ctx, t) {
   rr(ctx, 300, 1120, 480, 70, 10, "#3B2A20", 5); // meja eksekutif
 }
 function studioBg(ctx, t) { burst(ctx, W / 2, H * .45, "#FFD23F", "#FFE27A", 28, t * .25); }
+
+// ---------- Crush Dalam Diam ----------
+function bougain(ctx, x, y, s, seed = 1) { const r = rng(seed); for (let i = 0; i < 14; i++) { const a = r() * TAU, d = r() * s; ell(ctx, x + Math.cos(a) * d, y + Math.sin(a) * d * .7, s * .22, s * .18, ["#FF5FA2", "#FF8CC0", "#E0408A"][i % 3], 0); } for (let i = 0; i < 6; i++) { const a = r() * TAU, d = r() * s; ell(ctx, x + Math.cos(a) * d, y + Math.sin(a) * d * .7, s * .16, s * .1, "#4E9A4E", 0, a); } }
+function deskChair(ctx, x, y, s, top = "#D9A86C") {
+  rr(ctx, x - 150 * s, y - 40 * s, 300 * s, 46 * s, 8 * s, top, 4 * s); rr(ctx, x - 140 * s, y + 6 * s, 280 * s, 70 * s, 4 * s, shade(top, -.25), 3 * s);
+  for (const dx of [-130, 120]) rr(ctx, x + dx * s, y + 70 * s, 12 * s, 150 * s, 3 * s, "#2F6B4F", 3 * s);
+}
+function classroom(ctx, t, o = {}) {
+  const dusk = o.dusk || 0;
+  ctx.fillStyle = shade("#F6EBD5", -dusk * .25); ctx.fillRect(-W, -H, W * 3, H * 3);
+  rr(ctx, 120, 330, 560, 330, 10, "#2F5D46", 7); rr(ctx, 120, 650, 560, 22, 4, "#B98A5A", 4); // papan hitam
+  for (let i = 0; i < 3; i++) line(ctx, 170 + i * 30, 400 + i * 50, 420 + i * 40, 410 + i * 45, 5, "rgba(255,255,255,.5)");
+  ell(ctx, 400, 250, 50, 50, "#FFFFFF", 5); line(ctx, 400, 250, 400, 220, 5); line(ctx, 400, 250, 422, 262, 5);
+  rr(ctx, -120, 380, 200, 260, 6, "#E9C07A", 5); for (let i = 0; i < 4; i++) rr(ctx, -100 + (i % 2) * 90, 400 + Math.floor(i / 2) * 110, 70, 90, 3, ["#FFB3CF", "#A9D6F5", "#FFF1A8", "#C8F0C8"][i], 2);
+  // tingkap kanan
+  for (let i = 0; i < 2; i++) { const x = 740 + i * 260; rr(ctx, x, 250, 240, 520, 6, shade("#BFE6FA", -dusk * .1), 7);
+    if (dusk) { const g = ctx.createLinearGradient(0, 250, 0, 770); g.addColorStop(0, "#FF9E6E"); g.addColorStop(1, "#FFD39A"); ctx.fillStyle = g; ctx.fillRect(x + 4, 254, 232, 512); }
+    bougain(ctx, x + 120, 330, 90, i + 3); bougain(ctx, x + 40, 520, 70, i + 9);
+    line(ctx, x + 120, 250, x + 120, 770, 8, "#2F6B4F"); line(ctx, x, 510, x + 240, 510, 8, "#2F6B4F"); rr(ctx, x, 250, 240, 520, 6, null, 7);
+    const sw = Math.sin(t * 1.3 + i) * 12; poly(ctx, [[x - 20, 230], [x + 40, 230], [x + 30 + sw, 800], [x - 30 + sw, 800]], "#F7C6D9", 4); }
+  ground(ctx, 1150, shade("#D9C2A0", -dusk * .2));
+  for (let k = -6; k <= 6; k++) line(ctx, 540 + k * 60, 1150, 540 + k * 420, 2600, 3, "rgba(43,30,26,.12)");
+  if (!o.noRays) rays(ctx, 1100, 200, 2.25, .5, 5, 1900, t, dusk ? "255,190,140" : "255,248,220", .2);
+  if (o.desks !== false) { deskChair(ctx, 300, 1230, .8); deskChair(ctx, 780, 1230, .8); }
+}
+function schoolGate(ctx, t) {
+  skyGrad(ctx, [[0, "#6B5BA8"], [.45, "#F08A8A"], [.8, "#FFC37A"], [1, "#FFE3A3"]], -200, 1150);
+  ell(ctx, 300, 900, 120, 120, "#FFE9B0"); glow(ctx, 300, 900, 420, "255,214,160", .45);
+  rr(ctx, -100, 560, 900, 560, 0, "#C98F7A", 5); for (let r = 0; r < 3; r++) for (let c = 0; c < 6; c++) rr(ctx, -60 + c * 140, 600 + r * 160, 90, 100, 6, "#FFD58A", 4);
+  rr(ctx, -120, 520, 940, 50, 6, "#8E4E44", 5);
+  tree(ctx, 900, 1150, 520, "#3E7C4A");
+  ground(ctx, 1150, "#8A8D93");
+  for (let x = -60; x < 1200; x += 46) line(ctx, x, 980, x, 1300, 10, "#2F6B4F");
+  line(ctx, -60, 1000, 1200, 1000, 14, "#2F6B4F"); line(ctx, -60, 1270, 1200, 1270, 14, "#2F6B4F");
+  rr(ctx, 360, 900, 90, 420, 8, "#E8DCC8", 6); rr(ctx, 700, 900, 90, 420, 8, "#E8DCC8", 6);
+  ground(ctx, 1320, "#B7B2A8");
+}
+function cloudSky(ctx, t) {
+  skyGrad(ctx, [[0, "#C7A6E8"], [.5, "#FFB3CF"], [1, "#FFE3EC"]]);
+  sparkles(ctx, 26, 12, t, [0, 0, W, H], "#FFFFFF");
+  const r = rng(5); for (let i = 0; i < 7; i++) { const x = ((r() * 1500 - t * (30 + r() * 30)) % 1500 + 1500) % 1500 - 200, y = 200 + r() * 1500; puff(ctx, x, y, 70 + r() * 60, "#FFFFFF", .9); }
+}

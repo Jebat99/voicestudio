@@ -185,3 +185,29 @@ bingkai, konfeti kecil berwarna-warni terapung, ruang kosong di bahagian atas bi
 
 Untuk scene jutawan: tambah selepas mod Komedi —
 "cahaya keemasan berkilau, kilauan bintang emas di udara, kontras hangat".
+
+## Lokasi Format C — Crush Dalam Diam
+
+### LOK-PAGAR
+```
+LOK-PAGAR: pagar besi hijau sekolah pada waktu petang dengan dua tiang pintu krim, bangunan
+sekolah bata merah jambu pudar dengan tingkap bercahaya di belakang, pokok angsana besar,
+langit senja jingga, merah jambu dan ungu, matahari rendah bersinar lembut.
+```
+
+### LOK-IMAJINASI
+```
+LOK-IMAJINASI: latar khayalan berwarna merah jambu lembut dengan corak hati yang bergerak
+perlahan, bunga-bunga dan kilauan terapung, cahaya bokeh lembut.
+```
+
+### LOK-AWAN
+```
+LOK-AWAN: langit khayalan merah jambu dan ungu lembut, awan putih gebu yang besar, hati
+kecil dan kilauan terapung di udara.
+```
+
+### LOK-HITAM
+```
+LOK-HITAM: skrin hitam pekat tanpa butiran, ruang kosong di tengah untuk teks.
+```

@@ -31,6 +31,12 @@ Cahaya matahari petang keemasan yang hangat, kilauan bintang emas berkilau di ud
 hangat dan mewah, warna emas dan putih menonjol.
 ```
 
+**Romantik** (crush, saat manis)
+```
+Cahaya matahari lembut dari tingkap, sinar cahaya serong, bokeh merah jambu dan keemasan,
+warna pastel hangat, kilauan halus, suasana manis dan romantik.
+```
+
 ## Susunan prompt (tetap)
 
 ```

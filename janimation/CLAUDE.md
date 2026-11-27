@@ -117,6 +117,10 @@ Untuk suara ElevenLabs, minta teks tepat yang ditaip pengguna supaya sari kata s
   `03_episod/EPxxx_*/animatik.js` (satu fungsi setiap scene) dan jalankan
   `node janimation/alat/animatik/render.cjs janimation/03_episod/EPxxx_* janimation/07_output/EPxxx_animatik_vN.mp4`.
   Guna `--stills t1,t2 --stills-dir <dir>` untuk semak bingkai sebelum render penuh.
+- **Audio tanpa delay**: `python3 janimation/alat/audio_ketat.py <in.mp3> <out.wav> <masa.json> --jeda 0.28`
+  merapatkan jeda (suara tidak dipotong). Muzik/SFX sintetik: tulis `03_episod/EPxxx_*/bunyi.py`
+  guna `alat/bunyi.py`, output `suara/*_campuran.wav` (rujuk `episod.audio_campuran` dalam `adegan.json`).
+  Sari kata ikut masa suara: medan `sari_kata` (senarai `{mula, tamat, teks}`) dalam `adegan.json`.
 - Bahasa prompt: **Bahasa Melayu**. Istilah teknikal yang tiada padanan biasa boleh
   disertakan dalam kurungan (cth. "cel shading"). Lihat `04_prompt/kamus-kamera.md`.
 - Satu prompt = satu scene = satu klip. Susunan tetap (lihat `04_prompt/prompt-gaya-asas.md`):

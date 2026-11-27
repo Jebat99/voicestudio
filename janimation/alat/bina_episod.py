@@ -71,7 +71,7 @@ def main(ep_dir: Path) -> None:
     gaya_path = ROOT / "04_prompt" / "prompt-gaya-asas.md"
     gaya_text = gaya_path.read_text(encoding="utf-8")
     gaya = _first_code_after(gaya_text, "## [GAYA] — utama", gaya_path)
-    mods = {m: _first_code_after(gaya_text, f"**{m.capitalize()}**", gaya_path) for m in ("komedi", "misteri", "mewah")}
+    mods = {m: _first_code_after(gaya_text, f"**{m.capitalize()}**", gaya_path) for m in ("komedi", "misteri", "mewah", "romantik")}
     neg_path = ROOT / "04_prompt" / "prompt-negatif.md"
     negatif = CODE.search(neg_path.read_text(encoding="utf-8")).group(1).strip()
 
@@ -85,8 +85,8 @@ def main(ep_dir: Path) -> None:
         if abs(sc["mula"] - prev_end) > 0.011:
             errors.append(f"{sc['id']}: mula {sc['mula']} tidak bersambung dengan scene sebelumnya ({prev_end})")
         dur = sc["tamat"] - sc["mula"]
-        if not 2.0 <= dur <= 8.0:
-            errors.append(f"{sc['id']}: durasi {dur:.2f} s di luar 2–8 s")
+        if not 1.4 <= dur <= 8.0:
+            errors.append(f"{sc['id']}: durasi {dur:.2f} s di luar 1.4–8 s")
         if sc["mod"] not in mods:
             errors.append(f"{sc['id']}: mod '{sc['mod']}' tidak dikenali")
         prev_end = sc["tamat"]

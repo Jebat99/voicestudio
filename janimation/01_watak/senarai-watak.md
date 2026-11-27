@@ -18,6 +18,15 @@
 | `SOFEA` (+ `-NIKAH`) | Puan Sofea | Janda jutawan (EP001) | Emas | DRAF | [SOFEA.md](SOFEA.md) |
 | `PAKCIK-GYM`, `JURUNIKAH`, figuran | — | Sampingan / orang ramai | — | DRAF | [FIGURAN.md](FIGURAN.md) |
 
+## Format C — Crush Dalam Diam
+
+| ID | Nama paparan | Peranan | Warna tanda | Status | Fail |
+|---|---|---|---|---|---|
+| `AMIR` | Amir | Narator, diam-diam suka AINA | Biru | DRAF | [AMIR.md](AMIR.md) |
+| `AINA` | Aina | Crush AMIR | Merah jambu | DRAF | [AINA.md](AINA.md) |
+| `LELAKI-MISTERI` | ? | Cliffhanger EP002 | Biru denim | DRAF | [LELAKI-MISTERI.md](LELAKI-MISTERI.md) |
+| `CIKGU-ROS` | Cikgu Ros | Guru (dikongsi dengan Format A) | Merah | DRAF | [CIKGU-ROS.md](CIKGU-ROS.md) |
+
 ## Dinamik kumpulan
 
 - **AIMAN** (emosi) ↔ **QIS** (logik): konflik teori setiap episod.

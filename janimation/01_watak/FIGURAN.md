@@ -41,3 +41,11 @@ ringkas tanpa ciri menonjol.
 PEKERJA-FIGURAN: pekerja kedai dan katering Malaysia berpakaian apron dan uniform kerja kemas,
 muka ringkas tanpa ciri menonjol, bergerak sangat sibuk.
 ```
+
+### Blok Varian MURID-FIGURAN
+
+```
+MURID-FIGURAN: murid sekolah menengah Malaysia, lelaki berkemeja putih bertali leher hijau
+dan berseluar hijau gelap, perempuan berbaju kurung putih, kain biru tua dan tudung putih,
+muka ringkas tanpa ciri menonjol.
+```

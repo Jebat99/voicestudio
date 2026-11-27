@@ -8,7 +8,8 @@ const args = process.argv.slice(2), opt = k => { const i = args.indexOf(k); retu
 const ep = path.resolve(args[0]), out = path.resolve(args[1] || "out.mp4");
 const fps = +(opt("--fps") || 24);
 const data = JSON.parse(fs.readFileSync(path.join(ep, "adegan.json"), "utf8"));
-const audio = path.join(ep, data.episod.audio);
+const audio = path.join(ep, data.episod.audio); // suara sahaja: untuk lip-sync
+const mixAudio = path.join(ep, data.episod.audio_campuran || data.episod.audio); // trek akhir dalam MP4
 const END = data.scene[data.scene.length - 1].tamat;
 const from = +(opt("--from") || 0), to = Math.min(+(opt("--to") || END), END);
 
@@ -33,7 +34,14 @@ function draw(T) {
   const lt = T - s.mula, d = s.tamat - s.mula;
   ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.globalAlpha = 1; ctx.clearRect(0, 0, W, H); ctx.fillStyle = "#000"; ctx.fillRect(0, 0, W, H);
   ctx.save(); (SCENES[s.id] || (() => {}))(ctx, lt, d, T, env); ctx.restore();
-  subtitle(ctx, s.sari_kata, 1, 1 + .08 * (1 - easeOut(prog(lt, 0, .18))));
+  if (DATA.sari_kata) { // sari kata ikut masa suara sebenar
+    const K = DATA.sari_kata; for (let i = 0; i < K.length; i++) { const k = K[i], end = Math.min(K[i + 1] ? K[i + 1].mula - .02 : 1e9, k.tamat + .35);
+      if (T >= k.mula - .04 && T < end) { subtitle(ctx, k.teks, 1, 1 + .08 * (1 - easeOut(prog(T, k.mula - .04, k.mula + .14)))); break; } }
+  } else subtitle(ctx, s.sari_kata, 1, 1 + .08 * (1 - easeOut(prog(lt, 0, .18))));
+  // peralihan bentuk hati antara babak
+  const i = S.indexOf(s), nx = S[i + 1], D = .26;
+  if (nx && nx.masuk === "hati" && T > nx.mula - D) heartWipe(ctx, prog(T, nx.mula - D, nx.mula));
+  if (s.masuk === "hati" && lt < D) heartWipe(ctx, -1 + prog(lt, 0, D));
 }
 </script></body></html>`;
 
@@ -54,7 +62,7 @@ function draw(T) {
     await browser.close(); return;
   }
   const ff = spawn("ffmpeg", ["-y", "-v", "error", "-f", "image2pipe", "-framerate", String(fps), "-c:v", "mjpeg", "-i", "-",
-    "-ss", String(from), "-t", String(to - from), "-i", audio,
+    "-ss", String(from), "-t", String(to - from), "-i", mixAudio,
     "-filter_complex", "[1:a]apad[a]", "-map", "0:v", "-map", "[a]", "-t", String(to - from),
     "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p", "-r", String(fps),
     "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", out], { stdio: ["pipe", "inherit", "inherit"] });

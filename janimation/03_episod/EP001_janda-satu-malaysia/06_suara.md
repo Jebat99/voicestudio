@@ -6,7 +6,7 @@
 
 | Fail | Durasi | Format | Catatan |
 |---|---|---|---|
-| `suara/EP001_narasi.mp3` (asal: `Janda_baru.mp3`) | 76.2 s | MP3 mono 44.1 kHz 128 kb/s | Suara sahaja, tiada muzik. Tidak di-commit ke git |
+| `suara/EP001_narasi.mp3` (asal: `Janda_baru.mp3`) | 76.2 s | MP3 mono 44.1 kHz 128 kb/s | Suara ElevenLabs disediakan pengguna, tiada muzik. Tidak di-commit ke git |
 
 ## B. Kaedah
 
@@ -40,7 +40,8 @@
 **Jumlah audio:** 76.2 s · **Jumlah video:** 77.0 s (tambahan 0.8 s untuk logo + bunyi penutup)
 
 > ⚠️ B15: rakaman penutup hanya 4 s. Kemungkinan ayat penutup diringkaskan semasa rakaman.
-> Sahkan ayat sebenar supaya sari kata SC22 tepat.
+> Keputusan pengguna: teruskan dengan audio sedia ada. Sari kata SC22 guna versi pendek;
+> semak dengan teks ElevenLabs semasa suntingan.
 
 ## D. Bunyi tambahan
 

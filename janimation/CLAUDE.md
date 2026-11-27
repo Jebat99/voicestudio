@@ -36,7 +36,7 @@ Claude memegang lima peranan. Nyatakan peranan aktif di awal setiap peringkat ke
 | Bingkai | **Menegak 9:16, 1080×1920**, 24 fps |
 | Struktur | Hook → Konflik → Klimaks → Ending (dengan twist) |
 | Unit | **Scene = satu klip AI video, 2–8 saat.** 12–24 scene setiap episod |
-| Suara | **Suara pengguna sendiri** (dirakam dan dimuat naik oleh pengguna). Animasi ikut suara, bukan sebaliknya |
+| Suara | **Disediakan oleh pengguna**: rakaman sendiri atau dijana sendiri di ElevenLabs, kemudian dimuat naik. Animasi ikut suara, bukan sebaliknya |
 | Sari kata | Wajib, BM, dibakar ke dalam video (ramai menonton tanpa bunyi) |
 | Teks skrin & logo | Tajuk, logo Janimation dan teks (cth. "SERVER OVERLOADED") **ditambah semasa suntingan**, tidak dijana oleh AI |
 | Durasi video | **Ikut durasi audio pengguna** + maks 1 s untuk logo. Tiada intro tambahan |
@@ -90,7 +90,8 @@ Untuk episod 60 s atau 120 s, skalakan nisbah yang sama. Hook kekal 0–3 s.
 
 ## 5. Suara Pengguna — Aliran Audio Dahulu
 
-Pengguna merakam dan memuat naik suaranya sendiri. Claude **tidak menjana suara**.
+Pengguna menyediakan suara sendiri (rakaman atau ElevenLabs) dan memuat naiknya. Claude **tidak menjana suara**.
+Untuk suara ElevenLabs, minta teks tepat yang ditaip pengguna supaya sari kata sepadan.
 
 1. Selepas skrip diluluskan, hasilkan **skrip rakaman** dalam `06_suara.md` (baris
    bernombor, watak, emosi, panduan nada).

@@ -18,4 +18,4 @@ Status: `IDEA → KONSEP → STRUKTUR → SKRIP → MENUNGGU SUARA → STORYBOAR
 
 | EP | Tajuk | Status | Durasi | Langkah seterusnya | Tarikh pos |
 |---|---|---|---|---|---|
-| EP001 | Apa Jadi Kalau Satu Malaysia Dipenuhi Janda? (Format B) | STORYBOARD + PROMPT — menunggu kelulusan | 77.0 s | Pengguna luluskan storyboard, rupa HAKIM/SOFEA dan sahkan ayat penutup B15 | — |
+| EP001 | Apa Jadi Kalau Satu Malaysia Dipenuhi Janda? (Format B) | STORYBOARD + PROMPT — menunggu kelulusan | 77.0 s | Pengguna semak animatik dan luluskan storyboard + rupa HAKIM/SOFEA; pilih alat AI video; jana lembaran watak | — |

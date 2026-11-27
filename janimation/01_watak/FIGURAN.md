@@ -56,3 +56,22 @@ muka ringkas tanpa ciri menonjol.
 KELUARGA-AINA: ibu AINA bertudung hijau lembut berbaju kurung, ayah AINA berkemeja batik dan
 bermisai, wajah mesra, dalam gaya imbas kembali sepia.
 ```
+
+### Blok Varian ISTERI-KEDUA
+
+```
+ISTERI-KEDUA: wanita Melayu zaman dahulu, rambut disanggul dengan bunga kuning, baju kurung ungu,
+kain ungu tua, tersenyum melambai.
+```
+
+### Blok Varian TOK-KAMPUNG
+
+```
+TOK-KAMPUNG: lelaki tua kampung, songkok hitam, misai putih, baju Melayu coklat, membawa pelita.
+```
+
+### Blok Varian MAKCIK-KAMPUNG
+
+```
+MAKCIK-KAMPUNG: wanita kampung bertudung biru, baju kurung hijau muda, kain hijau.
+```

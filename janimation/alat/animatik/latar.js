@@ -259,3 +259,38 @@ function homeRoom(ctx) {
   for (let i = 0; i < 3; i++) rr(ctx, 80 + i * 170, 330, 130, 160, 6, "#FFFFFF", 6);
   ground(ctx, 1150, "#C9A47A"); rr(ctx, -60, 980, 760, 240, 40, "#F1E2C6", 7); rr(ctx, -60, 860, 760, 160, 40, "#E8D3AE", 7);
 }
+
+// ---------- Seram: hutan, pokok besar, kampung malam ----------
+function nightSky(ctx, t, top = "#0B1030", bot = "#2A2C5A") { skyGrad(ctx, [[0, top], [1, bot]], -400, 1300); const r = rng(3); for (let i = 0; i < 30; i++) star(ctx, r() * W, r() * 900, 3 + 4 * Math.abs(Math.sin(t * 2 + i)), "#FFFFFF", 0, 4, .35); }
+function moon(ctx, x, y, s) { glow(ctx, x, y, 320 * s, "220,230,255", .4); ell(ctx, x, y, 110 * s, 110 * s, "#F4F1DE"); ell(ctx, x - 30 * s, y - 20 * s, 22 * s, 22 * s, "#DCD7BE"); ell(ctx, x + 35 * s, y + 25 * s, 16 * s, 16 * s, "#DCD7BE"); }
+function spookyTree(ctx, x, base, s, col = "#151226") {
+  ctx.fillStyle = col; ctx.beginPath(); ctx.moveTo(x - 40 * s, base); ctx.quadraticCurveTo(x - 20 * s, base - 300 * s, x - 10 * s, base - 600 * s); ctx.lineTo(x + 10 * s, base - 600 * s); ctx.quadraticCurveTo(x + 20 * s, base - 300 * s, x + 40 * s, base); ctx.fill();
+  ctx.strokeStyle = col; ctx.lineCap = "round"; for (const [a, l, w] of [[-2.4, 260, 22], [-.7, 240, 20], [-2.0, 180, 14], [-1.1, 200, 14]]) { ctx.lineWidth = w * s; ctx.beginPath(); ctx.moveTo(x, base - 450 * s); ctx.quadraticCurveTo(x + Math.cos(a) * l * .5 * s, base - 450 * s + Math.sin(a) * l * .7 * s, x + Math.cos(a) * l * s, base - 450 * s + Math.sin(a) * l * s); ctx.stroke(); }
+}
+function forest(ctx, t, o = {}) {
+  nightSky(ctx, t); moon(ctx, o.mx ?? 760, o.my ?? 330, 1);
+  for (let i = 0; i < 7; i++) spookyTree(ctx, -80 + i * 200, 1250, .9 + (i % 3) * .15, "#1B1836");
+  ground(ctx, 1240, "#141226");
+  for (let i = 0; i < 5; i++) spookyTree(ctx, -150 + i * 340, 1500, 1.3, "#0C0A18");
+  fog(ctx, t, 900, 7, .3);
+}
+function bigTree(ctx, x, base, s, t) {
+  ctx.fillStyle = "#2A1F2E"; ctx.beginPath(); ctx.moveTo(x - 170 * s, base); ctx.quadraticCurveTo(x - 90 * s, base - 500 * s, x - 70 * s, base - 1500 * s); ctx.lineTo(x + 70 * s, base - 1500 * s); ctx.quadraticCurveTo(x + 90 * s, base - 500 * s, x + 170 * s, base); ctx.fill();
+  ctx.lineWidth = 6; ctx.strokeStyle = INK; ctx.stroke();
+  for (let i = 0; i < 6; i++) line(ctx, x - 40 * s + i * 16 * s, base - 200 * s - i * 120 * s, x - 30 * s + i * 18 * s, base - 400 * s - i * 120 * s, 4, "rgba(0,0,0,.35)");
+  rr(ctx, x - 60 * s, base - 960 * s, 560 * s, 60 * s, 30 * s, "#2A1F2E", 6); // dahan
+  for (let i = 0; i < 9; i++) { const a = i / 9 * Math.PI; puff(ctx, x + Math.cos(a) * 420 * s, base - 1500 * s - Math.sin(a) * 240 * s, 180 * s, "#14201A", 1); }
+  for (let k = 0; k < 6; k++) line(ctx, x + (k - 2) * 60 * s, base - 960 * s, x + (k - 2) * 66 * s, base - (760 - k * 30) * s, 4, "#1B2A1F");
+}
+function kampungNight(ctx, t, o = {}) {
+  nightSky(ctx, t, "#141A3A", "#3B3A6E"); moon(ctx, 820, 300, .9);
+  palm(ctx, 980, 1250, 620); palm(ctx, -60, 1250, 560);
+  kampungHouse(ctx, 60, 1250, 1.05); if (o.windows) { ell(ctx, 180, 860, 90, 50, "rgba(255,200,100,.25)"); }
+  ctx.save(); ctx.globalAlpha = .55; ctx.fillStyle = "#0B1030"; ctx.fillRect(-W, -H, W * 3, H * 3); ctx.restore();
+  ground(ctx, 1250, "#24304A"); fog(ctx, t, 1100, 4, .2);
+}
+function kampungDay(ctx, t) {
+  skyGrad(ctx, [[0, "#F2C46D"], [1, "#FFE9C2"]], 0, 1250); clouds(ctx, t * 6, 3, 120, 3);
+  palm(ctx, 980, 1250, 620); palm(ctx, -60, 1250, 560); kampungHouse(ctx, 60, 1250, 1.05);
+  ground(ctx, 1250, "#B79B6A"); road(ctx, 1420, 220, "#C9AE84", false);
+}

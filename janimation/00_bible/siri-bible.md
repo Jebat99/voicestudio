@@ -8,6 +8,7 @@
 |---|---|---|---|
 | **A** | Kes Sekolah Janima | Lakonan watak, misteri sekolah | AIMAN, QIS, APIS, CIKGU-ROS, PAK-LEMAN |
 | **C** | **Crush Dalam Diam** | Romkom sekolah bersiri, narasi orang pertama AMIR, manis dan romantik, setiap episod berakhir dengan cliffhanger | AMIR, AINA, LELAKI-MISTERI, CIKGU-ROS |
+| **D** | **Hikayat Seram Lawak** | Narasi kisah rakyat/hantu Malaysia secara seram-lucu dengan plot twist; watak baharu setiap kisah | SITI, PONTIANAK, SUAMI-SITI, PEMUDA (EP006) |
 | **B** | **Apa Jadi Kalau?** | Narasi suara pengguna + montaj satira tentang Malaysia, berakhir dengan twist dan CTA | HAKIM (lelaki biasa berulang) + watak khas episod |
 
 Format B: setiap episod satu soalan "Apa jadi kalau…" yang absurd tetapi relatable,

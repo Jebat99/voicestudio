@@ -160,3 +160,52 @@ def stinger(amp=.6):
         f = midi(n) * (1 - .08 * t / d); y += np.sin(2 * np.pi * np.cumsum(np.full(len(t), 1.0)) / SR * f) * .25
     y *= env_exp(len(t), 2.2); y[:int(1.2 * SR)] += hit(1.0)[:int(1.2 * SR)]
     return y * amp
+
+
+def angin(d, amp=.08):
+    y = noise_band(d, 40, 33); t = t_(d); return y * (.6 + .4 * np.sin(2 * np.pi * .23 * t)) * np.minimum(1, t / .8) * np.minimum(1, (d - t) / .8) * amp
+
+
+def hujan(d, amp=.06):
+    y = noise_band(d, 2, 44); t = t_(d); return y * np.minimum(1, t / .5) * np.minimum(1, (d - t) / .5) * amp
+
+
+def burung_hantu(amp=.3):
+    out = np.zeros(int(1.3 * SR))
+    for off, d in ((0, .35), (.5, .6)):
+        t = t_(d); f = 330 * (1 - .12 * t / d) * (1 + .01 * np.sin(2 * np.pi * 6 * t))
+        y = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.sin(np.pi * t / d) ** .6 * amp
+        i = int(off * SR); out[i:i + len(y)] += y
+    return out
+
+
+def ketawa_seram(amp=.2):
+    out = np.zeros(int(1.6 * SR))
+    for k in range(7):
+        d = .14; t = t_(d); f = (900 - k * 60) * (1 + .04 * np.sin(2 * np.pi * 30 * t))
+        y = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.sin(np.pi * t / d) * amp * (1 - k * .08)
+        i = int(k * .19 * SR); out[i:i + len(y)] += y
+    return out
+
+
+def jeritan(d=1.1, amp=.35):
+    t = t_(d); f = 1100 + 500 * np.sin(np.pi * t / d) + 60 * np.sin(2 * np.pi * 9 * t)
+    y = (np.sin(2 * np.pi * np.cumsum(f) / SR) + .5 * np.sin(2 * np.pi * np.cumsum(f * 1.5) / SR)) * .6 + .25 * noise_band(d, 3, 51)
+    return y * np.minimum(1, t / .03) * np.minimum(1, (d - t) / .3) * amp
+
+
+def guruh(amp=.5):
+    d = 2.4; t = t_(d); y = noise_band(d, 120, 61) * 3; return y * env_exp(len(t), 1.6) * np.minimum(1, t / .05) * amp
+
+
+def wah_wah(amp=.22):
+    out = np.zeros(int(2.4 * SR))
+    for k, n in enumerate((62, 61, 60, 59)):
+        d = .5 if k < 3 else 1.1; t = t_(d); f = midi(n) * (1 + .03 * np.sin(2 * np.pi * 6 * t))
+        y = (np.sin(2 * np.pi * np.cumsum(f) / SR) + .5 * np.sin(4 * np.pi * np.cumsum(f) / SR)) * np.minimum(1, t / .05) * np.minimum(1, (d - t) / .15) * amp
+        i = int(k * .52 * SR); out[i:i + len(y)] += y[: len(out) - i]
+    return out
+
+
+def titis(amp=.25):
+    t = t_(.15); f = 1400 * np.exp(-t * 10) + 500; return np.sin(2 * np.pi * np.cumsum(f) / SR) * env_exp(len(t), 30) * amp

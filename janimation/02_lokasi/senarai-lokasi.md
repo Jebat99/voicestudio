@@ -254,3 +254,28 @@ bingkai gambar keluarga di dinding, cahaya petang lembut, gaya imbas kembali sep
 ```
 LOK-NOTA: sekeping kad nota merah jambu lembut dengan tulisan tangan dan lakaran hati, dilihat dari atas.
 ```
+
+## Lokasi Format D — Hikayat Seram Lawak
+
+### LOK-KAMPUNG-LAMA
+```
+LOK-KAMPUNG-LAMA: kampung Melayu zaman dahulu waktu petang keemasan, rumah kayu bertiang hijau dan
+kuning, pokok kelapa, jalan tanah, gaya warna sepia hangat.
+```
+
+### LOK-KAMPUNG-MALAM
+```
+LOK-KAMPUNG-MALAM: kampung yang sama pada waktu malam, bulan, langit biru gelap, kabus nipis, cahaya pelita.
+```
+
+### LOK-HUTAN
+```
+LOK-HUTAN: hutan gelap waktu malam, pokok-pokok bengkok berupa siluet, bulan purnama, kabus tebal
+bergerak, langit biru keunguan berbintang.
+```
+
+### LOK-POKOK-BESAR
+```
+LOK-POKOK-BESAR: sebatang pokok besar tua di pinggir kampung pada waktu malam, dahan mendatar yang
+panjang, akar menjalar, kabus di kaki pokok.
+```

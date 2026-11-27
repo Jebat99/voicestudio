@@ -142,3 +142,12 @@ def campur(suara_wav, muzik, sfx, out_wav, panjang, g_muzik=.17, g_sfx=.6):
     y = vv + m * duck * g_muzik + s * g_sfx
     y = y / max(1e-9, np.abs(y).max()) * .95
     tulis_wav(out_wav, y)
+
+
+def stamp_sfx(amp=.5):
+    t = t_(.35); y = np.sin(2 * np.pi * 70 * t) * env_exp(len(t), 18) + .5 * noise_band(.35, 4, 21) * env_exp(len(t), 40)
+    return y * amp
+
+
+def tick(amp=.18):
+    t = t_(.05); return np.sin(2 * np.pi * 1800 * t) * env_exp(len(t), 90) * amp

@@ -194,3 +194,32 @@ function cloudSky(ctx, t) {
   sparkles(ctx, 26, 12, t, [0, 0, W, H], "#FFFFFF");
   const r = rng(5); for (let i = 0; i < 7; i++) { const x = ((r() * 1500 - t * (30 + r() * 30)) % 1500 + 1500) % 1500 - 200, y = 200 + r() * 1500; puff(ctx, x, y, 70 + r() * 60, "#FFFFFF", .9); }
 }
+
+function bedroom(ctx, t) {
+  skyGrad(ctx, [[0, "#3B3A6E"], [1, "#5B4E8C"]]);
+  rr(ctx, 620, 260, 380, 460, 10, "#1E2246", 8); for (let i = 0; i < 12; i++) { const r = rng(i + 4); star(ctx, 640 + r() * 340, 280 + r() * 420, 6 + 6 * Math.abs(Math.sin(t * 2 + i)), "#FFF6C8", 0, 4, .35); }
+  ell(ctx, 900, 380, 60, 60, "#FFF1B8"); ell(ctx, 925, 365, 52, 52, "#1E2246"); glow(ctx, 880, 400, 300, "255,240,190", .25);
+  line(ctx, 810, 260, 810, 720, 8, "#8C6440"); line(ctx, 620, 490, 1000, 490, 8, "#8C6440"); rr(ctx, 620, 260, 380, 460, 10, null, 8);
+  rr(ctx, 80, 300, 230, 320, 8, "#FF8FB1", 6); rr(ctx, 110, 330, 170, 120, 6, "#FFFFFF", 4); ell(ctx, 195, 520, 50, 50, "#FFD23F", 4);
+  ground(ctx, 1200, "#8E7BB8");
+  rr(ctx, -100, 1150, 900, 140, 30, "#C9B6E8", 7); rr(ctx, -100, 1270, 900, 400, 10, "#6F5BA8", 7); rr(ctx, -80, 1060, 260, 120, 40, "#FFFFFF", 6);
+  rr(ctx, 860, 1000, 200, 300, 10, "#B98A5A", 6); ell(ctx, 960, 960, 60, 40, "#FFE08A", 5); glow(ctx, 960, 960, 260, "255,220,140", .45);
+}
+function strategyBoard(ctx, t) {
+  skyGrad(ctx, [[0, "#2B2A4A"], [1, "#3E3A66"]]);
+  rr(ctx, 60, 200, 960, 1000, 18, "#C99A63", 10); rr(ctx, 90, 230, 900, 940, 10, "#D8AE78", 0);
+  const pins = [[250, 520], [820, 470], [300, 950], [780, 960], [540, 760]];
+  ctx.save(); ctx.lineWidth = 7; ctx.strokeStyle = "#D7263D"; ctx.beginPath(); for (const [a, b] of [[0, 4], [1, 4], [2, 4], [3, 4], [0, 2], [1, 3]]) { ctx.moveTo(...pins[a]); ctx.lineTo(...pins[b]); } ctx.stroke(); ctx.restore();
+  ctx.save(); ctx.translate(540, 760); ctx.rotate(-.04); rr(ctx, -150, -170, 300, 340, 8, "#FFFFFF", 6); ctx.restore();
+  for (const [x, y, c] of [[250, 520, "#FFF1A8"], [820, 470, "#C8F0C8"], [300, 950, "#A9D6F5"], [780, 960, "#FFB3CF"]]) { ctx.save(); ctx.translate(x, y); ctx.rotate((x % 7 - 3) * .03); rr(ctx, -110, -90, 220, 180, 6, c, 5); ctx.restore(); }
+  for (const [x, y] of pins) ell(ctx, x, y - 70, 14, 14, "#D7263D", 4);
+}
+function corridor(ctx, t) {
+  skyGrad(ctx, [[0, "#9ED8F7"], [1, "#E8F6FF"]], -200, 1100);
+  tree(ctx, 160, 1100, 520, "#4E9A4E"); tree(ctx, 920, 1100, 460, "#3E8E41");
+  poly(ctx, [[-400, 1920], [1480, 1920], [640, 900], [440, 900]], "#C0553E");
+  for (let k = 0; k < 10; k++) { const y = lerp(900, 1920, (k / 10) ** 1.6); line(ctx, -400, y, 1480, y, 3, "rgba(43,30,26,.18)"); }
+  poly(ctx, [[-400, 0], [440, 640], [440, 900], [-400, 1920]], "#F3E9D2"); poly(ctx, [[1480, 0], [640, 640], [640, 900], [1480, 1920]], "#E8DCC4");
+  for (let k = 0; k < 5; k++) { const u = (k / 5) ** 1.4, xl = lerp(-400, 440, 1 - u * 0 - (1 - u)), y0 = lerp(0, 640, u); rr(ctx, lerp(-300, 400, u), lerp(300, 700, u), lerp(160, 30, u), lerp(700, 140, u), 6, "#2F6B4F", 4); }
+  rr(ctx, 440, 640, 200, 260, 4, "#BFE6FA", 5);
+}

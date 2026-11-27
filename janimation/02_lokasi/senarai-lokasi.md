@@ -211,3 +211,28 @@ kecil dan kilauan terapung di udara.
 ```
 LOK-HITAM: skrin hitam pekat tanpa butiran, ruang kosong di tengah untuk teks.
 ```
+
+### LOK-BILIK-AMIR
+```
+LOK-BILIK-AMIR: bilik tidur remaja pada waktu malam, dinding ungu kebiruan, tingkap dengan
+bulan sabit dan bintang, katil dengan selimut ungu dan bantal putih, meja belajar kayu dengan
+lampu meja kuning bercahaya, poster merah jambu di dinding.
+```
+
+### LOK-PAPAN-STRATEGI
+```
+LOK-PAPAN-STRATEGI: papan gabus besar gaya ejen rahsia, nota pelekat berwarna, benang merah
+menyambungkan pin, lakaran wajah di tengah, latar bilik malam yang gelap.
+```
+
+### LOK-BUKU
+```
+LOK-BUKU: halaman buku catatan kecil bergaris dilihat dari atas, tulisan tangan biru dan lakaran
+comel coklat, kucing dan gulungan filem.
+```
+
+### LOK-BAWAH-MEJA
+```
+LOK-BAWAH-MEJA: pandangan dari bawah meja sekolah, permukaan bawah meja kayu, lutut murid
+berseluar hijau gelap, buku latihan matematik terbuka di riba.
+```

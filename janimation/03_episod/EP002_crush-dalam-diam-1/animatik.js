@@ -3,24 +3,6 @@
    cam, shake, person, head, POSE, runPose, PRESET, SKIN, murid, prop, speedLines, hLines, sparkles, petals, puff, flash, vignette, skyGrad,
    bigText, ground, classroom, deskChair, schoolGate, cloudSky, bokeh, rays, glow, heartPattern, thought, beatHeart, lightLeak, sweat, bougain */
 
-SKIN.stone = ["#C9C9CC", "#A7A7AD"];
-const AINA_BG = () => {};
-function seated(ctx, x, deskY, h, o, s = 1.3) { const pr = person(ctx, x, deskY + h * .47, h, o); deskChair(ctx, x, deskY + 40 * s, s); return pr; }
-function steam(ctx, x, y, t, n = 3) { for (let i = 0; i < n; i++) { const k = ((t * 1.4 + i / n) % 1); puff(ctx, x + (i - 1) * 60 + Math.sin(t * 5 + i) * 15, y - k * 160, 26 + k * 22, "#FFFFFF", .8 * (1 - k)); } }
-function soul(ctx, x, y, t) { ctx.save(); ctx.globalAlpha = .85; const yy = y - (t % 1.5) * 80; ctx.beginPath(); ctx.moveTo(x, y); ctx.bezierCurveTo(x - 40, yy - 40, x + 50, yy - 80, x, yy - 140);
-  ctx.bezierCurveTo(x + 70, yy - 170, x + 90, yy - 110, x + 40, yy - 90); ctx.lineWidth = 6; ctx.strokeStyle = INK; ctx.fillStyle = "#F4F7FF"; ctx.fill(); ctx.stroke(); ell(ctx, x + 30, yy - 140, 50, 44, "#F4F7FF", 6); ell(ctx, x + 18, yy - 146, 6, 8, INK); ell(ctx, x + 42, yy - 146, 6, 8, INK); ctx.restore(); }
-function icon(ctx, k, x, y, s) {
-  ell(ctx, x, y, s, s, "#FFFFFF", 5);
-  if (k === "chair") { rr(ctx, x - s * .4, y - s * .1, s * .8, s * .14, 4, "#D9A86C", 3); rr(ctx, x - s * .4, y - s * .55, s * .14, s * .5, 4, "#D9A86C", 3); line(ctx, x - s * .3, y + s * .05, x - s * .3, y + s * .45, 6, "#2F6B4F"); line(ctx, x + s * .3, y + s * .05, x + s * .3, y + s * .45, 6, "#2F6B4F"); }
-  if (k === "eraser") { rr(ctx, x - s * .45, y - s * .2, s * .9, s * .4, 6, "#FFFFFF", 4); rr(ctx, x - s * .45, y - s * .2, s * .42, s * .4, 6, "#7EC8F2", 4); }
-  if (k === "hand") { rr(ctx, x - s * .16, y - s * .1, s * .32, s * .6, 10, "#E7B48F", 4); rr(ctx, x - s * .1, y - s * .62, s * .2, s * .56, 10, "#E7B48F", 4); }
-}
-function bulb(ctx, x, y, s, t) { glow(ctx, x, y, s * 3, "255,236,140", .6); ell(ctx, x, y, s, s * 1.05, "#FFE66B", 6); rr(ctx, x - s * .45, y + s * .9, s * .9, s * .5, 6, "#9AA3AF", 5);
-  for (let i = 0; i < 8; i++) { const a = i / 8 * TAU + t; line(ctx, x + Math.cos(a) * s * 1.35, y + Math.sin(a) * s * 1.35, x + Math.cos(a) * s * 1.75, y + Math.sin(a) * s * 1.75, 7, "#FFD23F"); } }
-function flowersBloom(ctx, t, seed = 3, n = 12) { const r = rng(seed); for (let i = 0; i < n; i++) { const x = r() * W, y = 150 + r() * 1100, k = easeBack(clamp((t - r() * .8) * 2)), s = (40 + r() * 40) * k; if (s <= 1) continue;
-  for (let p = 0; p < 5; p++) { const a = p / 5 * TAU + t * .3; ell(ctx, x + Math.cos(a) * s * .6, y + Math.sin(a) * s * .6, s * .45, s * .45, ["#FF8FB1", "#FFB3CF", "#FFFFFF"][i % 3], 3); } ell(ctx, x, y, s * .3, s * .3, "#FFD23F", 3); } }
-const PINK = [[0, "#FFE3EC"], [1, "#FFC7DA"]];
-
 const SCENES = {
   SC01(ctx, lt, d, T) {
     const run = lt < 1.05, x = lerp(-250, 560, easeOut(prog(lt, 0, 1.05)));

@@ -32,12 +32,14 @@ Claude memegang lima peranan. Nyatakan peranan aktif di awal setiap peringkat ke
 | Gaya | Kartun 2D gaya anime — garisan bersih, cel shading 2 tona, mata ekspresif |
 | Bahasa | Bahasa Melayu Malaysia (dialog, prompt, sari kata, kapsyen). Lihat `00_bible/panduan-bahasa.md` |
 | Durasi | **60–120 saat** setiap episod |
-| Genre | Komedi + misteri + sekolah + plot twist (keempat-empat dalam setiap episod) |
-| Format | **Menegak 9:16, 1080×1920**, 24 fps |
+| Format | **A — Kes Sekolah**: komedi + misteri + sekolah + plot twist (keempat-empat wajib). **B — Apa Jadi Kalau?**: narasi satira komedi tentang Malaysia, dengan plot twist (sekolah tidak wajib). Lihat `00_bible/siri-bible.md` |
+| Bingkai | **Menegak 9:16, 1080×1920**, 24 fps |
 | Struktur | Hook → Konflik → Klimaks → Ending (dengan twist) |
-| Unit | **Scene = satu klip AI video, 3–8 saat.** 12–20 scene setiap episod |
+| Unit | **Scene = satu klip AI video, 2–8 saat.** 12–24 scene setiap episod |
 | Suara | **Suara pengguna sendiri** (dirakam dan dimuat naik oleh pengguna). Animasi ikut suara, bukan sebaliknya |
 | Sari kata | Wajib, BM, dibakar ke dalam video (ramai menonton tanpa bunyi) |
+| Teks skrin & logo | Tajuk, logo Janimation dan teks (cth. "SERVER OVERLOADED") **ditambah semasa suntingan**, tidak dijana oleh AI |
+| Durasi video | **Ikut durasi audio pengguna** + maks 1 s untuk logo. Tiada intro tambahan |
 
 Butiran penuh: `00_bible/standard-produksi.md`. Gaya visual: `00_bible/gaya-visual.md`.
 
@@ -106,6 +108,10 @@ Pengguna merakam dan memuat naik suaranya sendiri. Claude **tidak menjana suara*
 
 ## 6. Peraturan Prompt AI Video
 
+- **Jana storyboard dan prompt dengan alat**: tulis scene dalam `03_episod/EPxxx_*/adegan.json`,
+  kemudian jalankan `python3 janimation/alat/bina_episod.py janimation/03_episod/EPxxx_*`.
+  Alat ini menyalin blok kunci secara tepat dan menyemak durasi, kesinambungan masa dan
+  ID watak/lokasi. Jangan sunting `04_storyboard.md` atau `05_prompt-video.md` secara manual.
 - Bahasa prompt: **Bahasa Melayu**. Istilah teknikal yang tiada padanan biasa boleh
   disertakan dalam kurungan (cth. "cel shading"). Lihat `04_prompt/kamus-kamera.md`.
 - Satu prompt = satu scene = satu klip. Susunan tetap (lihat `04_prompt/prompt-gaya-asas.md`):
@@ -128,8 +134,8 @@ selepas setiap langkah bertanda ✋.
 2. `02_struktur.md` (pecahan babak + masa) ✋
 3. `03_skrip.md` (skrip penuh) ✋
 4. `06_suara.md` skrip rakaman → **pengguna rakam dan muat naik** → peta masa suara
-5. `04_storyboard.md` (scene dilaraskan ikut audio) ✋
-6. `05_prompt-video.md` (prompt semua scene) ✋
+5. `adegan.json` → jalankan `alat/bina_episod.py` → `04_storyboard.md` (scene dilaraskan ikut audio) ✋
+6. `05_prompt-video.md` (dijana bersama storyboard) ✋
 7. `07_semakan-qc.md` lulus ✋ → barulah jana video
 8. Suntingan: susun klip, lip-sync, sari kata, SFX, muzik → `07_output/`
 9. Pos TikTok (senarai semak dalam `06_produksi/panduan-tiktok.md`) → rekod prestasi
@@ -180,5 +186,6 @@ janimation/
 ├── 04_prompt/       blok gaya asas, negatif, kamus kamera, teknik animasi
 ├── 05_aset/         gambar rujukan (watak/, latar/, rujukan/)
 ├── 06_produksi/     aliran kerja, papan status, panduan & prestasi TikTok
+├── alat/            bina_episod.py (adegan.json → storyboard + prompt)
 └── 07_output/       video siap (tidak di-commit)
 ```

@@ -10,6 +10,14 @@
 | `CIKGU-ROS` | Cikgu Ros | Guru disiplin, penghalang | Merah | DRAF | [CIKGU-ROS.md](CIKGU-ROS.md) |
 | `PAK-LEMAN` | Pak Leman | Pengawal, pemberi petunjuk | Hijau | DRAF | [PAK-LEMAN.md](PAK-LEMAN.md) |
 
+## Format B — Apa Jadi Kalau?
+
+| ID | Nama paparan | Peranan | Warna tanda | Status | Fail |
+|---|---|---|---|---|---|
+| `HAKIM` (+ `-NIKAH`, `-JUTAWAN`) | Abang Hakim | Lelaki utama berulang | Kuning mustard | DRAF | [HAKIM.md](HAKIM.md) |
+| `SOFEA` (+ `-NIKAH`) | Puan Sofea | Janda jutawan (EP001) | Emas | DRAF | [SOFEA.md](SOFEA.md) |
+| `PAKCIK-GYM`, `JURUNIKAH`, figuran | — | Sampingan / orang ramai | — | DRAF | [FIGURAN.md](FIGURAN.md) |
+
 ## Dinamik kumpulan
 
 - **AIMAN** (emosi) ↔ **QIS** (logik): konflik teori setiap episod.

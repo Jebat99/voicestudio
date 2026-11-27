@@ -9,7 +9,7 @@
 [GAYA] Animasi kartun 2D gaya anime moden, garisan luar bersih berwarna coklat kehitaman,
 cel shading dua tona, mata besar ekspresif dengan kilauan putih, warna cerah tepu sederhana,
 latar belakang lukisan tangan yang lembut dan sedikit kabur, animasi lancar 24 fps,
-kualiti siri anime televisyen, suasana sekolah menengah Malaysia.
+kualiti siri anime televisyen, suasana dan budaya Malaysia.
 ```
 
 ## Tambahan mod suasana (letak dalam `[PENCAHAYAAN]`)
@@ -23,6 +23,12 @@ Cahaya matahari pagi yang terang dan hangat, bayang lembut, warna kuning dan bir
 ```
 Cahaya petang jingga atau cahaya malam biru keunguan, bayang panjang dan tajam, vignet
 gelap di tepi bingkai, kontras tinggi, kabus nipis.
+```
+
+**Mewah** (scene jutawan / kekayaan)
+```
+Cahaya matahari petang keemasan yang hangat, kilauan bintang emas berkilau di udara, kontras
+hangat dan mewah, warna emas dan putih menonjol.
 ```
 
 ## Susunan prompt (tetap)
@@ -45,7 +51,7 @@ gelap di tepi bingkai, kontras tinggi, kabus nipis.
 [GAYA] Animasi kartun 2D gaya anime moden, garisan luar bersih berwarna coklat kehitaman,
 cel shading dua tona, mata besar ekspresif dengan kilauan putih, warna cerah tepu sederhana,
 latar belakang lukisan tangan yang lembut dan sedikit kabur, animasi lancar 24 fps,
-kualiti siri anime televisyen, suasana sekolah menengah Malaysia.
+kualiti siri anime televisyen, suasana dan budaya Malaysia.
 
 [WATAK] AIMAN: remaja lelaki Melayu 16 tahun, badan kurus sederhana tinggi, rambut hitam
 pendek berserabut dengan satu jambul tegak melengkung di atas kepala, mata besar coklat

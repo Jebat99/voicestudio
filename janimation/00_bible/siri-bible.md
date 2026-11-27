@@ -2,7 +2,18 @@
 
 > Status: **DRAF**. Menunggu kelulusan pengguna. Nama siri, sekolah dan watak boleh diubah.
 
-## Identiti siri
+## Dua format siri
+
+| Format | Nama | Gaya penceritaan | Watak |
+|---|---|---|---|
+| **A** | Kes Sekolah Janima | Lakonan watak, misteri sekolah | AIMAN, QIS, APIS, CIKGU-ROS, PAK-LEMAN |
+| **B** | **Apa Jadi Kalau?** | Narasi suara pengguna + montaj satira tentang Malaysia, berakhir dengan twist dan CTA | HAKIM (lelaki biasa berulang) + watak khas episod |
+
+Format B: setiap episod satu soalan "Apa jadi kalau…" yang absurd tetapi relatable,
+meningkat secara berlebih-lebihan, kemudian satu twist dan punchline visual besar.
+HAKIM muncul dalam setiap episod supaya penonton kenal "muka" saluran.
+
+## Identiti siri (Format A)
 
 | Perkara | Keterangan |
 |---|---|

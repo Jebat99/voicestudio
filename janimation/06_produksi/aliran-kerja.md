@@ -11,8 +11,8 @@
 | 4 | Skrip rakaman | Pengurus Produksi | `06_suara.md` (A) | — |
 | 5 | **Pengguna rakam dan muat naik suara** | Pengguna | `suara/*.m4a` | — |
 | 6 | Peta masa suara + pilih ambilan | Pengurus Produksi | `06_suara.md` (B–C) | — |
-| 7 | Storyboard dilaraskan ikut audio | Storyboard Artist | `04_storyboard.md` | ✋ |
-| 8 | Prompt setiap scene | Pakar Prompt | `05_prompt-video.md` | ✋ |
+| 7 | Tulis `adegan.json`, jalankan `alat/bina_episod.py` | Storyboard Artist + Pakar Prompt | `04_storyboard.md` + `05_prompt-video.md` | ✋ |
+| 8 | Semak prompt yang dijana | Pakar Prompt | `05_prompt-video.md` | ✋ |
 | 9 | Semakan QC A–D | Pengarah | `07_semakan-qc.md` | ✋ |
 | 10 | Jana klip satu demi satu, semak QC E, jana semula jika gagal | Pengguna + Pakar Prompt | `EP00N_SCxx_vN.mp4` | — |
 | 11 | Suntingan: susun klip, letak suara, lip-sync, sari kata, SFX, muzik | Pengguna (dibantu Claude) | `07_output/EP00N_akhir.mp4` | ✋ |

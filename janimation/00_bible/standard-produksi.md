@@ -7,9 +7,9 @@
 | Nisbah | 9:16 menegak |
 | Resolusi | 1080×1920 (jana pada resolusi tertinggi alat, kemudian eksport 1080×1920) |
 | Kadar bingkai | 24 fps (rasa anime). Eksport 24 atau 30 fps |
-| Durasi episod | 60–120 s (sasaran 75–95 s untuk kadar tonton penuh yang tinggi) |
-| Durasi scene | 3–8 s (satu klip AI) |
-| Bilangan scene | 12–20 |
+| Durasi episod | 60–120 s, **ikut durasi audio pengguna** (sasaran 75–95 s untuk kadar tonton penuh yang tinggi) |
+| Durasi scene | 2–8 s (satu klip AI) |
+| Bilangan scene | 12–24 |
 | Potongan visual | Setiap 2–4 s (gunakan potongan dalam klip atau tukar sudut) |
 | Audio | Suara pengguna (utama), SFX, muzik latar −18 hingga −24 dB di bawah suara |
 | Sari kata | BM, 1–2 baris, maks 32 aksara sebaris, putih dengan garis hitam tebal |

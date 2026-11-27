@@ -113,6 +113,10 @@ Untuk suara ElevenLabs, minta teks tepat yang ditaip pengguna supaya sari kata s
   kemudian jalankan `python3 janimation/alat/bina_episod.py janimation/03_episod/EPxxx_*`.
   Alat ini menyalin blok kunci secara tepat dan menyemak durasi, kesinambungan masa dan
   ID watak/lokasi. Jangan sunting `04_storyboard.md` atau `05_prompt-video.md` secara manual.
+- **Animatik MP4** (watak 2D dilukis dengan kod, bukan AI video): tulis
+  `03_episod/EPxxx_*/animatik.js` (satu fungsi setiap scene) dan jalankan
+  `node janimation/alat/animatik/render.cjs janimation/03_episod/EPxxx_* janimation/07_output/EPxxx_animatik_vN.mp4`.
+  Guna `--stills t1,t2 --stills-dir <dir>` untuk semak bingkai sebelum render penuh.
 - Bahasa prompt: **Bahasa Melayu**. Istilah teknikal yang tiada padanan biasa boleh
   disertakan dalam kurungan (cth. "cel shading"). Lihat `04_prompt/kamus-kamera.md`.
 - Satu prompt = satu scene = satu klip. Susunan tetap (lihat `04_prompt/prompt-gaya-asas.md`):
@@ -188,5 +192,6 @@ janimation/
 ├── 05_aset/         gambar rujukan (watak/, latar/, rujukan/)
 ├── 06_produksi/     aliran kerja, papan status, panduan & prestasi TikTok
 ├── alat/            bina_episod.py (adegan.json → storyboard + prompt)
+│                    animatik/ (lukis.js, latar.js, render.cjs → MP4 animatik 2D)
 └── 07_output/       video siap (tidak di-commit)
 ```

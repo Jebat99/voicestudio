@@ -1,0 +1,890 @@
+{
+ "episod": {
+  "kod": "EP003",
+  "tajuk": "Crush Dalam Diam #2 — Strategi Nak Dekat Dengan Aina!",
+  "format": "C — Crush Dalam Diam",
+  "audio": "suara/EP003_narasi.wav",
+  "audio_campuran": "suara/EP003_campuran.wav",
+  "audio_asal": "suara/EP003_narasi_asal.mp3",
+  "durasi_audio": 81.02
+ },
+ "sari_kata": [
+  {
+   "mula": 0,
+   "tamat": 1.63,
+   "teks": "Selepas kejadian hari tu,"
+  },
+  {
+   "mula": 1.91,
+   "tamat": 3.227,
+   "teks": "Amir sedar satu perkara."
+  },
+  {
+   "mula": 3.507,
+   "tamat": 4.495,
+   "teks": "Kalau dia terus diam,"
+  },
+  {
+   "mula": 4.775,
+   "tamat": 8.11,
+   "teks": "sampai bila-bila Aina TAKKAN TAHU kewujudan dia!"
+  },
+  {
+   "mula": 8.11,
+   "tamat": 10.45,
+   "teks": "Jadi, Amir mula merancang satu MISI KHAS…"
+  },
+  {
+   "mula": 10.45,
+   "tamat": 12.119,
+   "teks": "untuk menawan hati AINA!"
+  },
+  {
+   "mula": 12.399,
+   "tamat": 13.301,
+   "teks": "STRATEGI PERTAMA,"
+  },
+  {
+   "mula": 13.581,
+   "tamat": 16.839,
+   "teks": "Amir mula mencari peluang untuk duduk berdekatan dengan Aina."
+  },
+  {
+   "mula": 17.119,
+   "tamat": 18.98,
+   "teks": "Dia sanggup datang awal ke sekolah"
+  },
+  {
+   "mula": 18.98,
+   "tamat": 21.626,
+   "teks": "semata-mata nak mendapatkan tempat duduk sebelahnya!"
+  },
+  {
+   "mula": 21.906,
+   "tamat": 23.953,
+   "teks": "“Awalnya awak datang hari ni!”"
+  },
+  {
+   "mula": 24.233,
+   "tamat": 26.781,
+   "teks": "“Ha… saja je!”"
+  },
+  {
+   "mula": 27.061,
+   "tamat": 27.948,
+   "teks": "STRATEGI KEDUA,"
+  },
+  {
+   "mula": 28.228,
+   "tamat": 30.561,
+   "teks": "Amir mula mencari persamaan dengan Aina."
+  },
+  {
+   "mula": 30.841,
+   "tamat": 33.22,
+   "teks": "Dia cuba mengetahui makanan kegemaran,"
+  },
+  {
+   "mula": 33.22,
+   "tamat": 35.12,
+   "teks": "hobi dan perkara yang Aina suka."
+  },
+  {
+   "mula": 35.12,
+   "tamat": 37.492,
+   "teks": "Sampai semua benda dia catat dalam buku!"
+  },
+  {
+   "mula": 37.772,
+   "tamat": 38.711,
+   "teks": "STRATEGI KETIGA,"
+  },
+  {
+   "mula": 38.991,
+   "tamat": 40.82,
+   "teks": "Amir mula menawarkan bantuan."
+  },
+  {
+   "mula": 41.1,
+   "tamat": 43.44,
+   "teks": "Bila Aina ada masalah dengan kerja sekolah,"
+  },
+  {
+   "mula": 43.44,
+   "tamat": 45.236,
+   "teks": "Amir terus tampil menjadi PENYELAMAT."
+  },
+  {
+   "mula": 45.516,
+   "tamat": 48.206,
+   "teks": "Walaupun sebenarnya dia sendiri pun BELUM SIAP kerja!"
+  },
+  {
+   "mula": 48.486,
+   "tamat": 51.003,
+   "teks": "“Amir, awak dah siap kerja matematik?”"
+  },
+  {
+   "mula": 51.283,
+   "tamat": 54.353,
+   "teks": "“Dah… dah! Kalau awak nak, saya boleh tolong.”"
+  },
+  {
+   "mula": 54.633,
+   "tamat": 56.5,
+   "teks": "Padahal dalam hati, Amir tengah berharap"
+  },
+  {
+   "mula": 56.5,
+   "tamat": 58.107,
+   "teks": "Aina tak tanya soalan yang SUSAH!"
+  },
+  {
+   "mula": 58.387,
+   "tamat": 61.0,
+   "teks": "Tanpa Amir sedar, semua usahanya mula"
+  },
+  {
+   "mula": 61.272,
+   "tamat": 62.23,
+   "teks": "membuahkan hasil."
+  },
+  {
+   "mula": 62.23,
+   "tamat": 64.631,
+   "teks": "Aina semakin selesa berbual dengannya."
+  },
+  {
+   "mula": 64.911,
+   "tamat": 67.159,
+   "teks": "Malah, satu hari Aina sendiri"
+  },
+  {
+   "mula": 67.439,
+   "tamat": 69.762,
+   "teks": "datang mengajak Amir makan bersama!"
+  },
+  {
+   "mula": 70.042,
+   "tamat": 72.066,
+   "teks": "“Amir, jom makan sekali dengan saya!”"
+  },
+  {
+   "mula": 72.346,
+   "tamat": 73.606,
+   "teks": "“Hah?! Boleh! BOLEH SANGAT!”"
+  },
+  {
+   "mula": 73.886,
+   "tamat": 76.08,
+   "teks": "Amir rasa macam dunia ni milik dia."
+  },
+  {
+   "mula": 76.08,
+   "tamat": 77.183,
+   "teks": "Tapi dia tak tahu…"
+  },
+  {
+   "mula": 77.463,
+   "tamat": 78.917,
+   "teks": "Aina sebenarnya ada sesuatu"
+  },
+  {
+   "mula": 79.197,
+   "tamat": 80.94,
+   "teks": "yang nak diberitahu kepadanya!"
+  }
+ ],
+ "cakap": [
+  {
+   "watak": "AINA",
+   "mula": 21.906,
+   "tamat": 23.953
+  },
+  {
+   "watak": "AMIR",
+   "mula": 24.233,
+   "tamat": 26.781
+  },
+  {
+   "watak": "AINA",
+   "mula": 48.486,
+   "tamat": 51.003
+  },
+  {
+   "watak": "AMIR",
+   "mula": 51.283,
+   "tamat": 54.353
+  },
+  {
+   "watak": "AINA",
+   "mula": 70.042,
+   "tamat": 72.066
+  },
+  {
+   "watak": "AMIR",
+   "mula": 72.346,
+   "tamat": 73.606
+  }
+ ],
+ "scene": [
+  {
+   "id": "SC01",
+   "tajuk": "Termenung malam itu",
+   "mula": 0.0,
+   "tamat": 3.367,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-BILIK-AMIR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Bilik AMIR waktu malam, cahaya bulan dan lampu meja; awan fikiran kelabu menunjukkan kotak hadiah merah jambu (imbas kembali EP002).",
+   "gerakan": "AMIR duduk di atas katil memeluk bantal sambil termenung.",
+   "ekspresi": "Sayu, mata separuh tertutup.",
+   "dialog": "(narasi) \"Selepas kejadian hari tu, Amir sedar satu perkara.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bintang berkelip, imbas kembali dalam awan fikiran",
+   "sfx": "Pad lembut",
+   "sari_kata": "Selepas kejadian hari tu, Amir sedar satu perkara.",
+   "cap_suara": "0.0–3.4 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC02",
+   "tajuk": "Halimunan",
+   "mula": 3.367,
+   "tamat": 8.11,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Khayalan: AMIR telus seperti halimunan di sebelah AINA yang berjalan melepasinya tanpa sedar.",
+   "gerakan": "AMIR melambai tetapi badannya makin pudar; AINA berjalan menembusinya.",
+   "ekspresi": "AMIR sedih; AINA ceria tanpa sedar.",
+   "dialog": "(narasi) \"Kalau dia terus diam, sampai bila-bila Aina takkan tahu kewujudan dia!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "watak pudar (halimunan), warna sejuk",
+   "sfx": "Pad",
+   "sari_kata": "Kalau dia terus diam, sampai bila-bila Aina takkan tahu kewujudan dia!",
+   "cap_suara": "3.4–8.1 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC03",
+   "tajuk": "Bangkit bersemangat",
+   "mula": 8.11,
+   "tamat": 10.45,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-BILIK-AMIR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR melompat bangun dari katil, memakai cermin mata hitam ejen rahsia.",
+   "gerakan": "Picit-regang ketika melompat, api semangat di mata.",
+   "ekspresi": "Penuh semangat.",
+   "dialog": "(narasi) \"Jadi, Amir mula merancang satu misi khas…\"",
+   "sudut": "Sudut rendah",
+   "gerak_kamera": "Zoom masuk pantas",
+   "teknik": "picit-regang, garis kelajuan",
+   "sfx": "Whoosh, muzik perisik bermula",
+   "sari_kata": "Jadi, Amir mula merancang satu MISI KHAS…",
+   "cap_suara": "8.1–10.4 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC04",
+   "tajuk": "Papan strategi",
+   "mula": 10.45,
+   "tamat": 12.259,
+   "babak": "B1 · Hook",
+   "lokasi": "LOK-PAPAN-STRATEGI",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Papan strategi gaya ejen rahsia: lakaran AINA, benang merah, tajuk MISI DEKATI AINA!",
+   "gerakan": "AMIR menunjuk papan dengan kayu penunjuk.",
+   "ekspresi": "Serius gaya ejen.",
+   "dialog": "(narasi) \"untuk menawan hati Aina!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "teks besar pada papan",
+   "sfx": "Muzik perisik",
+   "sari_kata": "untuk menawan hati AINA!",
+   "cap_suara": "10.4–12.3 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC05",
+   "tajuk": "Strategi 1: datang awal",
+   "mula": 12.259,
+   "tamat": 16.979,
+   "babak": "B2 · Strategi 1",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Kelas kosong awal pagi; cop STRATEGI #1.",
+   "gerakan": "AMIR berlari masuk ke kelas yang masih kosong.",
+   "ekspresi": "Bersemangat.",
+   "dialog": "(narasi) \"Strategi pertama, Amir mula mencari peluang untuk duduk berdekatan dengan Aina.\"",
+   "sudut": "Syot jauh",
+   "gerak_kamera": "Ikut AMIR",
+   "teknik": "cop tajuk, garis kelajuan",
+   "sfx": "Cop, muzik perisik",
+   "sari_kata": "Strategi pertama, Amir mula mencari peluang untuk duduk berdekatan dengan Aina.",
+   "cap_suara": "12.3–17.0 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC06",
+   "tajuk": "Cop kerusi sebelah",
+   "mula": 16.979,
+   "tamat": 21.766,
+   "babak": "B2 · Strategi 1",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR meletakkan beg di kerusi sebelah tempat AINA di tepi tingkap.",
+   "gerakan": "AMIR meletakkan beg, kemudian membetulkan rambut dengan bangga.",
+   "ekspresi": "Puas hati, kilauan.",
+   "dialog": "(narasi) \"Dia sanggup datang awal ke sekolah semata-mata nak mendapatkan tempat duduk sebelahnya!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kilauan",
+   "sfx": "Muzik perisik",
+   "sari_kata": "Dia sanggup datang awal ke sekolah semata-mata nak mendapatkan tempat duduk sebelahnya!",
+   "cap_suara": "17.0–21.8 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC07",
+   "tajuk": "Awalnya awak!",
+   "mula": 21.766,
+   "tamat": 24.093,
+   "babak": "B2 · Strategi 1",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA sampai dan menegur AMIR sambil tersenyum.",
+   "gerakan": "AINA melambai kecil dan bercakap (lip-sync).",
+   "ekspresi": "Ceria, mata berkilau.",
+   "dialog": "AINA: \"Awalnya awak datang hari ni!\"",
+   "sudut": "Syot sederhana dekat",
+   "gerak_kamera": "Statik",
+   "teknik": "bokeh",
+   "sfx": "Kotak muzik",
+   "sari_kata": "“Awalnya awak datang hari ni!”",
+   "cap_suara": "21.8–24.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC08",
+   "tajuk": "Ha… saja je!",
+   "mula": 24.093,
+   "tamat": 26.921,
+   "babak": "B2 · Strategi 1",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR gugup menjawab.",
+   "gerakan": "AMIR menggaru belakang kepala, peluh menitis (lip-sync).",
+   "ekspresi": "Gugup, pipi merah, mulut bergetar.",
+   "dialog": "AMIR: \"Ha… saja je!\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk pantas",
+   "teknik": "peluh, wap",
+   "sfx": "Wisel turun",
+   "sari_kata": "“Ha… saja je!”",
+   "cap_suara": "24.1–26.9 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC09",
+   "tajuk": "Strategi 2: mengintip",
+   "mula": 26.921,
+   "tamat": 30.701,
+   "babak": "B3 · Strategi 2",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA",
+    "MURID-FIGURAN"
+   ],
+   "visual": "Cop STRATEGI #2; AMIR mengintip dari belakang buku besar yang berlubang mata, AINA berbual dengan kawan.",
+   "gerakan": "AMIR bergerak sedikit demi sedikit di belakang buku.",
+   "ekspresi": "AMIR curiga dan fokus; AINA ketawa.",
+   "dialog": "(narasi) \"Strategi kedua, Amir mula mencari persamaan dengan Aina.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "cop tajuk, gerakan licik",
+   "sfx": "Cop, muzik perisik",
+   "sari_kata": "Strategi kedua, Amir mula mencari persamaan dengan Aina.",
+   "cap_suara": "26.9–30.7 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC10",
+   "tajuk": "Buku catatan rahsia",
+   "mula": 30.701,
+   "tamat": 35.12,
+   "babak": "B3 · Strategi 2",
+   "lokasi": "LOK-BUKU",
+   "watak": [],
+   "visual": "Halaman buku catatan: Suka coklat, Suka kucing, Suka tengok filem, dengan lakaran comel.",
+   "gerakan": "Tulisan dan lakaran muncul satu demi satu.",
+   "ekspresi": "—",
+   "dialog": "(narasi) \"Dia cuba mengetahui makanan kegemaran, hobi dan perkara yang Aina suka.\"",
+   "sudut": "Dari atas (top-down)",
+   "gerak_kamera": "Statik",
+   "teknik": "tulisan muncul",
+   "sfx": "Bunyi pensel",
+   "sari_kata": "Dia cuba mengetahui makanan kegemaran, hobi dan perkara yang Aina suka.",
+   "cap_suara": "30.7–35.1 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC11",
+   "tajuk": "Misi penting",
+   "mula": 35.12,
+   "tamat": 37.632,
+   "babak": "B3 · Strategi 2",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR mengangguk serius sambil menulis laju dalam buku, kemudian mengangkat coklat.",
+   "gerakan": "Menulis laju (bingkai calit), angguk serius.",
+   "ekspresi": "Serius gaya ejen.",
+   "dialog": "(narasi) \"Sampai semua benda dia catat dalam buku!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "bingkai calit pada pensel",
+   "sfx": "Muzik perisik",
+   "sari_kata": "Sampai semua benda dia catat dalam buku!",
+   "cap_suara": "35.1–37.6 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC12",
+   "tajuk": "Strategi 3: penyelamat",
+   "mula": 37.632,
+   "tamat": 40.96,
+   "babak": "B4 · Strategi 3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Cop STRATEGI #3; AMIR berpose hero dengan jubah berkibar.",
+   "gerakan": "Jubah berkibar, sinar cahaya di belakang.",
+   "ekspresi": "Yakin, mata berkilau.",
+   "dialog": "(narasi) \"Strategi ketiga, Amir mula menawarkan bantuan.\"",
+   "sudut": "Sudut rendah",
+   "gerak_kamera": "Zoom masuk",
+   "teknik": "jubah berkibar, sinar",
+   "sfx": "Cop, ting",
+   "sari_kata": "Strategi ketiga, Amir mula menawarkan bantuan.",
+   "cap_suara": "37.6–41.0 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC13",
+   "tajuk": "Datang menyelamat",
+   "mula": 40.96,
+   "tamat": 45.376,
+   "babak": "B4 · Strategi 3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA",
+    "AMIR"
+   ],
+   "visual": "AINA buntu dengan buku latihan; AMIR muncul di sebelah dengan kilauan.",
+   "gerakan": "AINA menggaru kepala; AMIR masuk dengan gaya hero.",
+   "ekspresi": "AINA risau; AMIR yakin.",
+   "dialog": "(narasi) \"Bila Aina ada masalah dengan kerja sekolah, Amir terus tampil menjadi penyelamat.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "kilauan hero",
+   "sfx": "Muzik perisik",
+   "sari_kata": "Bila Aina ada masalah dengan kerja sekolah, Amir terus tampil menjadi penyelamat.",
+   "cap_suara": "41.0–45.4 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC14",
+   "tajuk": "Belum siap pun",
+   "mula": 45.376,
+   "tamat": 48.346,
+   "babak": "B4 · Strategi 3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Buku AMIR sendiri kosong; AMIR berpeluh.",
+   "gerakan": "AMIR menyorokkan buku kosong di belakang badan.",
+   "ekspresi": "Panik dalam senyuman.",
+   "dialog": "(narasi) \"Walaupun sebenarnya dia sendiri pun belum siap kerja!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk pantas",
+   "teknik": "peluh",
+   "sfx": "Wisel turun",
+   "sari_kata": "Walaupun sebenarnya dia sendiri pun BELUM SIAP kerja!",
+   "cap_suara": "45.4–48.3 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC15",
+   "tajuk": "Soalan Aina",
+   "mula": 48.346,
+   "tamat": 51.143,
+   "babak": "B4 · Strategi 3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA menunjukkan buku latihan matematik kepada AMIR.",
+   "gerakan": "AINA bertanya (lip-sync).",
+   "ekspresi": "Ingin tahu, senyum.",
+   "dialog": "AINA: \"Amir, awak dah siap kerja matematik?\"",
+   "sudut": "Syot sederhana dekat",
+   "gerak_kamera": "Statik",
+   "teknik": "bokeh",
+   "sfx": "Kotak muzik",
+   "sari_kata": "“Amir, awak dah siap kerja matematik?”",
+   "cap_suara": "48.3–51.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC16",
+   "tajuk": "Dah… dah!",
+   "mula": 51.143,
+   "tamat": 54.493,
+   "babak": "B4 · Strategi 3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR tersenyum yakin mengangkat ibu jari.",
+   "gerakan": "AMIR menjawab (lip-sync) dan menunjukkan ibu jari.",
+   "ekspresi": "Yakin palsu, peluh kecil.",
+   "dialog": "AMIR: \"Dah… dah! Kalau awak nak, saya boleh tolong.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "kilauan",
+   "sfx": "Ting",
+   "sari_kata": "“Dah… dah! Kalau awak nak, saya boleh tolong.”",
+   "cap_suara": "51.1–54.5 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC17",
+   "tajuk": "Panik bawah meja",
+   "mula": 54.493,
+   "tamat": 56.5,
+   "babak": "B4 · Strategi 3",
+   "lokasi": "LOK-BAWAH-MEJA",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Pandangan bawah meja: tangan AMIR menyelak buku matematik dengan panik, simbol matematik terapung.",
+   "gerakan": "Halaman diselak laju.",
+   "ekspresi": "Panik.",
+   "dialog": "(narasi) \"Padahal dalam hati, Amir tengah berharap\"",
+   "sudut": "Bawah meja",
+   "gerak_kamera": "Goncang kecil",
+   "teknik": "simbol x², π, √ terapung",
+   "sfx": "Detik jam laju",
+   "sari_kata": "Padahal dalam hati, Amir tengah berharap",
+   "cap_suara": "54.5–56.5 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC18",
+   "tajuk": "Aina ketawa",
+   "mula": 56.5,
+   "tamat": 58.247,
+   "babak": "B4 · Strategi 3",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "AMIR menggaru kepala; AINA ketawa melihat gelagatnya.",
+   "gerakan": "AMIR garu kepala; AINA menutup mulut ketawa.",
+   "ekspresi": "AMIR malu; AINA geli hati.",
+   "dialog": "(narasi) \"Aina tak tanya soalan yang susah!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "peluh, kilauan",
+   "sfx": "Kotak muzik",
+   "sari_kata": "Aina tak tanya soalan yang susah!",
+   "cap_suara": "56.5–58.2 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC19",
+   "tajuk": "Makin rapat",
+   "mula": 58.247,
+   "tamat": 61.132,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "AMIR dan AINA berbual di meja masing-masing, ketawa bersama.",
+   "gerakan": "Berbual dan ketawa, kelopak bunga terapung.",
+   "ekspresi": "Gembira.",
+   "dialog": "(narasi) \"Tanpa Amir sedar, semua usahanya mula\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak",
+   "sfx": "Kotak muzik manis",
+   "sari_kata": "Tanpa Amir sedar, semua usahanya mula",
+   "cap_suara": "58.2–61.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC20",
+   "tajuk": "Membuahkan hasil",
+   "mula": 61.132,
+   "tamat": 64.771,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Tunas di meja AMIR tumbuh menjadi bunga berbentuk hati; AINA berbual selesa dengannya.",
+   "gerakan": "Tunas tumbuh; AINA ketawa kecil.",
+   "ekspresi": "Selesa dan manis.",
+   "dialog": "(narasi) \"membuahkan hasil. Aina semakin selesa berbual dengannya.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "bunga hati tumbuh",
+   "sfx": "Glissando",
+   "sari_kata": "membuahkan hasil. Aina semakin selesa berbual dengannya.",
+   "cap_suara": "61.1–64.8 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC21",
+   "tajuk": "Aina datang",
+   "mula": 64.771,
+   "tamat": 69.902,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA",
+    "AMIR"
+   ],
+   "visual": "AINA menghampiri meja AMIR membawa bekal merah jambu; AMIR terkejut sehingga pen hampir jatuh.",
+   "gerakan": "Pen melambung dan ditangkap semula.",
+   "ekspresi": "AINA senyum; AMIR terkejut.",
+   "dialog": "(narasi) \"Malah, satu hari Aina sendiri datang mengajak Amir makan bersama!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "pen melambung",
+   "sfx": "Kotak muzik",
+   "sari_kata": "Malah, satu hari Aina sendiri datang mengajak Amir makan bersama!",
+   "cap_suara": "64.8–69.9 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC22",
+   "tajuk": "Jom makan!",
+   "mula": 69.902,
+   "tamat": 72.206,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA mengajak AMIR makan (lip-sync).",
+   "gerakan": "AINA mengangkat bekal dan tersenyum.",
+   "ekspresi": "Manis, mata berkilau.",
+   "dialog": "AINA: \"Amir, jom makan sekali dengan saya!\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bunga mekar",
+   "sfx": "Ting",
+   "sari_kata": "“Amir, jom makan sekali dengan saya!”",
+   "cap_suara": "69.9–72.2 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC23",
+   "tajuk": "Boleh sangat!",
+   "mula": 72.206,
+   "tamat": 73.746,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR melompat gembira (lip-sync).",
+   "gerakan": "Lompat dengan picit-regang, konfeti.",
+   "ekspresi": "Mata bintang, mulut terbuka luas.",
+   "dialog": "AMIR: \"Hah?! Boleh! Boleh sangat!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom pop",
+   "teknik": "konfeti, picit-regang",
+   "sfx": "Pop + ting",
+   "sari_kata": "“Hah?! Boleh! Boleh sangat!”",
+   "cap_suara": "72.2–73.7 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC24",
+   "tajuk": "Dunia milik dia",
+   "mula": 73.746,
+   "tamat": 76.08,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-KORIDOR",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "AMIR dan AINA berjalan bersama di koridor ke kantin; bunga mekar di sepanjang laluan.",
+   "gerakan": "Berjalan seiring; AMIR tersenyum lebar.",
+   "ekspresi": "AMIR bahagia; AINA tenang.",
+   "dialog": "(narasi) \"Amir rasa macam dunia ni milik dia.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Ikut dari depan",
+   "teknik": "bunga mekar, kilauan",
+   "sfx": "Kotak muzik",
+   "sari_kata": "Amir rasa macam dunia ni milik dia.",
+   "cap_suara": "73.7–76.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC25",
+   "tajuk": "Wajah serius",
+   "mula": 76.08,
+   "tamat": 79.057,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-KORIDOR",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA berhenti dan memandang AMIR dengan wajah serius.",
+   "gerakan": "Muzik berhenti; AINA menoleh perlahan.",
+   "ekspresi": "Serius, mata separuh tertutup.",
+   "dialog": "(narasi) \"Tapi dia tak tahu… Aina sebenarnya ada sesuatu\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "warna pudar, vignet",
+   "sfx": "Dentuman, muzik berhenti",
+   "sari_kata": "Tapi dia tak tahu… Aina sebenarnya ada sesuatu",
+   "cap_suara": "76.1–79.1 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC26",
+   "tajuk": "Tertanya-tanya",
+   "mula": 79.057,
+   "tamat": 81.08,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-KORIDOR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Muka AMIR yang mula tertanya-tanya.",
+   "gerakan": "Zoom perlahan ke muka AMIR.",
+   "ekspresi": "Tertanya-tanya, peluh kecil.",
+   "dialog": "(narasi) \"yang nak diberitahu kepadanya!\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "tanda soal, degupan jantung",
+   "sfx": "Degupan jantung",
+   "sari_kata": "yang nak diberitahu kepadanya!",
+   "cap_suara": "79.1–81.1 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC27",
+   "tajuk": "Bersambung",
+   "mula": 81.08,
+   "tamat": 83.4,
+   "babak": "B5 · Berjaya?",
+   "lokasi": "LOK-HITAM",
+   "watak": [],
+   "visual": "Skrin hitam: APA YANG AINA NAK BERITAHU?! · BERSAMBUNG KE EPISOD 3…",
+   "gerakan": "Teks berdenyut ikut degupan jantung.",
+   "ekspresi": "—",
+   "dialog": "(tiada narasi)",
+   "sudut": "Skrin penuh",
+   "gerak_kamera": "Statik",
+   "teknik": "teks berdenyut",
+   "sfx": "Dentuman + degupan jantung",
+   "sari_kata": "",
+   "cap_suara": "81.1–83.4 s",
+   "nota_sunting": "Teks dilukis dalam animatik",
+   "mod": "misteri",
+   "bercakap": false,
+   "masuk": "hitam"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+# Audio dan video tidak di-commit (fail besar dan peribadi)
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.ogg
+*.flac
+*.mp4
+*.mov
+*.webm
+*.mkv
+
+# Projek suntingan
+*.capcut
+*.prproj
+*.drp
+
+# Output video siap
+07_output/*
+!07_output/.gitkeep

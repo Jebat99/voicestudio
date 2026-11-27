@@ -1,0 +1,769 @@
+{
+ "episod": {
+  "kod": "EP006",
+  "tajuk": "Asal Usul Pontianak — Kenapa Pontianak Suka Menjerit?!",
+  "format": "D — Hikayat Seram Lawak",
+  "audio": "suara/EP006_narasi.wav",
+  "audio_campuran": "suara/EP006_campuran.wav",
+  "audio_asal": "suara/EP006_narasi_asal.mp3",
+  "durasi_audio": 86.33
+ },
+ "sari_kata": [
+  {
+   "mula": 2.254,
+   "tamat": 5.529,
+   "teks": "Pada zaman dahulu, ada seorang wanita bernama Siti."
+  },
+  {
+   "mula": 5.809,
+   "tamat": 9.112,
+   "teks": "Dia sangat cantik dan terlalu mencintai suaminya."
+  },
+  {
+   "mula": 9.392,
+   "tamat": 13.953,
+   "teks": "Tetapi suatu hari, suaminya lari meninggalkan dia kerana KANTOI KAHWIN DUA!"
+  },
+  {
+   "mula": 14.233,
+   "tamat": 16.226,
+   "teks": "“KAU INGAT AKU TAK TAHU?! BALIK SINI!”"
+  },
+  {
+   "mula": 17.153,
+   "tamat": 19.574,
+   "teks": "Sejak hari itu, Siti mula berubah."
+  },
+  {
+   "mula": 19.854,
+   "tamat": 24.954,
+   "teks": "Setiap malam dia menangis, menjerit dan mencari suaminya satu kampung!"
+  },
+  {
+   "mula": 25.234,
+   "tamat": 28.972,
+   "teks": "Pada suatu malam, Siti terdengar suara suaminya di dalam hutan."
+  },
+  {
+   "mula": 29.252,
+   "tamat": 32.379,
+   "teks": "Tanpa berfikir panjang, dia terus mengejar suara tersebut."
+  },
+  {
+   "mula": 32.659,
+   "tamat": 34.336,
+   "teks": "“ABANG?! ABANG TUNGGU!”"
+  },
+  {
+   "mula": 34.616,
+   "tamat": 38.264,
+   "teks": "Tetapi rupa-rupanya itu cuma bunyi BURUNG HANTU!"
+  },
+  {
+   "mula": 38.544,
+   "tamat": 40.255,
+   "teks": "Malangnya, Siti tersesat di dalam hutan"
+  },
+  {
+   "mula": 40.535,
+   "tamat": 43.161,
+   "teks": "dan sejak malam itu, dia tidak pernah pulang."
+  },
+  {
+   "mula": 43.441,
+   "tamat": 48.68,
+   "teks": "Beberapa malam kemudian, penduduk kampung mula terdengar suara wanita ketawa dari atas pokok."
+  },
+  {
+   "mula": 48.96,
+   "tamat": 55.383,
+   "teks": "Apabila diperiksa, kelihatan satu lembaga berambut panjang, berbaju putih dan berkuku tajam!"
+  },
+  {
+   "mula": 55.663,
+   "tamat": 57.565,
+   "teks": "“YA ALLAH! PONTIANAK!”"
+  },
+  {
+   "mula": 57.845,
+   "tamat": 59.768,
+   "teks": "Sejak itulah munculnya PONTIANAK!"
+  },
+  {
+   "mula": 60.048,
+   "tamat": 65.885,
+   "teks": "Hantu yang terkenal dengan rambut panjang, pakaian putih dan jeritan yang boleh buat orang TERKENCING!"
+  },
+  {
+   "mula": 66.165,
+   "tamat": 69.453,
+   "teks": "Suatu malam, seorang pemuda terserempak dengan pontianak."
+  },
+  {
+   "mula": 69.733,
+   "tamat": 71.682,
+   "teks": "“Jangan kacau aku! Aku tak ada duit!”"
+  },
+  {
+   "mula": 71.962,
+   "tamat": 74.139,
+   "teks": "“AKU BUKAN NAK DUIT!”",
+   "gaya": "seram"
+  },
+  {
+   "mula": 74.419,
+   "tamat": 77.493,
+   "teks": "“Aku nak tanya satu soalan…”",
+   "gaya": "seram"
+  },
+  {
+   "mula": 77.773,
+   "tamat": 78.576,
+   "teks": "“APA DIA?!”"
+  },
+  {
+   "mula": 78.856,
+   "tamat": 81.323,
+   "teks": "“Kau tahu tak suami aku sekarang duduk mana?!”",
+   "gaya": "seram"
+  },
+  {
+   "mula": 81.603,
+   "tamat": 86.333,
+   "teks": "Rupa-rupanya, sampai sekarang pontianak masih belum MOVE ON!"
+  }
+ ],
+ "cakap": [
+  {
+   "watak": "SITI",
+   "mula": 14.233,
+   "tamat": 16.226
+  },
+  {
+   "watak": "SITI",
+   "mula": 32.659,
+   "tamat": 34.336
+  },
+  {
+   "watak": "PENDUDUK",
+   "mula": 55.663,
+   "tamat": 57.565
+  },
+  {
+   "watak": "PEMUDA",
+   "mula": 69.733,
+   "tamat": 71.682
+  },
+  {
+   "watak": "PONTIANAK",
+   "mula": 71.962,
+   "tamat": 74.139
+  },
+  {
+   "watak": "PONTIANAK",
+   "mula": 74.419,
+   "tamat": 77.493
+  },
+  {
+   "watak": "PEMUDA",
+   "mula": 77.773,
+   "tamat": 78.576
+  },
+  {
+   "watak": "PONTIANAK",
+   "mula": 78.856,
+   "tamat": 81.323
+  }
+ ],
+ "scene": [
+  {
+   "id": "SC01",
+   "tajuk": "Kenapa menjerit?!",
+   "mula": 0,
+   "tamat": 2.114,
+   "babak": "B0 · Hook",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PONTIANAK"
+   ],
+   "visual": "Pontianak tiba-tiba muncul menjerit ke kamera; tajuk besar.",
+   "gerakan": "Pontianak tiba-tiba muncul menjerit ke kamera; tajuk besar.",
+   "ekspresi": "Seram lucu",
+   "dialog": "(tiada)",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "",
+   "cap_suara": "0.0–2.1 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC02",
+   "tajuk": "Zaman dahulu",
+   "mula": 2.114,
+   "tamat": 5.669,
+   "babak": "B1 · Ditinggalkan",
+   "lokasi": "LOK-KAMPUNG-LAMA",
+   "watak": [
+    "SITI"
+   ],
+   "visual": "Rumah kampung lama waktu petang; Siti yang cantik melambai.",
+   "gerakan": "Rumah kampung lama waktu petang; Siti yang cantik melambai.",
+   "ekspresi": "Manis",
+   "dialog": "Pada zaman dahulu, ada seorang wanita bernama Siti.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Pada zaman dahulu, ada seorang wanita bernama Siti.",
+   "cap_suara": "2.1–5.7 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC03",
+   "tajuk": "Cinta suami",
+   "mula": 5.669,
+   "tamat": 9.252,
+   "babak": "B1 · Ditinggalkan",
+   "lokasi": "LOK-KAMPUNG-LAMA",
+   "watak": [
+    "SITI",
+    "SUAMI-SITI"
+   ],
+   "visual": "Siti memeluk lengan suami dengan hati; suami berpeluh mencurigakan.",
+   "gerakan": "Siti memeluk lengan suami dengan hati; suami berpeluh mencurigakan.",
+   "ekspresi": "Siti bahagia; suami gelabah",
+   "dialog": "Dia sangat cantik dan terlalu mencintai suaminya.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Dia sangat cantik dan terlalu mencintai suaminya.",
+   "cap_suara": "5.7–9.3 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC04",
+   "tajuk": "Kantoi kahwin dua",
+   "mula": 9.252,
+   "tamat": 14.093,
+   "babak": "B1 · Ditinggalkan",
+   "lokasi": "LOK-KAMPUNG-LAMA",
+   "watak": [
+    "SUAMI-SITI",
+    "ISTERI-KEDUA"
+   ],
+   "visual": "Suami menyelinap keluar membawa beg; awan fikiran isteri kedua; cop KANTOI!",
+   "gerakan": "Suami menyelinap keluar membawa beg; awan fikiran isteri kedua; cop KANTOI!",
+   "ekspresi": "Lucu",
+   "dialog": "Tetapi suatu hari, suaminya lari meninggalkan dia kerana KANTOI KAHWIN DUA!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Tetapi suatu hari, suaminya lari meninggalkan dia kerana KANTOI KAHWIN DUA!",
+   "cap_suara": "9.3–14.1 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC05",
+   "tajuk": "Balik sini!",
+   "mula": 14.093,
+   "tamat": 16.366,
+   "babak": "B1 · Ditinggalkan",
+   "lokasi": "LOK-KAMPUNG-LAMA",
+   "watak": [
+    "SITI",
+    "SUAMI-SITI"
+   ],
+   "visual": "Siti menjerit marah, sanggul terurai; suami lari lintang-pukang.",
+   "gerakan": "Siti menjerit marah, sanggul terurai; suami lari lintang-pukang.",
+   "ekspresi": "Marah",
+   "dialog": "“KAU INGAT AKU TAK TAHU?! BALIK SINI!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "“KAU INGAT AKU TAK TAHU?! BALIK SINI!”",
+   "cap_suara": "14.1–16.4 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC06",
+   "tajuk": "Mula berubah",
+   "mula": 16.366,
+   "tamat": 19.714,
+   "babak": "B1 · Ditinggalkan",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "SITI"
+   ],
+   "visual": "Siti di tingkap waktu malam hujan, rambut terurai, menangis.",
+   "gerakan": "Siti di tingkap waktu malam hujan, rambut terurai, menangis.",
+   "ekspresi": "Sedih",
+   "dialog": "Sejak hari itu, Siti mula berubah.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Sejak hari itu, Siti mula berubah.",
+   "cap_suara": "16.4–19.7 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC07",
+   "tajuk": "Cari satu kampung",
+   "mula": 19.714,
+   "tamat": 25.094,
+   "babak": "B1 · Ditinggalkan",
+   "lokasi": "LOK-KAMPUNG-MALAM",
+   "watak": [
+    "SITI"
+   ],
+   "visual": "Siti membawa pelita mencari suami satu kampung sambil menangis air terjun.",
+   "gerakan": "Siti membawa pelita mencari suami satu kampung sambil menangis air terjun.",
+   "ekspresi": "Sedih lucu",
+   "dialog": "Setiap malam dia menangis, menjerit dan mencari suaminya satu kampung!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Setiap malam dia menangis, menjerit dan mencari suaminya satu kampung!",
+   "cap_suara": "19.7–25.1 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC08",
+   "tajuk": "Suara dari hutan",
+   "mula": 25.094,
+   "tamat": 29.112,
+   "babak": "B2 · Misteri",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "SITI"
+   ],
+   "visual": "Pinggir hutan berkabus; Siti terdengar suara.",
+   "gerakan": "Pinggir hutan berkabus; Siti terdengar suara.",
+   "ekspresi": "Terkejut",
+   "dialog": "Pada suatu malam, Siti terdengar suara suaminya di dalam hutan.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Pada suatu malam, Siti terdengar suara suaminya di dalam hutan.",
+   "cap_suara": "25.1–29.1 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false,
+   "masuk": "hitam"
+  },
+  {
+   "id": "SC09",
+   "tajuk": "Kejar suara",
+   "mula": 29.112,
+   "tamat": 32.519,
+   "babak": "B2 · Misteri",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "SITI"
+   ],
+   "visual": "Siti berlari masuk ke hutan.",
+   "gerakan": "Siti berlari masuk ke hutan.",
+   "ekspresi": "Terdesak",
+   "dialog": "Tanpa berfikir panjang, dia terus mengejar suara tersebut.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Tanpa berfikir panjang, dia terus mengejar suara tersebut.",
+   "cap_suara": "29.1–32.5 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC10",
+   "tajuk": "Abang tunggu!",
+   "mula": 32.519,
+   "tamat": 34.476,
+   "babak": "B2 · Misteri",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "SITI"
+   ],
+   "visual": "Siti menjerit memanggil (lip-sync).",
+   "gerakan": "Siti menjerit memanggil (lip-sync).",
+   "ekspresi": "Terdesak",
+   "dialog": "“ABANG?! ABANG TUNGGU!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "“ABANG?! ABANG TUNGGU!”",
+   "cap_suara": "32.5–34.5 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": true
+  },
+  {
+   "id": "SC11",
+   "tajuk": "Burung hantu",
+   "mula": 34.476,
+   "tamat": 38.404,
+   "babak": "B2 · Misteri",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "SITI"
+   ],
+   "visual": "Burung hantu berbunyi di dahan; Siti keliru.",
+   "gerakan": "Burung hantu berbunyi di dahan; Siti keliru.",
+   "ekspresi": "Keliru",
+   "dialog": "Tetapi rupa-rupanya itu cuma bunyi BURUNG HANTU!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Tetapi rupa-rupanya itu cuma bunyi BURUNG HANTU!",
+   "cap_suara": "34.5–38.4 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC12",
+   "tajuk": "Tersesat",
+   "mula": 38.404,
+   "tamat": 43.301,
+   "babak": "B2 · Misteri",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "SITI"
+   ],
+   "visual": "Siti hilang ditelan kabus.",
+   "gerakan": "Siti hilang ditelan kabus.",
+   "ekspresi": "Takut",
+   "dialog": "Malangnya, Siti tersesat di dalam hutan dan sejak malam itu, dia tidak pernah pulang.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Malangnya, Siti tersesat di dalam hutan dan sejak malam itu, dia tidak pernah pulang.",
+   "cap_suara": "38.4–43.3 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC13",
+   "tajuk": "Ketawa dari pokok",
+   "mula": 43.301,
+   "tamat": 48.82,
+   "babak": "B3 · Kelahiran Pontianak",
+   "lokasi": "LOK-POKOK-BESAR",
+   "watak": [
+    "TOK-KAMPUNG",
+    "MAKCIK-KAMPUNG",
+    "PEMUDA"
+   ],
+   "visual": "Penduduk kampung dengan pelita mendengar ketawa dari pokok besar.",
+   "gerakan": "Penduduk kampung dengan pelita mendengar ketawa dari pokok besar.",
+   "ekspresi": "Menggigil",
+   "dialog": "Beberapa malam kemudian, penduduk kampung mula terdengar suara wanita ketawa dari atas pokok.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Beberapa malam kemudian, penduduk kampung mula terdengar suara wanita ketawa dari atas pokok.",
+   "cap_suara": "43.3–48.8 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false,
+   "masuk": "hitam"
+  },
+  {
+   "id": "SC14",
+   "tajuk": "Lembaga di dahan",
+   "mula": 48.82,
+   "tamat": 55.523,
+   "babak": "B3 · Kelahiran Pontianak",
+   "lokasi": "LOK-POKOK-BESAR",
+   "watak": [
+    "PONTIANAK"
+   ],
+   "visual": "Kamera mendongak; pontianak mencangkung di dahan, rambut menutup muka, kemudian menoleh mengejut.",
+   "gerakan": "Kamera mendongak; pontianak mencangkung di dahan, rambut menutup muka, kemudian menoleh mengejut.",
+   "ekspresi": "Seram",
+   "dialog": "Apabila diperiksa, kelihatan satu lembaga berambut panjang, berbaju putih dan berkuku tajam!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Apabila diperiksa, kelihatan satu lembaga berambut panjang, berbaju putih dan berkuku tajam!",
+   "cap_suara": "48.8–55.5 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC15",
+   "tajuk": "Ya Allah! Pontianak!",
+   "mula": 55.523,
+   "tamat": 57.705,
+   "babak": "B3 · Kelahiran Pontianak",
+   "lokasi": "LOK-POKOK-BESAR",
+   "watak": [
+    "TOK-KAMPUNG",
+    "MAKCIK-KAMPUNG",
+    "PEMUDA"
+   ],
+   "visual": "Penduduk kampung menjerit dan lari.",
+   "gerakan": "Penduduk kampung menjerit dan lari.",
+   "ekspresi": "Panik lucu",
+   "dialog": "“YA ALLAH! PONTIANAK!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "“YA ALLAH! PONTIANAK!”",
+   "cap_suara": "55.5–57.7 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC16",
+   "tajuk": "Lahirnya pontianak",
+   "mula": 57.705,
+   "tamat": 59.908,
+   "babak": "B3 · Kelahiran Pontianak",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PONTIANAK"
+   ],
+   "visual": "Siluet pontianak terbang melintasi bulan purnama.",
+   "gerakan": "Siluet pontianak terbang melintasi bulan purnama.",
+   "ekspresi": "—",
+   "dialog": "Sejak itulah munculnya PONTIANAK!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Sejak itulah munculnya PONTIANAK!",
+   "cap_suara": "57.7–59.9 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC17",
+   "tajuk": "Kad profil hantu",
+   "mula": 59.908,
+   "tamat": 66.025,
+   "babak": "B3 · Kelahiran Pontianak",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PONTIANAK"
+   ],
+   "visual": "Kad profil lucu: rambut panjang ✓ baju putih ✓ jeritan ✓; orang terkencing.",
+   "gerakan": "Kad profil lucu: rambut panjang ✓ baju putih ✓ jeritan ✓; orang terkencing.",
+   "ekspresi": "Lucu",
+   "dialog": "Hantu yang terkenal dengan rambut panjang, pakaian putih dan jeritan yang boleh buat orang TERKENCING!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Hantu yang terkenal dengan rambut panjang, pakaian putih dan jeritan yang boleh buat orang TERKENCING!",
+   "cap_suara": "59.9–66.0 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC18",
+   "tajuk": "Pemuda berjalan",
+   "mula": 66.025,
+   "tamat": 69.593,
+   "babak": "B4 · Plot Twist",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PEMUDA",
+    "PONTIANAK"
+   ],
+   "visual": "Pemuda berjalan dengan lampu suluh; pontianak muncul terbalik dari dahan.",
+   "gerakan": "Pemuda berjalan dengan lampu suluh; pontianak muncul terbalik dari dahan.",
+   "ekspresi": "Takut",
+   "dialog": "Suatu malam, seorang pemuda terserempak dengan pontianak.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Suatu malam, seorang pemuda terserempak dengan pontianak.",
+   "cap_suara": "66.0–69.6 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false,
+   "masuk": "hitam"
+  },
+  {
+   "id": "SC19",
+   "tajuk": "Tak ada duit!",
+   "mula": 69.593,
+   "tamat": 71.822,
+   "babak": "B4 · Plot Twist",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PEMUDA"
+   ],
+   "visual": "Pemuda jatuh terduduk, menggigil, menunjukkan poket kosong (lip-sync).",
+   "gerakan": "Pemuda jatuh terduduk, menggigil, menunjukkan poket kosong (lip-sync).",
+   "ekspresi": "Takut lucu",
+   "dialog": "“Jangan kacau aku! Aku tak ada duit!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "“Jangan kacau aku! Aku tak ada duit!”",
+   "cap_suara": "69.6–71.8 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC20",
+   "tajuk": "Bukan nak duit!",
+   "mula": 71.822,
+   "tamat": 74.279,
+   "babak": "B4 · Plot Twist",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PONTIANAK"
+   ],
+   "visual": "Pontianak menjerit, rambut terbang (lip-sync).",
+   "gerakan": "Pontianak menjerit, rambut terbang (lip-sync).",
+   "ekspresi": "Seram",
+   "dialog": "“AKU BUKAN NAK DUIT!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "“AKU BUKAN NAK DUIT!”",
+   "cap_suara": "71.8–74.3 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": true
+  },
+  {
+   "id": "SC21",
+   "tajuk": "Satu soalan",
+   "mula": 74.279,
+   "tamat": 77.633,
+   "babak": "B4 · Plot Twist",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PONTIANAK"
+   ],
+   "visual": "Pontianak mendekat perlahan sambil berbisik, jari diangkat (lip-sync).",
+   "gerakan": "Pontianak mendekat perlahan sambil berbisik, jari diangkat (lip-sync).",
+   "ekspresi": "Seram manis",
+   "dialog": "“Aku nak tanya satu soalan…”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "“Aku nak tanya satu soalan…”",
+   "cap_suara": "74.3–77.6 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": true
+  },
+  {
+   "id": "SC22",
+   "tajuk": "Suami aku mana?!",
+   "mula": 77.633,
+   "tamat": 81.463,
+   "babak": "B4 · Plot Twist",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PEMUDA",
+    "PONTIANAK"
+   ],
+   "visual": "Pemuda bertanya; pontianak menunjukkan poster DICARI suaminya (lip-sync).",
+   "gerakan": "Pemuda bertanya; pontianak menunjukkan poster DICARI suaminya (lip-sync).",
+   "ekspresi": "Plot twist",
+   "dialog": "“APA DIA?!” “Kau tahu tak suami aku sekarang duduk mana?!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "“APA DIA?!” “Kau tahu tak suami aku sekarang duduk mana?!”",
+   "cap_suara": "77.6–81.5 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC23",
+   "tajuk": "Belum move on",
+   "mula": 81.463,
+   "tamat": 86.533,
+   "babak": "B4 · Plot Twist",
+   "lokasi": "LOK-HUTAN",
+   "watak": [
+    "PONTIANAK",
+    "PEMUDA"
+   ],
+   "visual": "Pontianak memeluk poster sambil menangis air terjun; pemuda menepuk bahu.",
+   "gerakan": "Pontianak memeluk poster sambil menangis air terjun; pemuda menepuk bahu.",
+   "ekspresi": "Lucu",
+   "dialog": "Rupa-rupanya, sampai sekarang pontianak masih belum MOVE ON!",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "Rupa-rupanya, sampai sekarang pontianak masih belum MOVE ON!",
+   "cap_suara": "81.5–86.5 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC24",
+   "tajuk": "Teks akhir",
+   "mula": 86.533,
+   "tamat": 89.43,
+   "babak": "B4 · Plot Twist",
+   "lokasi": "LOK-HITAM",
+   "watak": [
+    "PONTIANAK"
+   ],
+   "visual": "JANGAN MAIN-MAIN DENGAN PEREMPUAN YANG BELUM MOVE ON! 😂",
+   "gerakan": "JANGAN MAIN-MAIN DENGAN PEREMPUAN YANG BELUM MOVE ON! 😂",
+   "ekspresi": "—",
+   "dialog": "(tiada)",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "kabus, cahaya bulan",
+   "sfx": "Muzik seram lucu",
+   "sari_kata": "",
+   "cap_suara": "86.5–89.4 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  }
+ ]
+}

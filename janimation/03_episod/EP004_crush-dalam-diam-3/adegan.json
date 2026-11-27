@@ -1,0 +1,773 @@
+{
+ "episod": {
+  "kod": "EP004",
+  "tajuk": "Crush Dalam Diam #3 — Kenapa Awak Baru Nak Beritahu?!",
+  "format": "C — Crush Dalam Diam",
+  "audio": "suara/EP004_narasi.wav",
+  "audio_campuran": "suara/EP004_campuran.wav",
+  "audio_asal": "suara/EP004_narasi_asal.mp3",
+  "durasi_audio": 78.32
+ },
+ "sari_kata": [
+  {
+   "mula": 0,
+   "tamat": 2.223,
+   "teks": "Sejak Aina mengajaknya makan bersama,"
+  },
+  {
+   "mula": 2.499,
+   "tamat": 5.025,
+   "teks": "Amir semakin bersemangat untuk mendekatinya."
+  },
+  {
+   "mula": 5.305,
+   "tamat": 7.89,
+   "teks": "Dia mula menemani Aina ke kantin,"
+  },
+  {
+   "mula": 7.89,
+   "tamat": 11.4,
+   "teks": "berkongsi makanan dan selalu membuat Aina KETAWA."
+  },
+  {
+   "mula": 11.4,
+   "tamat": 13.44,
+   "teks": "Nampaknya strategi aku MENJADI!",
+   "gaya": "hati"
+  },
+  {
+   "mula": 13.44,
+   "tamat": 18.202,
+   "teks": "Kalau macam ni, tak lama lagi bolehlah aku luahkan perasaan!",
+   "gaya": "hati"
+  },
+  {
+   "mula": 18.482,
+   "tamat": 20.792,
+   "teks": "Setiap hari mereka semakin rapat."
+  },
+  {
+   "mula": 21.072,
+   "tamat": 24.736,
+   "teks": "Sampailah satu hari, ketika mereka sedang berbual di kantin,"
+  },
+  {
+   "mula": 25.016,
+   "tamat": 27.061,
+   "teks": "Aina tiba-tiba kelihatan SERIUS."
+  },
+  {
+   "mula": 27.341,
+   "tamat": 30.652,
+   "teks": "“Amir, sebenarnya ada sesuatu saya nak beritahu awak.”"
+  },
+  {
+   "mula": 30.932,
+   "tamat": 31.387,
+   "teks": "“Apa dia?”"
+  },
+  {
+   "mula": 31.667,
+   "tamat": 35.117,
+   "teks": "“Janganlah cakap awak dah ada BOYFRIEND!”"
+  },
+  {
+   "mula": 35.397,
+   "tamat": 38.044,
+   "teks": "“Bukanlah! Saya sebenarnya akan PINDAH SEKOLAH bulan depan.”"
+  },
+  {
+   "mula": 38.324,
+   "tamat": 39.644,
+   "teks": "“HAH?! Pindah sekolah?”"
+  },
+  {
+   "mula": 39.924,
+   "tamat": 41.282,
+   "teks": "Amir terus terdiam."
+  },
+  {
+   "mula": 41.562,
+   "tamat": 45.064,
+   "teks": "Dia langsung tak sangka Aina akan meninggalkan sekolah mereka."
+  },
+  {
+   "mula": 45.344,
+   "tamat": 46.952,
+   "teks": "“Saya pun sebenarnya sedih.”"
+  },
+  {
+   "mula": 47.232,
+   "tamat": 49.817,
+   "teks": "“Tapi sebelum pindah, saya nak awak tahu…”"
+  },
+  {
+   "mula": 50.097,
+   "tamat": 52.109,
+   "teks": "“saya selesa sangat berkawan dengan awak.”"
+  },
+  {
+   "mula": 52.389,
+   "tamat": 54.195,
+   "teks": "“Awak selalu buat saya gembira.”"
+  },
+  {
+   "mula": 54.474,
+   "tamat": 58.573,
+   "teks": "Amir hanya mampu tersenyum walaupun hatinya mula rasa sedih."
+  },
+  {
+   "mula": 58.853,
+   "tamat": 63.634,
+   "teks": "Aku dah cuba macam-macam cara untuk rapat dengan dia.",
+   "gaya": "hati"
+  },
+  {
+   "mula": 63.914,
+   "tamat": 67.481,
+   "teks": "Tapi sekarang, masa aku dengan Aina mungkin dah tak banyak…",
+   "gaya": "hati"
+  },
+  {
+   "mula": 67.761,
+   "tamat": 69.864,
+   "teks": "“Aina, sebelum awak pindah nanti…”"
+  },
+  {
+   "mula": 70.144,
+   "tamat": 71.976,
+   "teks": "“ada sesuatu yang saya nak beritahu awak.”"
+  },
+  {
+   "mula": 72.256,
+   "tamat": 72.92,
+   "teks": "“Apa dia, Amir?”"
+  },
+  {
+   "mula": 73.2,
+   "tamat": 76.2,
+   "teks": "Adakah Amir akhirnya akan MELUAHKAN perasaannya?"
+  }
+ ],
+ "cakap": [
+  {
+   "watak": "AINA",
+   "mula": 27.341,
+   "tamat": 30.652
+  },
+  {
+   "watak": "AMIR",
+   "mula": 30.932,
+   "tamat": 35.117
+  },
+  {
+   "watak": "AINA",
+   "mula": 35.397,
+   "tamat": 38.044
+  },
+  {
+   "watak": "AMIR",
+   "mula": 38.324,
+   "tamat": 39.644
+  },
+  {
+   "watak": "AINA",
+   "mula": 45.344,
+   "tamat": 54.195
+  },
+  {
+   "watak": "AMIR",
+   "mula": 67.761,
+   "tamat": 71.976
+  },
+  {
+   "watak": "AINA",
+   "mula": 72.256,
+   "tamat": 72.92
+  }
+ ],
+ "scene": [
+  {
+   "id": "SC01",
+   "tajuk": "Masih teruja",
+   "mula": 0.0,
+   "tamat": 2.36,
+   "babak": "B1 · Strategi Amir",
+   "lokasi": "LOK-KORIDOR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Koridor sekolah; tajuk EPISOD 3 di atas.",
+   "gerakan": "AMIR berjalan sambil tersenyum dan membetulkan rambut, hati kecil di sekeliling.",
+   "ekspresi": "Gembira, pipi merah.",
+   "dialog": "(narasi) \"Sejak Aina mengajaknya makan bersama,\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Ikut dari depan",
+   "teknik": "hati kecil, kilauan",
+   "sfx": "Kotak muzik ceria",
+   "sari_kata": "Sejak Aina mengajaknya makan bersama,",
+   "cap_suara": "0.0–2.4 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC02",
+   "tajuk": "Bersemangat",
+   "mula": 2.36,
+   "tamat": 5.165,
+   "babak": "B1 · Strategi Amir",
+   "lokasi": "LOK-KORIDOR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR melompat kecil dan menggenggam penumbuk tanda semangat.",
+   "gerakan": "Lompat kecil, picit-regang.",
+   "ekspresi": "Bersemangat, mata berkilau.",
+   "dialog": "(narasi) \"Amir semakin bersemangat untuk mendekatinya.\"",
+   "sudut": "Sudut rendah",
+   "gerak_kamera": "Zoom masuk",
+   "teknik": "picit-regang, kilauan",
+   "sfx": "Ting",
+   "sari_kata": "Amir semakin bersemangat untuk mendekatinya.",
+   "cap_suara": "2.4–5.2 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC03",
+   "tajuk": "Teman ke kantin",
+   "mula": 5.165,
+   "tamat": 7.89,
+   "babak": "B1 · Strategi Amir",
+   "lokasi": "LOK-KORIDOR",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "AMIR dan AINA berjalan seiring ke kantin.",
+   "gerakan": "Berjalan sambil berbual.",
+   "ekspresi": "Gembira.",
+   "dialog": "(narasi) \"Dia mula menemani Aina ke kantin,\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Ikut dari depan",
+   "teknik": "kelopak, bokeh",
+   "sfx": "Kotak muzik",
+   "sari_kata": "Dia mula menemani Aina ke kantin,",
+   "cap_suara": "5.2–7.9 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC04",
+   "tajuk": "Kongsi makanan",
+   "mula": 7.89,
+   "tamat": 11.4,
+   "babak": "B1 · Strategi Amir",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Di meja kantin, AMIR berkongsi kuih dan membuat muka lucu; AINA ketawa.",
+   "gerakan": "AMIR hulur kuih, kemudian buat muka juling; AINA ketawa menutup mulut.",
+   "ekspresi": "AMIR nakal; AINA geli hati.",
+   "dialog": "(narasi) \"berkongsi makanan dan selalu membuat Aina ketawa.\"",
+   "sudut": "Syot dua watak",
+   "gerak_kamera": "Statik",
+   "teknik": "hati kecil",
+   "sfx": "Pop",
+   "sari_kata": "berkongsi makanan dan selalu membuat Aina ketawa.",
+   "cap_suara": "7.9–11.4 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC05",
+   "tajuk": "Strategi menjadi!",
+   "mula": 11.4,
+   "tamat": 14.507,
+   "babak": "B1 · Strategi Amir",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR mengenyit mata kepada kamera; tanda ✓ strategi muncul.",
+   "gerakan": "Kenyit mata, ibu jari.",
+   "ekspresi": "Bangga licik.",
+   "dialog": "AMIR (dalam hati) \"Nampaknya strategi aku menjadi! Kalau macam ni,\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk",
+   "teknik": "tanda ✓ pop",
+   "sfx": "Pizzicato",
+   "sari_kata": "Nampaknya strategi aku menjadi!",
+   "cap_suara": "11.4–14.5 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC06",
+   "tajuk": "Angan-angan luah",
+   "mula": 14.507,
+   "tamat": 18.342,
+   "babak": "B1 · Strategi Amir",
+   "lokasi": "LOK-IMAJINASI",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Khayalan: AMIR memegang sampul surat merah jambu, latar corak hati.",
+   "gerakan": "AMIR memeluk surat sambil bergoyang.",
+   "ekspresi": "Berangan, pipi merah.",
+   "dialog": "AMIR (dalam hati) \"tak lama lagi bolehlah aku luahkan perasaan!\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Pusing perlahan",
+   "teknik": "corak hati, hati terapung",
+   "sfx": "Glissando",
+   "sari_kata": "Kalau macam ni, tak lama lagi bolehlah aku luahkan perasaan!",
+   "cap_suara": "14.5–18.3 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC07",
+   "tajuk": "Hari demi hari",
+   "mula": 18.342,
+   "tamat": 20.932,
+   "babak": "B2 · Semakin Rapat",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Kalendar berselak di atas; AMIR dan AINA ketawa di meja kantin.",
+   "gerakan": "Helaian kalendar terbang.",
+   "ekspresi": "Ceria.",
+   "dialog": "(narasi) \"Setiap hari mereka semakin rapat.\"",
+   "sudut": "Syot dua watak",
+   "gerak_kamera": "Statik",
+   "teknik": "kalendar berselak",
+   "sfx": "Kotak muzik ceria",
+   "sari_kata": "Setiap hari mereka semakin rapat.",
+   "cap_suara": "18.3–20.9 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC08",
+   "tajuk": "Borak cita-cita",
+   "mula": 20.932,
+   "tamat": 24.876,
+   "babak": "B2 · Semakin Rapat",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Berbual tentang cita-cita, keluarga dan kenangan (ikon bintang, rumah, kamera).",
+   "gerakan": "AINA ketawa menutup mulut; AMIR menggaru kepala tersipu.",
+   "ekspresi": "Selesa dan manis.",
+   "dialog": "(narasi) \"Sampailah satu hari, ketika mereka sedang berbual di kantin,\"",
+   "sudut": "Syot dua watak",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "ikon pop",
+   "sfx": "Kotak muzik",
+   "sari_kata": "Sampailah satu hari, ketika mereka sedang berbual di kantin,",
+   "cap_suara": "20.9–24.9 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC09",
+   "tajuk": "Tiba-tiba serius",
+   "mula": 24.876,
+   "tamat": 27.201,
+   "babak": "B3 · Berita Mengejutkan",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "Suasana sunyi; senyuman AINA hilang.",
+   "gerakan": "Kamera zoom perlahan; warna pudar.",
+   "ekspresi": "Serius.",
+   "dialog": "(narasi) \"Aina tiba-tiba kelihatan serius.\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "warna pudar",
+   "sfx": "Muzik berhenti",
+   "sari_kata": "Aina tiba-tiba kelihatan serius.",
+   "cap_suara": "24.9–27.2 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC10",
+   "tajuk": "Ada sesuatu",
+   "mula": 27.201,
+   "tamat": 30.792,
+   "babak": "B3 · Berita Mengejutkan",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA sedih memandang AMIR (lip-sync).",
+   "gerakan": "Bercakap perlahan.",
+   "ekspresi": "Sedih.",
+   "dialog": "AINA: \"Amir, sebenarnya ada sesuatu saya nak beritahu awak.\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "latar kabur",
+   "sfx": "Pad sunyi",
+   "sari_kata": "“Amir, sebenarnya ada sesuatu saya nak beritahu awak.”",
+   "cap_suara": "27.2–30.8 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": true
+  },
+  {
+   "id": "SC11",
+   "tajuk": "Jangan cakap boyfriend!",
+   "mula": 30.792,
+   "tamat": 35.257,
+   "babak": "B3 · Berita Mengejutkan",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR",
+    "LELAKI-MISTERI"
+   ],
+   "visual": "AMIR panik; awan fikiran menunjukkan LELAKI-MISTERI (EP002).",
+   "gerakan": "AMIR mengangkat tangan panik (lip-sync).",
+   "ekspresi": "Panik lucu, peluh.",
+   "dialog": "AMIR: \"Apa dia? Janganlah cakap awak dah ada boyfriend!\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Goncang kecil",
+   "teknik": "awan fikiran imbas kembali",
+   "sfx": "Wisel",
+   "sari_kata": "“Apa dia? Janganlah cakap awak dah ada boyfriend!”",
+   "cap_suara": "30.8–35.3 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC12",
+   "tajuk": "Pindah sekolah",
+   "mula": 35.257,
+   "tamat": 38.184,
+   "babak": "B3 · Berita Mengejutkan",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA menggeleng ketawa kecil, kemudian sedih memberitahu dia akan pindah.",
+   "gerakan": "Geleng kepala, kemudian tunduk (lip-sync).",
+   "ekspresi": "Ketawa kecil → sedih.",
+   "dialog": "AINA: \"Bukanlah! Saya sebenarnya akan pindah sekolah bulan depan.\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "latar kabur",
+   "sfx": "Pad sunyi",
+   "sari_kata": "“Bukanlah! Saya sebenarnya akan pindah sekolah bulan depan.”",
+   "cap_suara": "35.3–38.2 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": true
+  },
+  {
+   "id": "SC13",
+   "tajuk": "Hah?!",
+   "mula": 38.184,
+   "tamat": 39.784,
+   "babak": "B3 · Berita Mengejutkan",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR terkejut besar dengan bingkai hentakan dan kilat.",
+   "gerakan": "Rahang jatuh (lip-sync).",
+   "ekspresi": "Terkejut dramatik.",
+   "dialog": "AMIR: \"Hah?! Pindah sekolah?\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk pantas + goncang",
+   "teknik": "bingkai hentakan, kilat",
+   "sfx": "Kejutan dramatik",
+   "sari_kata": "“Hah?! Pindah sekolah?”",
+   "cap_suara": "38.2–39.8 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC14",
+   "tajuk": "Terdiam",
+   "mula": 39.784,
+   "tamat": 41.422,
+   "babak": "B4 · Perasaan Aina",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR membeku, warna kelabu senja.",
+   "gerakan": "Sehelai daun melintas.",
+   "ekspresi": "Kosong.",
+   "dialog": "(narasi) \"Amir terus terdiam.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Statik",
+   "teknik": "warna pudar",
+   "sfx": "Senyap",
+   "sari_kata": "Amir terus terdiam.",
+   "cap_suara": "39.8–41.4 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC15",
+   "tajuk": "Kerusi kosong",
+   "mula": 41.422,
+   "tamat": 45.204,
+   "babak": "B4 · Perasaan Aina",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [],
+   "visual": "Bayangan AMIR: kerusi AINA di tepi tingkap kosong waktu senja.",
+   "gerakan": "Kelopak gugur perlahan.",
+   "ekspresi": "—",
+   "dialog": "(narasi) \"Dia langsung tak sangka Aina akan meninggalkan sekolah mereka.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "cahaya senja, habuk berkilau",
+   "sfx": "Kotak muzik sedih",
+   "sari_kata": "Dia langsung tak sangka Aina akan meninggalkan sekolah mereka.",
+   "cap_suara": "41.4–45.2 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC16",
+   "tajuk": "Berat hati",
+   "mula": 45.204,
+   "tamat": 49.957,
+   "babak": "B4 · Perasaan Aina",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA tunduk sambil bermain jari (lip-sync).",
+   "gerakan": "Jari bergerak gelisah.",
+   "ekspresi": "Sedih.",
+   "dialog": "AINA: \"Saya pun sebenarnya sedih. Tapi sebelum pindah, saya nak awak tahu…\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "cahaya senja",
+   "sfx": "Kotak muzik sedih",
+   "sari_kata": "“Saya pun sebenarnya sedih. Tapi sebelum pindah, saya nak awak tahu…”",
+   "cap_suara": "45.2–50.0 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC17",
+   "tajuk": "Selesa berkawan",
+   "mula": 49.957,
+   "tamat": 54.335,
+   "babak": "B4 · Perasaan Aina",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA mengangkat muka dan senyum dengan mata berkaca (lip-sync).",
+   "gerakan": "Senyum lembut.",
+   "ekspresi": "Terharu.",
+   "dialog": "AINA: \"saya selesa sangat berkawan dengan awak. Awak selalu buat saya gembira.\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Statik",
+   "teknik": "kelopak, cahaya hangat",
+   "sfx": "Kotak muzik sedih",
+   "sari_kata": "“…saya selesa sangat berkawan dengan awak. Awak selalu buat saya gembira.”",
+   "cap_suara": "50.0–54.3 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC18",
+   "tajuk": "Senyum dalam sedih",
+   "mula": 54.335,
+   "tamat": 58.713,
+   "babak": "B4 · Perasaan Aina",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR tersenyum; jantung di dadanya retak perlahan.",
+   "gerakan": "Senyum bergetar, air mata bergenang.",
+   "ekspresi": "Senyum sedih.",
+   "dialog": "(narasi) \"Amir hanya mampu tersenyum walaupun hatinya mula rasa sedih.\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "hati retak",
+   "sfx": "Kotak muzik sedih",
+   "sari_kata": "Amir hanya mampu tersenyum walaupun hatinya mula rasa sedih.",
+   "cap_suara": "54.3–58.7 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC19",
+   "tajuk": "Kenangan",
+   "mula": 58.713,
+   "tamat": 63.774,
+   "babak": "B5 · Pengakhiran",
+   "lokasi": "LOK-IMAJINASI",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Polaroid kenangan terapung: pen merah, buku catatan, bekal, papan misi.",
+   "gerakan": "Polaroid terapung perlahan; AMIR memandang.",
+   "ekspresi": "Rindu.",
+   "dialog": "AMIR (dalam hati) \"Aku dah cuba macam-macam cara untuk rapat dengan dia.\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Pan perlahan",
+   "teknik": "polaroid, warna hangat",
+   "sfx": "Glissando sedih",
+   "sari_kata": "Aku dah cuba macam-macam cara untuk rapat dengan dia.",
+   "cap_suara": "58.7–63.8 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC20",
+   "tajuk": "Masa tak banyak",
+   "mula": 63.774,
+   "tamat": 67.621,
+   "babak": "B5 · Pengakhiran",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Jam pasir dengan pasir mengalir; AMIR termenung.",
+   "gerakan": "Pasir mengalir; detik jam.",
+   "ekspresi": "Risau.",
+   "dialog": "AMIR (dalam hati) \"Tapi sekarang, masa aku dengan Aina mungkin dah tak banyak…\"",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "jam pasir",
+   "sfx": "Detik jam",
+   "sari_kata": "Tapi sekarang, masa aku dengan Aina mungkin dah tak banyak…",
+   "cap_suara": "63.8–67.6 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC21",
+   "tajuk": "Aina…",
+   "mula": 67.621,
+   "tamat": 72.116,
+   "babak": "B5 · Pengakhiran",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR gugup memberanikan diri (lip-sync).",
+   "gerakan": "Tangan digenggam, nafas dalam.",
+   "ekspresi": "Gugup, pipi merah.",
+   "dialog": "AMIR: \"Aina, sebelum awak pindah nanti… ada sesuatu yang saya nak beritahu awak.\"",
+   "sudut": "Syot dekat",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "degupan jantung",
+   "sfx": "Degupan jantung",
+   "sari_kata": "“Aina, sebelum awak pindah nanti… ada sesuatu yang saya nak beritahu awak.”",
+   "cap_suara": "67.6–72.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC22",
+   "tajuk": "Apa dia, Amir?",
+   "mula": 72.116,
+   "tamat": 76.34,
+   "babak": "B5 · Pengakhiran",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Kedua-duanya dalam satu bingkai di meja kantin waktu senja.",
+   "gerakan": "AINA bertanya (lip-sync); kamera zoom perlahan.",
+   "ekspresi": "AINA tertanya-tanya; AMIR gugup.",
+   "dialog": "AINA: \"Apa dia, Amir?\" · (narasi) \"Adakah Amir akhirnya akan meluahkan perasaannya?\"",
+   "sudut": "Syot dua watak",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "degupan jantung, tanda soal",
+   "sfx": "Degupan jantung",
+   "sari_kata": "“Apa dia, Amir?”",
+   "cap_suara": "72.1–76.3 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC23",
+   "tajuk": "Bersambung",
+   "mula": 76.34,
+   "tamat": 78.6,
+   "babak": "B5 · Pengakhiran",
+   "lokasi": "LOK-KANTIN",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Bingkai menjadi gelap perlahan dengan tulisan BERSAMBUNG KE EPISOD 4…",
+   "gerakan": "Pudar ke hitam.",
+   "ekspresi": "—",
+   "dialog": "(narasi) \"Bersambung ke Episod 4…\"",
+   "sudut": "Syot dua watak",
+   "gerak_kamera": "Statik",
+   "teknik": "pudar ke hitam",
+   "sfx": "Dentuman lembut",
+   "sari_kata": "Bersambung ke Episod 4…",
+   "cap_suara": "76.3–78.6 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC24",
+   "tajuk": "Episod akhir",
+   "mula": 78.6,
+   "tamat": 80.8,
+   "babak": "B5 · Pengakhiran",
+   "lokasi": "LOK-HITAM",
+   "watak": [],
+   "visual": "Skrin gelap: EPISOD AKHIR – AKU SUKA KAU ❤",
+   "gerakan": "Hati berdenyut.",
+   "ekspresi": "—",
+   "dialog": "(tiada narasi)",
+   "sudut": "Skrin penuh",
+   "gerak_kamera": "Statik",
+   "teknik": "hati berdenyut",
+   "sfx": "Kotak muzik harapan",
+   "sari_kata": "",
+   "cap_suara": "78.6–80.8 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false,
+   "masuk": "hitam"
+  }
+ ]
+}

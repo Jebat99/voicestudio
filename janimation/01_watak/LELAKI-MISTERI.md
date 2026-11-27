@@ -1,4 +1,4 @@
-# LELAKI-MISTERI — (identiti didedahkan dalam episod seterusnya)
+# LELAKI-MISTERI — Abang AINA (didedahkan dalam EP005)
 
 > Status: **DRAF** · Format C: Crush Dalam Diam · Cliffhanger EP002
 
@@ -15,3 +15,8 @@ warna tanda biru denim.
 
 Mata sentiasa terlindung bayang topi sehingga identiti didedahkan. Kotak hadiah merah jambu
 ialah petunjuk (warna tanda AINA).
+
+## Pendedahan (EP005)
+
+Lelaki itu ialah **abang AINA**. Hadiah merah jambu daripada keluarga sempena AINA pindah sekolah.
+Selepas pendedahan, mata tidak lagi dibayangi topi (topi diangkat, senyum mesra).

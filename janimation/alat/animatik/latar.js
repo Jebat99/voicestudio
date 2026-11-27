@@ -237,3 +237,25 @@ function canteen(ctx, t, o = {}) {
   if (dk) { const g = ctx.createLinearGradient(0, 0, 0, H); g.addColorStop(0, `rgba(255,140,90,${.35 * dk})`); g.addColorStop(1, `rgba(90,60,120,${.35 * dk})`); ctx.fillStyle = g; ctx.fillRect(-W, -H, W * 3, H * 3); }
 }
 function canteenTable(ctx, y, dk = 0) { rr(ctx, -60, y, W + 120, 70, 14, shade("#D5DADF", -dk * .2), 7); rr(ctx, -60, y + 64, W + 120, 30, 6, shade("#AEB4BB", -dk * .2), 5); for (const x of [120, 960]) rr(ctx, x - 14, y + 90, 28, 400, 6, "#8A9099", 4); }
+
+function schoolGarden(ctx, t, o = {}) {
+  const pink = o.pink || 0;
+  skyGrad(ctx, [[0, "#5B4A9E"], [.4, "#E9799A"], [.75, "#FFB27A"], [1, "#FFE0A8"]], -300, 1250);
+  ell(ctx, 760, 980, 120, 120, "#FFE9B0"); glow(ctx, 760, 980, 520, "255,210,150", .5);
+  for (let i = 0; i < 3; i++) { const x = 140 + i * 420; tree(ctx, x, 1150, 380 + i * 40, i % 2 ? "#3E7C4A" : "#4E8A52"); }
+  ground(ctx, 1150, "#6FA35A"); poly(ctx, [[420, 1150], [660, 1150], [900, 2400], [180, 2400]], "#D9C7A8");
+  for (const x of [80, 1000]) { line(ctx, x, 1150, x, 620, 14, "#3A3A44"); ell(ctx, x, 600, 34, 40, "#FFE7A3", 6); glow(ctx, x, 600, 200, "255,230,160", .6); }
+  // gerbang bunga kertas
+  ctx.lineWidth = 26; ctx.strokeStyle = "#5A3E2B"; ctx.beginPath(); ctx.moveTo(170, 1700); ctx.lineTo(170, 900); ctx.quadraticCurveTo(540, 560, 910, 900); ctx.lineTo(910, 1700); ctx.stroke();
+  for (let i = 0; i < 16; i++) { const u = i / 15, x = u < .5 ? lerp(170, 540, u * 2) : lerp(540, 910, u * 2 - 1), y = 900 - Math.sin(u * Math.PI) * 250; bougain(ctx, x, y, 80, i + 1); }
+  for (let i = 0; i < 6; i++) { bougain(ctx, 170, 1000 + i * 120, 60, 30 + i); bougain(ctx, 910, 1000 + i * 120, 60, 40 + i); }
+  if (pink) { ctx.save(); ctx.globalAlpha = pink; skyGrad(ctx, [[0, "#FFB3CF"], [1, "#FFE3EC"]]); ctx.restore(); }
+}
+function bench(ctx, y, s = 1) { rr(ctx, 140, y - 330 * s, 800, 60 * s, 12, "#8C5A3C", 7); rr(ctx, 140, y - 240 * s, 800, 46 * s, 12, "#8C5A3C", 7); }
+function benchSeat(ctx, y) { rr(ctx, 100, y, 880, 70, 14, "#A86F48", 7); rr(ctx, 100, y + 64, 880, 26, 8, "#7A4E30", 5); for (const x of [180, 900]) rr(ctx, x - 16, y + 90, 32, 260, 6, "#3A3A44", 5); }
+function homeRoom(ctx) {
+  skyGrad(ctx, [[0, "#F7E6CC"], [1, "#EED6B0"]]);
+  rr(ctx, 640, 260, 340, 420, 10, "#BFE6FA", 7); poly(ctx, [[620, 240], [700, 240], [690, 720], [610, 720]], "#E8B4B8", 5); poly(ctx, [[920, 240], [1000, 240], [1010, 720], [930, 720]], "#E8B4B8", 5);
+  for (let i = 0; i < 3; i++) rr(ctx, 80 + i * 170, 330, 130, 160, 6, "#FFFFFF", 6);
+  ground(ctx, 1150, "#C9A47A"); rr(ctx, -60, 980, 760, 240, 40, "#F1E2C6", 7); rr(ctx, -60, 860, 760, 160, 40, "#E8D3AE", 7);
+}

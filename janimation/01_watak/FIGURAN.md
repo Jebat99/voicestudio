@@ -49,3 +49,10 @@ MURID-FIGURAN: murid sekolah menengah Malaysia, lelaki berkemeja putih bertali l
 dan berseluar hijau gelap, perempuan berbaju kurung putih, kain biru tua dan tudung putih,
 muka ringkas tanpa ciri menonjol.
 ```
+
+### Blok Varian KELUARGA-AINA
+
+```
+KELUARGA-AINA: ibu AINA bertudung hijau lembut berbaju kurung, ayah AINA berkemeja batik dan
+bermisai, wajah mesra, dalam gaya imbas kembali sepia.
+```

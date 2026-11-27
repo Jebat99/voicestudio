@@ -1,0 +1,948 @@
+{
+ "episod": {
+  "kod": "EP005",
+  "tajuk": "Crush Dalam Diam #4 — Aku Suka Kau! (Episod Akhir)",
+  "format": "C — Crush Dalam Diam",
+  "audio": "suara/EP005_narasi.wav",
+  "audio_campuran": "suara/EP005_campuran.wav",
+  "audio_asal": "suara/EP005_narasi_asal.mp3",
+  "durasi_audio": 91.53
+ },
+ "sari_kata": [
+  {
+   "mula": 0.0,
+   "tamat": 3.49,
+   "teks": "Sejak Aina memberitahu bahawa dia akan berpindah sekolah,"
+  },
+  {
+   "mula": 3.77,
+   "tamat": 5.55,
+   "teks": "Amir semakin GELISAH."
+  },
+  {
+   "mula": 5.83,
+   "tamat": 9.519,
+   "teks": "Dia tahu inilah PELUANG TERAKHIR untuk meluahkan perasaannya."
+  },
+  {
+   "mula": 9.8,
+   "tamat": 14.0,
+   "teks": "“Aina, sebenarnya lelaki yang bagi awak hadiah hari tu… siapa?”"
+  },
+  {
+   "mula": 14.28,
+   "tamat": 18.327,
+   "teks": "“Hahaha! Awak ingat lagi lelaki tu?”"
+  },
+  {
+   "mula": 18.607,
+   "tamat": 19.862,
+   "teks": "“Dia ABANG saya lah!”"
+  },
+  {
+   "mula": 20.142,
+   "tamat": 24.463,
+   "teks": "“Hadiah tu sebenarnya daripada keluarga saya sebab saya akan pindah sekolah.”"
+  },
+  {
+   "mula": 24.743,
+   "tamat": 26.447,
+   "teks": "“Oh… abang awak?!”"
+  },
+  {
+   "mula": 26.727,
+   "tamat": 28.45,
+   "teks": "“Aku ingatkan boyfriend awak!”"
+  },
+  {
+   "mula": 28.45,
+   "tamat": 30.196,
+   "teks": "“Kenapa? Awak CEMBURU ke?”"
+  },
+  {
+   "mula": 30.476,
+   "tamat": 32.131,
+   "teks": "Amir terus tersipu-sipu."
+  },
+  {
+   "mula": 32.411,
+   "tamat": 34.038,
+   "teks": "“Sebenarnya… ya.”"
+  },
+  {
+   "mula": 34.318,
+   "tamat": 36.059,
+   "teks": "“Sebab saya SUKA AWAK, Aina.”"
+  },
+  {
+   "mula": 36.339,
+   "tamat": 39.75,
+   "teks": "“Dah lama saya suka awak, tapi saya takut nak beritahu.”"
+  },
+  {
+   "mula": 40.03,
+   "tamat": 42.536,
+   "teks": "Aina terdiam seketika sebelum tersenyum."
+  },
+  {
+   "mula": 42.816,
+   "tamat": 45.636,
+   "teks": "“Amir, sebenarnya saya pun SUKA AWAK.”"
+  },
+  {
+   "mula": 45.916,
+   "tamat": 48.416,
+   "teks": "“Sebab tu saya rasa sedih nak tinggalkan sekolah ni.”"
+  },
+  {
+   "mula": 48.696,
+   "tamat": 50.15,
+   "teks": "“Jadi… kita masih boleh jumpa?”"
+  },
+  {
+   "mula": 50.15,
+   "tamat": 55.15,
+   "teks": "“Mestilah! Saya pindah sekolah je, bukannya pindah PLANET!”"
+  },
+  {
+   "mula": 55.15,
+   "tamat": 56.777,
+   "teks": "Mereka berdua ketawa."
+  },
+  {
+   "mula": 57.057,
+   "tamat": 60.878,
+   "teks": "Sebelum pulang, Aina menghulurkan satu hadiah kecil kepada Amir."
+  },
+  {
+   "mula": 61.158,
+   "tamat": 62.291,
+   "teks": "“Nah, ni untuk awak.”"
+  },
+  {
+   "mula": 62.571,
+   "tamat": 64.227,
+   "teks": "“Supaya awak tak lupakan saya.”"
+  },
+  {
+   "mula": 64.507,
+   "tamat": 66.104,
+   "teks": "Amir membuka hadiah itu."
+  },
+  {
+   "mula": 66.384,
+   "tamat": 70.224,
+   "teks": "Di dalamnya terdapat gambar mereka berdua bersama sekeping nota:"
+  },
+  {
+   "mula": 70.488,
+   "tamat": 74.004,
+   "teks": "“Terima kasih sebab pernah buat hari-hari saya lebih BAHAGIA.”"
+  },
+  {
+   "mula": 74.284,
+   "tamat": 76.742,
+   "teks": "Amir tersenyum sambil memandang Aina."
+  },
+  {
+   "mula": 77.022,
+   "tamat": 81.139,
+   "teks": "Kadang-kadang, orang yang kita suka tak semestinya jauh daripada kita."
+  },
+  {
+   "mula": 81.419,
+   "tamat": 85.167,
+   "teks": "Yang penting, BERANILAH untuk meluahkan perasaan sebelum terlambat."
+  },
+  {
+   "mula": 85.447,
+   "tamat": 86.646,
+   "teks": "Dan sejak hari itu,"
+  },
+  {
+   "mula": 86.926,
+   "tamat": 91.534,
+   "teks": "Amir tak perlu lagi berpura-pura mencari alasan untuk duduk di sebelah Aina."
+  }
+ ],
+ "cakap": [
+  {
+   "watak": "AMIR",
+   "mula": 9.8,
+   "tamat": 14.0
+  },
+  {
+   "watak": "AINA",
+   "mula": 14.28,
+   "tamat": 24.463
+  },
+  {
+   "watak": "AMIR",
+   "mula": 24.743,
+   "tamat": 28.45
+  },
+  {
+   "watak": "AINA",
+   "mula": 28.45,
+   "tamat": 30.196
+  },
+  {
+   "watak": "AMIR",
+   "mula": 32.411,
+   "tamat": 39.75
+  },
+  {
+   "watak": "AINA",
+   "mula": 42.816,
+   "tamat": 48.416
+  },
+  {
+   "watak": "AMIR",
+   "mula": 48.696,
+   "tamat": 50.15
+  },
+  {
+   "watak": "AINA",
+   "mula": 50.15,
+   "tamat": 55.15
+  },
+  {
+   "watak": "AINA",
+   "mula": 61.158,
+   "tamat": 64.227
+  }
+ ],
+ "scene": [
+  {
+   "id": "SC01",
+   "tajuk": "Tak boleh tidur",
+   "mula": 0,
+   "tamat": 3.63,
+   "babak": "B1 · Gelisah",
+   "lokasi": "LOK-BILIK-AMIR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR berbaring memeluk bantal, tak boleh tidur; kalendar di dinding.",
+   "gerakan": "AMIR berbaring memeluk bantal, tak boleh tidur; kalendar di dinding.",
+   "ekspresi": "Gelisah",
+   "dialog": "Sejak Aina memberitahu bahawa dia akan berpindah sekolah,",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Sejak Aina memberitahu bahawa dia akan berpindah sekolah,",
+   "cap_suara": "0.0–3.6 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC02",
+   "tajuk": "Mundar-mandir",
+   "mula": 3.63,
+   "tamat": 5.69,
+   "babak": "B1 · Gelisah",
+   "lokasi": "LOK-BILIK-AMIR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR mundar-mandir di bilik, jam berdetik.",
+   "gerakan": "AMIR mundar-mandir di bilik, jam berdetik.",
+   "ekspresi": "Gelisah, peluh",
+   "dialog": "Amir semakin GELISAH.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Amir semakin GELISAH.",
+   "cap_suara": "3.6–5.7 s",
+   "nota_sunting": "",
+   "mod": "misteri",
+   "bercakap": false
+  },
+  {
+   "id": "SC03",
+   "tajuk": "Peluang terakhir",
+   "mula": 5.69,
+   "tamat": 9.66,
+   "babak": "B1 · Gelisah",
+   "lokasi": "LOK-BILIK-AMIR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR memandang tarikh pindah yang dibulatkan pada kalendar, kemudian menggenggam penumbuk.",
+   "gerakan": "AMIR memandang tarikh pindah yang dibulatkan pada kalendar, kemudian menggenggam penumbuk.",
+   "ekspresi": "Nekad",
+   "dialog": "Dia tahu inilah PELUANG TERAKHIR untuk meluahkan perasaannya.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Dia tahu inilah PELUANG TERAKHIR untuk meluahkan perasaannya.",
+   "cap_suara": "5.7–9.7 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC04",
+   "tajuk": "Soalan Amir",
+   "mula": 9.66,
+   "tamat": 14.14,
+   "babak": "B2 · Abang rupanya!",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Di bangku taman sekolah waktu senja, AMIR bertanya tentang lelaki itu (lip-sync).",
+   "gerakan": "Di bangku taman sekolah waktu senja, AMIR bertanya tentang lelaki itu (lip-sync).",
+   "ekspresi": "Gugup",
+   "dialog": "AMIR: “Aina, sebenarnya lelaki yang bagi awak hadiah hari tu… siapa?”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AMIR: “Aina, sebenarnya lelaki yang bagi awak hadiah hari tu… siapa?”",
+   "cap_suara": "9.7–14.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC05",
+   "tajuk": "Aina ketawa",
+   "mula": 14.14,
+   "tamat": 18.467,
+   "babak": "B2 · Abang rupanya!",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AINA",
+    "AMIR"
+   ],
+   "visual": "AINA ketawa besar (lip-sync); AMIR keliru.",
+   "gerakan": "AINA ketawa besar (lip-sync); AMIR keliru.",
+   "ekspresi": "AINA geli hati; AMIR bingung",
+   "dialog": "AINA: “Hahaha! Awak ingat lagi lelaki tu?”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AINA: “Hahaha! Awak ingat lagi lelaki tu?”",
+   "cap_suara": "14.1–18.5 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC06",
+   "tajuk": "Abang rupanya",
+   "mula": 18.467,
+   "tamat": 20.002,
+   "babak": "B2 · Abang rupanya!",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AINA",
+    "LELAKI-MISTERI"
+   ],
+   "visual": "Awan fikiran: lelaki itu membuka topi — abang AINA yang mesra.",
+   "gerakan": "Awan fikiran: lelaki itu membuka topi — abang AINA yang mesra.",
+   "ekspresi": "Ceria",
+   "dialog": "AINA: “Dia ABANG saya lah!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AINA: “Dia ABANG saya lah!”",
+   "cap_suara": "18.5–20.0 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC07",
+   "tajuk": "Hadiah keluarga",
+   "mula": 20.002,
+   "tamat": 24.603,
+   "babak": "B2 · Abang rupanya!",
+   "lokasi": "LOK-RUMAH-AINA",
+   "watak": [
+    "AINA",
+    "LELAKI-MISTERI",
+    "KELUARGA-AINA"
+   ],
+   "visual": "Imbas kembali bergaya polaroid: keluarga AINA memberi hadiah merah jambu sempena pindah sekolah.",
+   "gerakan": "Imbas kembali bergaya polaroid: keluarga AINA memberi hadiah merah jambu sempena pindah sekolah.",
+   "ekspresi": "Hangat",
+   "dialog": "AINA: “Hadiah tu sebenarnya daripada keluarga saya sebab saya akan pindah sekolah.”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AINA: “Hadiah tu sebenarnya daripada keluarga saya sebab saya akan pindah sekolah.”",
+   "cap_suara": "20.0–24.6 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC08",
+   "tajuk": "Oh… abang?!",
+   "mula": 24.603,
+   "tamat": 26.587,
+   "babak": "B2 · Abang rupanya!",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR terkejut kemudian lega, roh kembali ke badan (lip-sync).",
+   "gerakan": "AMIR terkejut kemudian lega, roh kembali ke badan (lip-sync).",
+   "ekspresi": "Lega",
+   "dialog": "AMIR: “Oh… abang awak?!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AMIR: “Oh… abang awak?!”",
+   "cap_suara": "24.6–26.6 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC09",
+   "tajuk": "Ingatkan boyfriend",
+   "mula": 26.587,
+   "tamat": 28.45,
+   "babak": "B2 · Abang rupanya!",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR ketawa janggal menggaru kepala (lip-sync).",
+   "gerakan": "AMIR ketawa janggal menggaru kepala (lip-sync).",
+   "ekspresi": "Janggal",
+   "dialog": "AMIR: “Aku ingatkan boyfriend awak!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AMIR: “Aku ingatkan boyfriend awak!”",
+   "cap_suara": "26.6–28.4 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC10",
+   "tajuk": "Cemburu ke?",
+   "mula": 28.45,
+   "tamat": 30.336,
+   "babak": "B2 · Abang rupanya!",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA mengusik sambil mengenyit mata (lip-sync).",
+   "gerakan": "AINA mengusik sambil mengenyit mata (lip-sync).",
+   "ekspresi": "Nakal",
+   "dialog": "AINA: “Kenapa? Awak CEMBURU ke?”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AINA: “Kenapa? Awak CEMBURU ke?”",
+   "cap_suara": "28.4–30.3 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC11",
+   "tajuk": "Tersipu-sipu",
+   "mula": 30.336,
+   "tamat": 32.271,
+   "babak": "B3 · Luahan",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR merah padam, wap keluar, mengecil gaya chibi.",
+   "gerakan": "AMIR merah padam, wap keluar, mengecil gaya chibi.",
+   "ekspresi": "Malu",
+   "dialog": "Amir terus tersipu-sipu.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Amir terus tersipu-sipu.",
+   "cap_suara": "30.3–32.3 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": false
+  },
+  {
+   "id": "SC12",
+   "tajuk": "Sebenarnya… ya",
+   "mula": 32.271,
+   "tamat": 34.178,
+   "babak": "B3 · Luahan",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR mengangkat muka, angin mula bertiup (lip-sync).",
+   "gerakan": "AMIR mengangkat muka, angin mula bertiup (lip-sync).",
+   "ekspresi": "Nekad gugup",
+   "dialog": "AMIR: “Sebenarnya… ya.”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AMIR: “Sebenarnya… ya.”",
+   "cap_suara": "32.3–34.2 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC13",
+   "tajuk": "Saya suka awak",
+   "mula": 34.178,
+   "tamat": 36.199,
+   "babak": "B3 · Luahan",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Luahan dalam slow motion; latar bertukar cahaya merah jambu, kelopak berpusing (lip-sync).",
+   "gerakan": "Luahan dalam slow motion; latar bertukar cahaya merah jambu, kelopak berpusing (lip-sync).",
+   "ekspresi": "Ikhlas",
+   "dialog": "AMIR: “Sebab saya SUKA AWAK, Aina.”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AMIR: “Sebab saya SUKA AWAK, Aina.”",
+   "cap_suara": "34.2–36.2 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC14",
+   "tajuk": "Dah lama",
+   "mula": 36.199,
+   "tamat": 39.89,
+   "babak": "B3 · Luahan",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR tunduk malu meneruskan luahan (lip-sync).",
+   "gerakan": "AMIR tunduk malu meneruskan luahan (lip-sync).",
+   "ekspresi": "Malu ikhlas",
+   "dialog": "AMIR: “Dah lama saya suka awak, tapi saya takut nak beritahu.”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AMIR: “Dah lama saya suka awak, tapi saya takut nak beritahu.”",
+   "cap_suara": "36.2–39.9 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC15",
+   "tajuk": "Aina terdiam",
+   "mula": 39.89,
+   "tamat": 42.676,
+   "babak": "B3 · Luahan",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA terdiam, kemudian senyuman perlahan muncul; degupan jantung.",
+   "gerakan": "AINA terdiam, kemudian senyuman perlahan muncul; degupan jantung.",
+   "ekspresi": "Terkejut → senyum",
+   "dialog": "Aina terdiam seketika sebelum tersenyum.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Aina terdiam seketika sebelum tersenyum.",
+   "cap_suara": "39.9–42.7 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC16",
+   "tajuk": "Saya pun suka awak",
+   "mula": 42.676,
+   "tamat": 45.776,
+   "babak": "B3 · Luahan",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "Bunga mekar, letupan hati, sinar cahaya (lip-sync).",
+   "gerakan": "Bunga mekar, letupan hati, sinar cahaya (lip-sync).",
+   "ekspresi": "Bahagia, mata berkilau",
+   "dialog": "AINA: “Amir, sebenarnya saya pun SUKA AWAK.”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AINA: “Amir, sebenarnya saya pun SUKA AWAK.”",
+   "cap_suara": "42.7–45.8 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC17",
+   "tajuk": "Berat nak tinggal",
+   "mula": 45.776,
+   "tamat": 48.556,
+   "babak": "B3 · Luahan",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA senyum sedih di bawah cahaya senja (lip-sync).",
+   "gerakan": "AINA senyum sedih di bawah cahaya senja (lip-sync).",
+   "ekspresi": "Sedih manis",
+   "dialog": "AINA: “Sebab tu saya rasa sedih nak tinggalkan sekolah ni.”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AINA: “Sebab tu saya rasa sedih nak tinggalkan sekolah ni.”",
+   "cap_suara": "45.8–48.6 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC18",
+   "tajuk": "Masih boleh jumpa?",
+   "mula": 48.556,
+   "tamat": 50.15,
+   "babak": "B4 · Janji",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "AMIR penuh harapan (lip-sync).",
+   "gerakan": "AMIR penuh harapan (lip-sync).",
+   "ekspresi": "Berharap",
+   "dialog": "AMIR: “Jadi… kita masih boleh jumpa?”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AMIR: “Jadi… kita masih boleh jumpa?”",
+   "cap_suara": "48.6–50.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC19",
+   "tajuk": "Bukan pindah planet!",
+   "mula": 50.15,
+   "tamat": 55.15,
+   "babak": "B4 · Janji",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA ketawa; gelembung lucu planet dan roket (lip-sync).",
+   "gerakan": "AINA ketawa; gelembung lucu planet dan roket (lip-sync).",
+   "ekspresi": "Ceria",
+   "dialog": "AINA: “Mestilah! Saya pindah sekolah je, bukannya pindah PLANET!”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AINA: “Mestilah! Saya pindah sekolah je, bukannya pindah PLANET!”",
+   "cap_suara": "50.1–55.1 s",
+   "nota_sunting": "",
+   "mod": "komedi",
+   "bercakap": true
+  },
+  {
+   "id": "SC20",
+   "tajuk": "Ketawa bersama",
+   "mula": 55.15,
+   "tamat": 56.917,
+   "babak": "B4 · Janji",
+   "lokasi": "LOK-TAMAN-SEKOLAH",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Kedua-duanya ketawa di bangku, hati terapung.",
+   "gerakan": "Kedua-duanya ketawa di bangku, hati terapung.",
+   "ekspresi": "Bahagia",
+   "dialog": "Mereka berdua ketawa.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Mereka berdua ketawa.",
+   "cap_suara": "55.1–56.9 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC21",
+   "tajuk": "Hadiah kecil",
+   "mula": 56.917,
+   "tamat": 61.018,
+   "babak": "B5 · Hadiah",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AINA",
+    "AMIR"
+   ],
+   "visual": "Di pagar sekolah waktu senja keemasan, AINA menghulurkan kotak hadiah merah jambu.",
+   "gerakan": "Di pagar sekolah waktu senja keemasan, AINA menghulurkan kotak hadiah merah jambu.",
+   "ekspresi": "Manis",
+   "dialog": "Sebelum pulang, Aina menghulurkan satu hadiah kecil kepada Amir.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Sebelum pulang, Aina menghulurkan satu hadiah kecil kepada Amir.",
+   "cap_suara": "56.9–61.0 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC22",
+   "tajuk": "Untuk awak",
+   "mula": 61.018,
+   "tamat": 64.367,
+   "babak": "B5 · Hadiah",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AINA"
+   ],
+   "visual": "AINA memegang hadiah ke arah kamera (lip-sync).",
+   "gerakan": "AINA memegang hadiah ke arah kamera (lip-sync).",
+   "ekspresi": "Manis",
+   "dialog": "AINA: “Nah, ni untuk awak.” AINA: “Supaya awak tak lupakan saya.”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "AINA: “Nah, ni untuk awak.” AINA: “Supaya awak tak lupakan saya.”",
+   "cap_suara": "61.0–64.4 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": true
+  },
+  {
+   "id": "SC23",
+   "tajuk": "Buka hadiah",
+   "mula": 64.367,
+   "tamat": 66.244,
+   "babak": "B5 · Hadiah",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AMIR"
+   ],
+   "visual": "Tangan membuka kotak; penutup terbang, kilauan meletup.",
+   "gerakan": "Tangan membuka kotak; penutup terbang, kilauan meletup.",
+   "ekspresi": "Teruja",
+   "dialog": "Amir membuka hadiah itu.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Amir membuka hadiah itu.",
+   "cap_suara": "64.4–66.2 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC24",
+   "tajuk": "Gambar dan nota",
+   "mula": 66.244,
+   "tamat": 70.356,
+   "babak": "B5 · Hadiah",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Gambar polaroid AMIR dan AINA bersama sekeping nota.",
+   "gerakan": "Gambar polaroid AMIR dan AINA bersama sekeping nota.",
+   "ekspresi": "Terharu",
+   "dialog": "Di dalamnya terdapat gambar mereka berdua bersama sekeping nota:",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Di dalamnya terdapat gambar mereka berdua bersama sekeping nota:",
+   "cap_suara": "66.2–70.4 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC25",
+   "tajuk": "Nota Aina",
+   "mula": 70.356,
+   "tamat": 74.144,
+   "babak": "B5 · Hadiah",
+   "lokasi": "LOK-NOTA",
+   "watak": [],
+   "visual": "Nota tulisan tangan muncul perkataan demi perkataan.",
+   "gerakan": "Nota tulisan tangan muncul perkataan demi perkataan.",
+   "ekspresi": "—",
+   "dialog": "NOTA: “Terima kasih sebab pernah buat hari-hari saya lebih BAHAGIA.”",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "NOTA: “Terima kasih sebab pernah buat hari-hari saya lebih BAHAGIA.”",
+   "cap_suara": "70.4–74.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC26",
+   "tajuk": "Senyuman Amir",
+   "mula": 74.144,
+   "tamat": 76.882,
+   "babak": "B5 · Hadiah",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "AMIR tersenyum memandang AINA, kedua-duanya merah pipi.",
+   "gerakan": "AMIR tersenyum memandang AINA, kedua-duanya merah pipi.",
+   "ekspresi": "Bahagia",
+   "dialog": "Amir tersenyum sambil memandang Aina.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Amir tersenyum sambil memandang Aina.",
+   "cap_suara": "74.1–76.9 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC27",
+   "tajuk": "Pesanan",
+   "mula": 76.882,
+   "tamat": 81.279,
+   "babak": "B6 · Pengakhiran",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Siluet mereka berjalan pulang di bawah langit senja.",
+   "gerakan": "Siluet mereka berjalan pulang di bawah langit senja.",
+   "ekspresi": "—",
+   "dialog": "Kadang-kadang, orang yang kita suka tak semestinya jauh daripada kita.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Kadang-kadang, orang yang kita suka tak semestinya jauh daripada kita.",
+   "cap_suara": "76.9–81.3 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC28",
+   "tajuk": "Beranilah",
+   "mula": 81.279,
+   "tamat": 85.307,
+   "babak": "B6 · Pengakhiran",
+   "lokasi": "LOK-PAGAR",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Mereka berdiri berhadapan dengan cahaya hati di antara mereka.",
+   "gerakan": "Mereka berdiri berhadapan dengan cahaya hati di antara mereka.",
+   "ekspresi": "—",
+   "dialog": "Yang penting, BERANILAH untuk meluahkan perasaan sebelum terlambat.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Yang penting, BERANILAH untuk meluahkan perasaan sebelum terlambat.",
+   "cap_suara": "81.3–85.3 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  },
+  {
+   "id": "SC29",
+   "tajuk": "Duduk sebelah",
+   "mula": 85.307,
+   "tamat": 91.674,
+   "babak": "B6 · Pengakhiran",
+   "lokasi": "LOK-KELAS4A",
+   "watak": [
+    "AMIR",
+    "AINA"
+   ],
+   "visual": "Keesokan harinya, AMIR dan AINA duduk bersebelahan di tepi tingkap, tersenyum.",
+   "gerakan": "Keesokan harinya, AMIR dan AINA duduk bersebelahan di tepi tingkap, tersenyum.",
+   "ekspresi": "Bahagia",
+   "dialog": "Dan sejak hari itu, Amir tak perlu lagi berpura-pura mencari alasan untuk duduk di sebelah Aina.",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "Dan sejak hari itu, Amir tak perlu lagi berpura-pura mencari alasan untuk duduk di sebelah Aina.",
+   "cap_suara": "85.3–91.7 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false,
+   "masuk": "hati"
+  },
+  {
+   "id": "SC30",
+   "tajuk": "Tamat",
+   "mula": 91.674,
+   "tamat": 94.13,
+   "babak": "B6 · Pengakhiran",
+   "lokasi": "LOK-HITAM",
+   "watak": [],
+   "visual": "Kad TAMAT – CRUSH DALAM DIAM ❤",
+   "gerakan": "Kad TAMAT – CRUSH DALAM DIAM ❤",
+   "ekspresi": "—",
+   "dialog": "(tiada narasi)",
+   "sudut": "Syot sederhana",
+   "gerak_kamera": "Zoom masuk perlahan",
+   "teknik": "bokeh, kelopak, kilauan",
+   "sfx": "Muzik kotak muzik",
+   "sari_kata": "(tiada narasi)",
+   "cap_suara": "91.7–94.1 s",
+   "nota_sunting": "",
+   "mod": "romantik",
+   "bercakap": false
+  }
+ ]
+}

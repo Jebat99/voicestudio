@@ -236,3 +236,21 @@ comel coklat, kucing dan gulungan filem.
 LOK-BAWAH-MEJA: pandangan dari bawah meja sekolah, permukaan bawah meja kayu, lutut murid
 berseluar hijau gelap, buku latihan matematik terbuka di riba.
 ```
+
+### LOK-TAMAN-SEKOLAH
+```
+LOK-TAMAN-SEKOLAH: taman kecil sekolah waktu senja, bangku kayu di bawah gerbang bunga kertas
+merah jambu, lampu taman bercahaya hangat, rumput hijau dan laluan batu, langit jingga ke ungu,
+kunang-kunang dan kelopak berterbangan.
+```
+
+### LOK-RUMAH-AINA
+```
+LOK-RUMAH-AINA: ruang tamu rumah keluarga Malaysia yang hangat, sofa krim, tingkap berlangsir,
+bingkai gambar keluarga di dinding, cahaya petang lembut, gaya imbas kembali seperti foto polaroid sepia.
+```
+
+### LOK-NOTA
+```
+LOK-NOTA: sekeping kad nota merah jambu lembut dengan tulisan tangan dan lakaran hati, dilihat dari atas.
+```

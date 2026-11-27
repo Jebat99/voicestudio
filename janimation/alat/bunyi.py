@@ -151,3 +151,12 @@ def stamp_sfx(amp=.5):
 
 def tick(amp=.18):
     t = t_(.05); return np.sin(2 * np.pi * 1800 * t) * env_exp(len(t), 90) * amp
+
+
+def stinger(amp=.6):
+    """Kejutan dramatik: kord sumbang menurun + dentuman."""
+    d = 1.6; t = t_(d); y = np.zeros(len(t))
+    for n in (60, 61, 66, 67):
+        f = midi(n) * (1 - .08 * t / d); y += np.sin(2 * np.pi * np.cumsum(np.full(len(t), 1.0)) / SR * f) * .25
+    y *= env_exp(len(t), 2.2); y[:int(1.2 * SR)] += hit(1.0)[:int(1.2 * SR)]
+    return y * amp

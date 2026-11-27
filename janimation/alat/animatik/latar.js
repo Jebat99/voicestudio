@@ -223,3 +223,17 @@ function corridor(ctx, t) {
   for (let k = 0; k < 5; k++) { const u = (k / 5) ** 1.4, xl = lerp(-400, 440, 1 - u * 0 - (1 - u)), y0 = lerp(0, 640, u); rr(ctx, lerp(-300, 400, u), lerp(300, 700, u), lerp(160, 30, u), lerp(700, 140, u), 6, "#2F6B4F", 4); }
   rr(ctx, 440, 640, 200, 260, 4, "#BFE6FA", 5);
 }
+
+function canteen(ctx, t, o = {}) {
+  const dk = o.dusk || 0;
+  skyGrad(ctx, [[0, shade("#FFF1D6", -dk * .25)], [1, shade("#F6DFB8", -dk * .3)]]);
+  rr(ctx, -60, 240, 600, 360, 10, "#2F5D46", 7); for (let i = 0; i < 5; i++) line(ctx, -20, 310 + i * 55, 300 + (i % 2) * 120, 310 + i * 55, 6, "rgba(255,255,255,.55)");
+  poly(ctx, [[560, 330], [1160, 330], [1200, 470], [520, 470]], "#2E8B57", 6); for (let k = 0; k < 7; k++) poly(ctx, [[560 + k * 90, 330], [600 + k * 90, 330], [610 + k * 90, 470], [570 + k * 90, 470]], "#3FAE6E");
+  rr(ctx, 540, 470, 640, 380, 6, "#E8D3A8", 6); for (let k = 0; k < 5; k++) { rr(ctx, 570 + k * 115, 620, 100, 30, 6, "#C0C4CC", 4); ell(ctx, 620 + k * 115, 610, 42, 16, ["#F5B041", "#E74C3C", "#7BD389", "#F7DC6F", "#AF7AC5"][k], 3); }
+  ell(ctx, 160, 760, 70, 70, "#DDD", 5); line(ctx, 160, 760, 160 + Math.cos(t * 9) * 60, 760 + Math.sin(t * 9) * 60, 7);
+  rr(ctx, 330, 650, 170, 330, 12, "#E9F2F7", 6); for (let k = 0; k < 3; k++) rr(ctx, 350, 680 + k * 90, 130, 70, 6, ["#E74C3C", "#F39C12", "#3498DB"][k], 3);
+  ground(ctx, 1000, shade("#BDB6AA", -dk * .25));
+  for (let k = 0; k < 3; k++) { rr(ctx, -100 + k * 460, 1060, 380, 26, 8, "#C7CCD3", 4); rr(ctx, -80 + k * 460, 1120, 340, 20, 6, "#3D7DD8", 3); }
+  if (dk) { const g = ctx.createLinearGradient(0, 0, 0, H); g.addColorStop(0, `rgba(255,140,90,${.35 * dk})`); g.addColorStop(1, `rgba(90,60,120,${.35 * dk})`); ctx.fillStyle = g; ctx.fillRect(-W, -H, W * 3, H * 3); }
+}
+function canteenTable(ctx, y, dk = 0) { rr(ctx, -60, y, W + 120, 70, 14, shade("#D5DADF", -dk * .2), 7); rr(ctx, -60, y + 64, W + 120, 30, 6, shade("#AEB4BB", -dk * .2), 5); for (const x of [120, 960]) rr(ctx, x - 14, y + 90, 28, 400, 6, "#8A9099", 4); }

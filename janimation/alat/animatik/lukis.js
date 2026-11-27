@@ -507,17 +507,18 @@ function skyGrad(ctx, stops, y0 = 0, y1 = H) { const g = ctx.createLinearGradien
 function wrapWords(ctx, words, maxW) {
   const lines = [[]]; for (const w of words) { const L = lines[lines.length - 1]; const test = [...L, w].map(x => x.t).join(" "); if (ctx.measureText(test).width > maxW && L.length) lines.push([w]); else L.push(w); } return lines;
 }
-function subtitle(ctx, text, alpha = 1, pop = 1) {
+function subtitle(ctx, text, alpha = 1, pop = 1, gaya = "") {
   if (!text) return;
   ctx.save(); ctx.globalAlpha = alpha;
-  const fs = 62; ctx.font = `900 ${fs}px Inter`; ctx.textBaseline = "alphabetic"; ctx.lineJoin = "round";
+  const hati = gaya === "hati"; if (hati) text = "💭 " + text;
+  const fs = 62; ctx.font = `${hati ? "italic " : ""}900 ${fs}px Inter`; ctx.textBaseline = "alphabetic"; ctx.lineJoin = "round";
   const words = text.split(/\s+/).map(t => ({ t, cap: /[A-Z]{2,}/.test(t) && t === t.toUpperCase() }));
   const maxW = W * .74, lines = wrapWords(ctx, words, maxW), cx = W * .465, top = H * .63;
   ctx.translate(cx, top); ctx.scale(pop, pop);
   lines.forEach((L, i) => {
     const s = L.map(x => x.t).join(" "), wTot = ctx.measureText(s).width; let x = -wTot / 2; const y = i * fs * 1.18 + fs;
     for (const w of L) { const ww = ctx.measureText(w.t + " ").width;
-      ctx.lineWidth = 14; ctx.strokeStyle = "#000"; ctx.strokeText(w.t, x, y); ctx.fillStyle = w.cap ? "#FFD23F" : "#FFFFFF"; ctx.fillText(w.t, x, y); x += ww; }
+      ctx.lineWidth = 14; ctx.strokeStyle = "#000"; ctx.strokeText(w.t, x, y); ctx.fillStyle = w.cap ? "#FFD23F" : hati ? "#CFE6FF" : "#FFFFFF"; ctx.fillText(w.t, x, y); x += ww; }
   });
   ctx.restore();
 }
@@ -599,3 +600,19 @@ function openBook(ctx, x, y, s, blank = true) {
     for (let i = 0; i < 6; i++) line(ctx, x + side * 30 * s, y - 110 * s + i * 45 * s, x + side * 200 * s, y - 120 * s + i * 45 * s, 3 * s, "rgba(80,120,200,.35)");
     if (!blank) for (let i = 0; i < 4; i++) line(ctx, x + side * 40 * s, y - 112 * s + i * 45 * s, x + side * (120 + (i % 2) * 50) * s, y - 118 * s + i * 45 * s, 5 * s, "#2E4BB5"); }
 }
+
+// ---------- gred warna, kenangan, masa ----------
+function grade(ctx, col, a, mode = "multiply") { ctx.save(); ctx.setTransform(1, 0, 0, 1, 0, 0); ctx.globalCompositeOperation = mode; ctx.globalAlpha = a; ctx.fillStyle = col; ctx.fillRect(0, 0, W, H); ctx.restore(); }
+function motes(ctx, n, seed, t, area = [0, 0, W, H]) { const r = rng(seed); ctx.save(); for (let i = 0; i < n; i++) { const x = area[0] + (r() * area[2] + Math.sin(t * .5 + i) * 30), y = area[1] + ((r() * area[3] - t * 18 * (.5 + r())) % area[3] + area[3]) % area[3]; ctx.globalAlpha = .35 + .3 * Math.sin(t * 2 + i); ell(ctx, x, y, 3 + r() * 4, 3 + r() * 4, "#FFF4D6"); } ctx.restore(); }
+function polaroid(ctx, x, y, s, rot, fn) { ctx.save(); ctx.translate(x, y); ctx.rotate(rot); ctx.scale(s, s); ctx.shadowColor = "rgba(0,0,0,.25)"; ctx.shadowBlur = 20; rr(ctx, -150, -170, 300, 340, 8, "#FFFFFF", 5); ctx.shadowBlur = 0;
+  ctx.save(); ctx.beginPath(); ctx.rect(-125, -145, 250, 240); ctx.clip(); ctx.fillStyle = "#FFE3EC"; ctx.fillRect(-125, -145, 250, 240); fn(); ctx.restore(); ctx.strokeStyle = INK; ctx.lineWidth = 4; ctx.strokeRect(-125, -145, 250, 240); ctx.restore(); }
+function hourglass(ctx, x, y, s, k, t) { // k: 0 (penuh atas) .. 1 (habis)
+  ctx.save(); ctx.translate(x, y); ctx.scale(s, s);
+  rr(ctx, -110, -200, 220, 26, 10, "#8C6440", 6); rr(ctx, -110, 174, 220, 26, 10, "#8C6440", 6);
+  ctx.beginPath(); ctx.moveTo(-90, -174); ctx.lineTo(90, -174); ctx.lineTo(12, 0); ctx.lineTo(90, 174); ctx.lineTo(-90, 174); ctx.lineTo(-12, 0); ctx.closePath(); ctx.fillStyle = "rgba(220,240,255,.6)"; ctx.fill(); ctx.lineWidth = 7; ctx.strokeStyle = INK; ctx.stroke();
+  const top = 1 - k; poly(ctx, [[-80 * top, -10 - 150 * top], [80 * top, -10 - 150 * top], [8, -8], [-8, -8]], "#F2C46D");
+  poly(ctx, [[-85, 170], [85, 170], [60 * k + 10, 170 - 120 * k], [-60 * k - 10, 170 - 120 * k]], "#F2C46D");
+  if (k < 1) line(ctx, 0, -5, 0, 165 - 110 * k, 4 + Math.sin(t * 30), "#F2C46D"); ctx.restore(); }
+function heartCrack(ctx, x, y, s, k) { heart(ctx, x, y, s, "#FF3D6E", Math.max(3, s * .08)); if (k <= 0) return;
+  ctx.save(); ctx.lineWidth = s * .08; ctx.strokeStyle = INK; ctx.lineJoin = "round"; ctx.beginPath(); const pts = [[0, -s * .45], [-s * .12, -s * .2], [s * .1, -s * .02], [-s * .08, s * .15], [0, s * .32]];
+  ctx.moveTo(x + pts[0][0], y + pts[0][1]); for (let i = 1; i < pts.length; i++) { const kk = clamp(k * (pts.length - 1) - (i - 1)); if (kk <= 0) break; ctx.lineTo(x + lerp(pts[i - 1][0], pts[i][0], kk), y + lerp(pts[i - 1][1], pts[i][1], kk)); } ctx.stroke(); ctx.restore(); }

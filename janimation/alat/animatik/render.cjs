@@ -36,7 +36,7 @@ function draw(T) {
   ctx.save(); (SCENES[s.id] || (() => {}))(ctx, lt, d, T, env); ctx.restore();
   if (DATA.sari_kata) { // sari kata ikut masa suara sebenar
     const K = DATA.sari_kata; for (let i = 0; i < K.length; i++) { const k = K[i], end = Math.min(K[i + 1] ? K[i + 1].mula - .02 : 1e9, k.tamat + .35);
-      if (T >= k.mula - .04 && T < end) { subtitle(ctx, k.teks, 1, 1 + .08 * (1 - easeOut(prog(T, k.mula - .04, k.mula + .14)))); break; } }
+      if (T >= k.mula - .04 && T < end) { subtitle(ctx, k.teks, 1, 1 + .08 * (1 - easeOut(prog(T, k.mula - .04, k.mula + .14))), k.gaya); break; } }
   } else subtitle(ctx, s.sari_kata, 1, 1 + .08 * (1 - easeOut(prog(lt, 0, .18))));
   // peralihan bentuk hati antara babak
   const i = S.indexOf(s), nx = S[i + 1], D = .26;
